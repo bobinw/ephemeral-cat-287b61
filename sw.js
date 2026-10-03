@@ -1,6 +1,7 @@
-const CACHE='silva-reader-shell-v1';
-const ASSETS=['./','./index.html','./style.css','./app.js','./stories.json','./manifest.webmanifest','./icon.svg','./icon.png'];
+const CACHE='silva-reader-shell-v3';
+const ASSETS=['./','./index.html','./style.css','./app.js','./picture.js','./stories.json','./manifest.webmanifest','./icon.svg','./icon.png',"./books/a-tiny-seed/page-01.jpg","./books/a-tiny-seed/page-02.jpg","./books/a-tiny-seed/page-03.jpg","./books/a-tiny-seed/page-04.jpg","./books/a-tiny-seed/page-05.jpg","./books/a-tiny-seed/page-06.jpg","./books/a-tiny-seed/page-07.jpg","./books/a-tiny-seed/page-08.jpg","./books/a-tiny-seed/page-09.jpg","./books/a-tiny-seed/page-10.jpg","./books/a-tiny-seed/page-11.jpg","./books/a-tiny-seed/page-12.jpg","./books/a-tiny-seed/page-13.jpg","./books/a-tiny-seed/page-14.jpg","./books/a-tiny-seed/original.pdf"];
 self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(ASSETS)).then(()=>self.skipWaiting())));
 self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(ks=>Promise.all(ks.filter(k=>k.startsWith('silva-reader-shell-')&&k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));
 self.addEventListener('fetch',e=>{const u=new URL(e.request.url);if(e.request.method!=='GET'||u.origin!==self.location.origin)return;e.respondWith(caches.match(e.request).then(cached=>cached||fetch(e.request).catch(()=>e.request.mode==='navigate'?caches.match('./index.html'):Response.error())))});
 self.addEventListener('message',e=>{if(e.data?.type==='CHECK_OFFLINE')e.waitUntil(caches.open(CACHE).then(async c=>{const found=await Promise.all(ASSETS.map(a=>c.match(a)));e.source?.postMessage({type:found.every(Boolean)?'OFFLINE_READY':'OFFLINE_FAILED'})}))});
+
