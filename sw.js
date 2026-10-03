@@ -1,4 +1,4 @@
-const CACHE='silva-reader-shell-v8';
+const CACHE='silva-reader-shell-v9';
 const ASSETS=['./','./index.html','./style.css','./app.js','./picture.js','./stories.json','./manifest.webmanifest','./icon.svg','./icon.png',"./books/a-tiny-seed/page-01.jpg","./books/a-tiny-seed/page-02.jpg","./books/a-tiny-seed/page-03.jpg","./books/a-tiny-seed/page-04.jpg","./books/a-tiny-seed/page-05.jpg","./books/a-tiny-seed/page-06.jpg","./books/a-tiny-seed/page-07.jpg","./books/a-tiny-seed/page-08.jpg","./books/a-tiny-seed/page-09.jpg","./books/a-tiny-seed/page-10.jpg","./books/a-tiny-seed/page-11.jpg","./books/a-tiny-seed/page-12.jpg","./books/a-tiny-seed/page-13.jpg","./books/a-tiny-seed/page-14.jpg","./books/a-tiny-seed/original.pdf"];
 self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(ASSETS)).then(()=>self.skipWaiting())));
 self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(ks=>Promise.all(ks.filter(k=>k.startsWith('silva-reader-shell-')&&k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));
