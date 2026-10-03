@@ -114,7 +114,7 @@
         "src": "audio/a-tiny-seed-743e818d586a.mp3",
         "voice": "en-US-AnaNeural",
         "label": "美式童声 Ana",
-        "slowRate": 0.65
+        "slowRate": 0.8
       }
     },
     {
@@ -1136,7 +1136,7 @@
         "src": "audio/paplu-the-giant-b1940f3f312e.mp3",
         "voice": "en-US-AnaNeural",
         "label": "美式童声 Ana",
-        "slowRate": 0.65
+        "slowRate": 0.8
       }
     },
     {
@@ -2334,7 +2334,7 @@
         "src": "audio/the-elephant-bird-d5d620152b30.mp3",
         "voice": "en-US-AnaNeural",
         "label": "美式童声 Ana",
-        "slowRate": 0.65
+        "slowRate": 0.8
       }
     },
     {
@@ -2474,7 +2474,7 @@
         "src": "audio/technoblade-potato-war-206a152c0f79.mp3",
         "voice": "en-US-AnaNeural",
         "label": "美式童声 Ana",
-        "slowRate": 0.65
+        "slowRate": 0.8
       }
     },
     {
@@ -3448,7 +3448,7 @@
         "src": "audio/the-magic-powder-eaa044f7c8ce.mp3",
         "voice": "en-US-AnaNeural",
         "label": "美式童声 Ana",
-        "slowRate": 0.65
+        "slowRate": 0.8
       }
     },
     {
@@ -4658,7 +4658,7 @@
         "src": "audio/jadav-and-the-tree-place-1e621acee072.mp3",
         "voice": "en-US-AnaNeural",
         "label": "美式童声 Ana",
-        "slowRate": 0.65
+        "slowRate": 0.8
       }
     },
     {
@@ -4802,7 +4802,7 @@
         "src": "audio/philza-five-year-world-b6c05fa4101c.mp3",
         "voice": "en-US-AnaNeural",
         "label": "美式童声 Ana",
-        "slowRate": 0.65
+        "slowRate": 0.8
       }
     },
     {
@@ -5988,7 +5988,7 @@
         "src": "audio/sailing-home-f5568ec5adb0.mp3",
         "voice": "en-US-AnaNeural",
         "label": "美式童声 Ana",
-        "slowRate": 0.65
+        "slowRate": 0.8
       }
     },
     {
@@ -6124,7 +6124,7 @@
         "src": "audio/greenfield-building-a-city-3cd17348b5a2.mp3",
         "voice": "en-US-AnaNeural",
         "label": "美式童声 Ana",
-        "slowRate": 0.65
+        "slowRate": 0.8
       }
     },
     {
@@ -8286,7 +8286,7 @@
         "src": "audio/chipko-takes-root-0a38c38cecfd.mp3",
         "voice": "en-US-AnaNeural",
         "label": "美式童声 Ana",
-        "slowRate": 0.65
+        "slowRate": 0.8
       }
     }
   ],
