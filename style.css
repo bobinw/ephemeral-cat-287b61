@@ -11,3 +11,5 @@
 .record-entry{display:block;width:100%;text-align:left;margin:8px 0}.record-entry strong,.record-entry span{display:block}.record-entry span{font-size:14px;font-weight:400;line-height:1.6;margin-top:6px}.note-preview{white-space:pre-wrap}.reading-day h4{margin:18px 0 8px}.picture-mode #write-note{white-space:nowrap}@media(max-width:420px){.fit-ratio input{width:45px}.fit-heading{gap:4px}.fit-heading button{padding:4px 6px;font-size:11px}.header-actions{gap:4px}.header-actions button{padding:8px;font-size:13px}}
 
 .source-art .picture-page{position:static;width:100%;height:100%;object-fit:contain;border-radius:0}.lexile-label{color:var(--green);font-size:14px;margin:8px 0}.book-info .lexile-label{line-height:1.5}
+
+.speech-speed{border:1px solid var(--border);border-radius:10px;background:var(--paper);color:var(--green);padding:5px 6px;font:inherit;font-size:12px;min-height:30px;flex:none;max-width:75px}.picture-mode .speech-speed{font-size:12px}@media(max-width:420px){.picture-mode .speech-speed{font-size:11px;padding:4px 2px;max-width:56px}}
