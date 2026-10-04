@@ -16,3 +16,7 @@
 
 .book-synopsis{font-size:13px;color:var(--muted);line-height:1.6;margin:0 0 12px}.book-info .lexile-label{font-size:13px}
 .fit-heading button,.fit-heading .fit-ratio{flex:none;white-space:nowrap}.fit-heading strong{min-width:0;flex:1}
+
+/* English sentence rows; translations stay hidden until requested. */
+.sentence-pair+.sentence-pair{margin-top:.5em}.sentence-main{display:grid;grid-template-columns:minmax(0,1fr) auto;align-items:start;gap:10px}.sentence-actions{display:flex;gap:4px;padding-top:.12em}.sentence-actions button{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;font-size:12px;font-weight:500;min-height:30px;min-width:40px;padding:5px 4px;border-radius:7px;white-space:nowrap}.sentence-actions button[aria-pressed="true"]{background:#173e35;color:white}.sentence-zh[hidden]{display:none!important}.picture-mode .sentence-zh{margin-top:.25em;line-height:1.4}.sentence-en{min-width:0}.sentence-actions button:focus-visible{outline-offset:1px}@media(max-width:540px){.sentence-main{gap:6px}.sentence-actions{gap:3px}.sentence-actions button{font-size:11px;min-width:32px;min-height:28px;padding:4px 2px}}
+
