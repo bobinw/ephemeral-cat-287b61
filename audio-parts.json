@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "files": [
+    {
+      "path": "audio/peter-pan-retold-v2-74e7dfba542e.mp3",
+      "sha256": "74e7dfba542e4b9046dfaf3310e2cb2e7f7bcc71232499148143d4b286054511",
+      "parts": [
+        {
+          "path": "audio/peter-pan-retold-v2-74e7dfba542e.mp3.part001",
+          "sha256": "1cec1dd812f4bc455695edc2ce32823ae22b92b446e26eb82239337b318f7dd4"
+        },
+        {
+          "path": "audio/peter-pan-retold-v2-74e7dfba542e.mp3.part002",
+          "sha256": "1cec56dbe4626dfcd7fc01809fa2c2bb79cddcf2b0a05d4b6db14c69045bef6f"
+        },
+        {
+          "path": "audio/peter-pan-retold-v2-74e7dfba542e.mp3.part003",
+          "sha256": "dcbaf3cdbb9d103da08ad0b826e11323944603ad1904e2009da504efa95baccb"
+        },
+        {
+          "path": "audio/peter-pan-retold-v2-74e7dfba542e.mp3.part004",
+          "sha256": "d8cd44a0c5b4d1c5b7e720ff708251c0dcad0377cc14da6e86ee374df61e13a6"
+        },
+        {
+          "path": "audio/peter-pan-retold-v2-74e7dfba542e.mp3.part005",
+          "sha256": "c23ddf119739f977960854ac65ea3555ac86aa9af3a61c0cc03ae86b3ae719ad"
+        },
+        {
+          "path": "audio/peter-pan-retold-v2-74e7dfba542e.mp3.part006",
+          "sha256": "24c1ad57ac6102b19f952ae0210b7ee8bc006f55e1007f8702a62635ce3cf0c7"
+        },
+        {
+          "path": "audio/peter-pan-retold-v2-74e7dfba542e.mp3.part007",
+          "sha256": "cef842583f62dec50c4e69898bde13e44acecb4a897d528d8c4eb5caba69319b"
+        },
+        {
+          "path": "audio/peter-pan-retold-v2-74e7dfba542e.mp3.part008",
+          "sha256": "5e9045f7b5bc546cf66009efbc827426adb23869bdfd1e0697e3d2bb4dc50a53"
+        },
+        {
+          "path": "audio/peter-pan-retold-v2-74e7dfba542e.mp3.part009",
+          "sha256": "06f5893eaa71c7e189a412101de5c59348d2a22d41943dad2eef351a042fb0df"
+        }
+      ]
+    },
+    {
+      "path": "audio/peter-pan-retold-v2-jenny-d367c3a067e7.mp3",
+      "sha256": "d367c3a067e7cd21b88ce31e7f7e284fcb8474bd0cad28e470bf433c07306a4d",
+      "parts": [
+        {
+          "path": "audio/peter-pan-retold-v2-jenny-d367c3a067e7.mp3.part001",
+          "sha256": "b5aad270f6a60de67708a7e7a09c07c75b574b66af85718f0c79611101d20e57"
+        },
+        {
+          "path": "audio/peter-pan-retold-v2-jenny-d367c3a067e7.mp3.part002",
+          "sha256": "10504b76be6a20d752e15810b55c6ec93f7978a6baa416e32e4cb23c2580dce1"
+        },
+        {
+          "path": "audio/peter-pan-retold-v2-jenny-d367c3a067e7.mp3.part003",
+          "sha256": "447b432ef070bfd828584b9e08d515a31ed49b1e4ab0624311a0fa98151b4595"
+        },
+        {
+          "path": "audio/peter-pan-retold-v2-jenny-d367c3a067e7.mp3.part004",
+          "sha256": "cd82407bbc638f5f2254bdb1b8327e7f8061c6bfa29bd940ea6004b713d1612a"
+        },
+        {
+          "path": "audio/peter-pan-retold-v2-jenny-d367c3a067e7.mp3.part005",
+          "sha256": "ccf3a9a0d6ea9035f09ba8d6e1bceec846a1b8b05f6d704de872f0c150720147"
+        },
+        {
+          "path": "audio/peter-pan-retold-v2-jenny-d367c3a067e7.mp3.part006",
+          "sha256": "0b989887a20c140f8f9b912bb038b7381d046a242049406561cf14ef8abbdfae"
+        },
+        {
+          "path": "audio/peter-pan-retold-v2-jenny-d367c3a067e7.mp3.part007",
+          "sha256": "4358d2511cbb811128fa59175c578866359b387079fa9e0ffa72f6c94db039d3"
+        },
+        {
+          "path": "audio/peter-pan-retold-v2-jenny-d367c3a067e7.mp3.part008",
+          "sha256": "d6a88e86beef2009fe3540d839e9e9e68c45815c846a46bc0dff130ccb2a2547"
+        }
+      ]
+    }
+  ]
+}
