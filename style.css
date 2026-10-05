@@ -75,3 +75,25 @@
  .picture-mode .picture-shell{grid-template-rows:minmax(0,1fr) 46px}
  .picture-mode .reading-controls .fit-heading{height:82px}
 }
+
+/* Navigation first, all reading tools together on the second row. */
+.picture-mode .reader-top{display:grid;grid-template-columns:auto minmax(0,1fr) auto;gap:8px}
+.picture-mode .reader-top .reader-location{min-width:0;grid-column:auto}
+.picture-mode .reader-top .reader-location>span{display:none}
+.picture-mode .reader-top button{min-height:38px;padding:6px 10px;font-size:13px}
+.picture-mode .reading-controls .fit-heading{display:grid;grid-template-columns:auto minmax(0,1fr) auto auto auto;grid-template-rows:38px;height:38px;gap:6px}
+.font-controls{display:flex;gap:3px}
+.picture-mode .reading-controls .art-controls{justify-content:flex-start}
+.picture-mode .reading-controls .fit-ratio{font-size:0}
+.picture-mode .reading-controls .fit-ratio input{width:clamp(26px,8vw,90px)}
+.picture-mode .reading-controls .fit-heading button{padding:5px 7px;font-size:12px;min-height:36px}
+@media(max-width:420px){
+ .picture-mode .reader-top{gap:5px}
+ .picture-mode .reader-top button{font-size:12px;padding:5px 6px}
+ .picture-mode .reader-location select{font-size:12px;padding:5px}
+ .picture-mode .reading-controls{padding:0 0 3px}
+ .picture-mode .reading-controls .fit-heading{gap:3px}
+ .picture-mode .reading-controls .fit-heading button{font-size:11px;padding:4px}
+ .picture-mode .reading-controls .art-controls{gap:3px}
+}
+.picture-mode .reading-controls .fit-heading>#write-note,.picture-mode .reading-controls .fit-heading>#page-translation,.picture-mode .reading-controls .fit-heading>#listen-book{order:0}
