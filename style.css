@@ -99,3 +99,5 @@
 .picture-mode .reading-controls .fit-heading>#write-note,.picture-mode .reading-controls .fit-heading>#page-translation,.picture-mode .reading-controls .fit-heading>#listen-book{order:0}
 
 .header-actions{gap:8px}.header-actions button{white-space:nowrap}#speech-dialog{max-width:520px}#speech-dialog .global-speech-settings{margin:0}@media(max-width:650px){header{height:auto;min-height:90px;flex-wrap:wrap;padding:14px 18px;gap:10px}.header-actions{width:100%;justify-content:flex-end;gap:6px}.header-actions button{padding:8px 10px;font-size:13px;min-height:40px}}
+
+.reading-day{border-bottom:1px solid var(--border);padding:12px 0}.reading-day>summary{cursor:pointer;font-weight:600;padding:8px 0;color:var(--green)}.reading-day>summary span{font-size:13px;font-weight:400;color:var(--muted);margin-left:12px}
