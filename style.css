@@ -113,3 +113,5 @@
 .compact-sentences .sentence-actions{gap:2px}.compact-sentences .sentence-actions button{width:18px;height:18px;min-width:18px;min-height:18px;font-size:10px}.compact-sentences .sentence-actions svg{width:13px;height:13px}.compact-sentences .sentence-pair+.sentence-pair{margin-top:2px}
 
 .picture-mode .reading-controls .font-controls{gap:10px}.picture-mode .reading-controls .font-controls button{font-size:16px;min-width:40px;min-height:38px;padding:6px}@media(max-width:360px){.picture-mode .reading-controls .font-controls{gap:8px}.picture-mode .reading-controls .font-controls button{min-width:36px;font-size:15px}.picture-mode .reading-controls .fit-heading{gap:3px}}
+
+.header-actions{flex-wrap:wrap}.header-actions #share-site{white-space:nowrap}#share-dialog{width:min(440px,calc(100vw - 28px))}#share-link{font-size:16px}#share-dialog .dialog-actions{flex-wrap:wrap}
