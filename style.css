@@ -34,3 +34,4 @@
 
 .fit-control-group{display:inline-flex;align-items:center;gap:6px;flex:none}.fit-heading .fit-control-group>*{order:0}@media(max-width:480px){.fit-control-group{gap:4px}.fit-heading .art-controls{order:1}.fit-heading .audio-controls{order:2}.fit-heading #write-note{order:3}.fit-heading #page-translation{order:4}}
 
+.text-only-page .picture-art{display:none}.text-only-page.fit-reflow{grid-template-rows:minmax(0,1fr);grid-template-columns:minmax(0,1fr)}.text-only-page .storybook-text{grid-column:1/-1;grid-row:1/-1}
