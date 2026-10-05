@@ -65,3 +65,13 @@
 }
 
 .picture-mode #book-info-button{display:inline-flex;align-items:center;justify-content:center}
+
+/* Keep reading tools outside the book page. */
+.picture-mode .reading-controls{flex:none;padding:4px 8px;background:#f5f7f4}
+.picture-mode .picture-shell{grid-template-rows:minmax(0,1fr) 48px}
+.picture-mode .reading-controls .fit-heading{min-height:38px}
+@media(max-width:600px){
+ .picture-mode .reading-controls{padding:0 6px 4px}
+ .picture-mode .picture-shell{grid-template-rows:minmax(0,1fr) 46px}
+ .picture-mode .reading-controls .fit-heading{height:82px}
+}
