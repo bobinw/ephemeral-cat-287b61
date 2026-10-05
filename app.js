@@ -7,7 +7,7 @@ function toast(msg){$('toast').textContent=msg;$('toast').style.display='block';
 function save(){try{localStorage.setItem(KEY,JSON.stringify(state))}catch{toast('设备空间不足，记录暂时无法保存。请导出备份。')}}
 const stories=()=>[...data.stories,...state.custom];
 const pages=s=>{if(s.picturePages)return s.picturePages.map(p=>[p.text]);const out=[];for(let i=0;i<s.paragraphs.length;i+=2)out.push(s.paragraphs.slice(i,i+2));return out};
-const SENTENCE_TRANSLATE_ICON='<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><text x="3" y="11" font-size="11" font-family="Arial,sans-serif" font-weight="600" fill="currentColor">A</text><text x="11" y="21" font-size="12" font-family="sans-serif" fill="currentColor">文</text><path d="M12 5h8M19 3l2 2-2 2M4 18h5M5 16l-2 2 2 2" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+const SENTENCE_TRANSLATE_ICON='T';
 const SENTENCE_SPEAK_ICON='<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 5.5 19 12 8 18.5Z" fill="currentColor"/></svg>';
 const SENTENCE_STOP_ICON='<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="7" y="7" width="10" height="10" rx="1.5" fill="currentColor"/></svg>';
 let narrationPlayer=null,speechGeneration=0,speechClip=null,audioStopTimer=null;
