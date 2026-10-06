@@ -28,7 +28,10 @@ function fitPicturePage(){
   const target=Math.min(44,state.size+7);text.style.fontSize=target+'px';text.classList.toggle('compact-sentences',surface.clientHeight<300&&text.children.length>3);
   const fits=()=>text.scrollHeight<=text.clientHeight&&text.scrollWidth<=text.clientWidth;
   if(!surface.classList.contains('text-only-page')){
-   let low=10,high=75,best=10;
+   const translated=Array.from(text.querySelectorAll('.sentence-zh')).some(node=>!node.hidden);
+   const portrait=surface.clientHeight>surface.clientWidth;
+   const minimum=translated&&portrait?30:10;
+   let low=minimum,high=75,best=minimum;
    while(low<=high){const mid=Math.floor((low+high)/2);surface.style.setProperty('--art-share',mid+'%');if(fits()){best=mid;low=mid+1}else high=mid-1}
    surface.style.setProperty('--art-share',best+'%');
   }
