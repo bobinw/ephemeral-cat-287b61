@@ -171,6 +171,16 @@
       "licenseCheckDate": "2026-11-13",
       "verifiedLicense": "Source translation: public domain in USA per Project Gutenberg; original author and translator both died more than 100 years ago. Newly written retelling, Chinese translation and cover diagram: CC BY 4.0.",
       "notes": "英文与中文为节选改写；封面为本站原创路线示意图，正文采用纯文字分页。"
+    },
+    {
+      "id": "mysterious-island-retold",
+      "title": "The Mysterious Island",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/8993",
+      "translator": "Stephen W. White, 1876",
+      "sourceSHA256": "3a504dce134753b5453eb2a0ffbb22e0702f8aa78ae39787a70e938425495d36",
+      "licenseCheckDate": "2026-11-13",
+      "verifiedLicense": "Project Gutenberg lists this source translation as public domain in the USA. Newly written retelling, Chinese translation, guide and cover schematic: CC BY 4.0.",
+      "notes": "英文与中文为节选改写；封面为本站原创岛屿示意图，正文采用纯文字分页。"
     }
   ],
   "originalReaders": "Three AI-assisted original simple-English readers and diagrams, CC BY 4.0. Their linked factual sources retain their own rights."

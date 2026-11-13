@@ -63587,6 +63587,4014 @@
         "label": "美式童声 Ana",
         "slowRate": 0.8
       }
+    },
+    {
+      "id": "mysterious-island-retold",
+      "title": "The Mysterious Island",
+      "titleZh": "神秘岛",
+      "kind": "picture",
+      "adaptedReader": true,
+      "synopsis": "风暴把五位同伴带到陌生荒岛。他们从一根火柴和几件随身物开始，建起家园，却发现岛上不断出现无法解释的帮助。",
+      "credits": "原著：Jules Verne；依据 Stephen W. White 1876 年英文译本（Project Gutenberg #8993）节选改写。本站简明英文、中文翻译及封面示意图为新编，CC BY 4.0。非原著全文，非官方分级版本，蓝思值未测评。删减部分人物、支线及技术细节，保留主要探险、建造与悬疑情节。",
+      "creditsFile": "books/mysterious-island-retold/credits.txt",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/8993",
+      "original": "books/mysterious-island-retold/original.txt",
+      "retelling": "books/mysterious-island-retold/retelling.txt",
+      "cover": "books/mysterious-island-retold/cover.svg",
+      "edition": "原作探险版",
+      "translationNote": "18章故事＋1章读后思考；简明英文节选改写，突出探索、建造、合作与谜底的逐步展开。",
+      "shelfDifficulty": "challenge",
+      "topics": [
+        "冒险与探索",
+        "自然与环境"
+      ],
+      "illustrationNote": "英文与中文为节选改写；封面为本站原创岛屿示意图，正文采用纯文字分页。",
+      "introduction": {
+        "author": "儒勒·凡尔纳（Jules Verne），法国小说家，《海底两万里》和《地心游记》的作者。",
+        "background": "19世纪科幻冒险小说。五位同伴流落荒岛，依靠观察、材料知识和共同劳动建设家园，隐秘的线索也逐渐浮现。",
+        "synopsis": "气球失事后，他们先要寻找失踪的朋友，再解决生火、工具和住所的问题。可是，谁在他们看不见的地方行动？",
+        "sourceUrl": "https://www.gutenberg.org/ebooks/8993"
+      },
+      "picturePages": [
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "layout": "reflow",
+          "text": "The Mysterious Island.",
+          "sentences": [
+            {
+              "en": "The Mysterious Island.",
+              "zh": "神秘岛 · 原作探险版。",
+              "audioStart": 0.0555,
+              "audioEnd": 1.8978
+            }
+          ],
+          "audioStart": 0,
+          "audioEnd": 2.0178,
+          "voices": {
+            "teacher": {
+              "audioStart": 0,
+              "audioEnd": 1.7261,
+              "sentences": [
+                {
+                  "audioStart": 0.0555,
+                  "audioEnd": 1.6061
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 0,
+          "text": "Chapter 1: A Balloon in the Storm. Over the Pacific Ocean, a damaged balloon was falling towards the waves. Five travellers threw out their supplies to make it lighter, but gas still escaped through the torn cloth.",
+          "sentences": [
+            {
+              "en": "Chapter 1: A Balloon in the Storm.",
+              "zh": "第1章：风暴中的气球。",
+              "type": "chapter",
+              "audioStart": 2.7361,
+              "audioEnd": 5.7172
+            },
+            {
+              "en": "Over the Pacific Ocean, a damaged balloon was falling towards the waves.",
+              "zh": "太平洋上空，一只受损的气球正向海浪坠落。",
+              "audioStart": 6.5555,
+              "audioEnd": 12.0089
+            },
+            {
+              "en": "Five travellers threw out their supplies to make it lighter, but gas still escaped through the torn cloth.",
+              "zh": "五位旅行者把物资扔出去，试着减轻重量，可气体仍从破布中漏出。",
+              "audioStart": 12.8472,
+              "audioEnd": 20.0367
+            }
+          ],
+          "audioStart": 2.6561,
+          "audioEnd": 20.1567,
+          "voices": {
+            "teacher": {
+              "audioStart": 2.3645,
+              "audioEnd": 17.1567,
+              "sentences": [
+                {
+                  "audioStart": 2.4445,
+                  "audioEnd": 4.8422
+                },
+                {
+                  "audioStart": 5.6805,
+                  "audioEnd": 10.0505
+                },
+                {
+                  "audioStart": 10.8889,
+                  "audioEnd": 17.0367
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 0,
+          "text": "Only a few days earlier, they had escaped from Richmond during the American Civil War. The storm had carried them far beyond any route they could choose or follow. Cyrus Smith, an engineer, tried to save what remained of the balloon.",
+          "sentences": [
+            {
+              "en": "Only a few days earlier, they had escaped from Richmond during the American Civil War.",
+              "zh": "就在几天前，他们趁着美国内战中的混乱，从里士满逃了出来。",
+              "audioStart": 20.875,
+              "audioEnd": 27.12
+            },
+            {
+              "en": "The storm had carried them far beyond any route they could choose or follow.",
+              "zh": "风暴把他们带到了遥远的地方，他们既无法选择路线，也无法追踪航向。",
+              "audioStart": 27.9583,
+              "audioEnd": 33.12
+            },
+            {
+              "en": "Cyrus Smith, an engineer, tried to save what remained of the balloon.",
+              "zh": "工程师赛勒斯·史密斯设法挽救气球剩下的部分。",
+              "audioStart": 33.9583,
+              "audioEnd": 39.3283
+            }
+          ],
+          "audioStart": 20.795,
+          "audioEnd": 39.4483,
+          "voices": {
+            "teacher": {
+              "audioStart": 17.795,
+              "audioEnd": 33.3511,
+              "sentences": [
+                {
+                  "audioStart": 17.875,
+                  "audioEnd": 22.9255
+                },
+                {
+                  "audioStart": 23.7639,
+                  "audioEnd": 28.1061
+                },
+                {
+                  "audioStart": 28.9445,
+                  "audioEnd": 33.2311
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 0,
+          "text": "Gideon Spilett was a reporter, used to watching carefully even when danger was close. The sailor Pencroft worked beside Herbert, a young companion who loved plants and animals. Neb, Smith's devoted friend, was with them, and so was the dog Top.",
+          "sentences": [
+            {
+              "en": "Gideon Spilett was a reporter, used to watching carefully even when danger was close.",
+              "zh": "吉迪恩·斯皮莱是一名记者，即使危险近在眼前，也习惯仔细观察。",
+              "audioStart": 40.1667,
+              "audioEnd": 46.5089
+            },
+            {
+              "en": "The sailor Pencroft worked beside Herbert, a young companion who loved plants and animals.",
+              "zh": "水手潘克洛夫和年轻同伴赫伯特一起忙碌着；赫伯特喜爱植物和动物。",
+              "audioStart": 47.3472,
+              "audioEnd": 54.3978
+            },
+            {
+              "en": "Neb, Smith's devoted friend, was with them, and so was the dog Top.",
+              "zh": "史密斯忠实的朋友纳布也在，还有狗托普。",
+              "audioStart": 55.2361,
+              "audioEnd": 60.995
+            }
+          ],
+          "audioStart": 40.0867,
+          "audioEnd": 61.115,
+          "voices": {
+            "teacher": {
+              "audioStart": 33.9895,
+              "audioEnd": 51.5317,
+              "sentences": [
+                {
+                  "audioStart": 34.0695,
+                  "audioEnd": 39.3977
+                },
+                {
+                  "audioStart": 40.2361,
+                  "audioEnd": 45.8283
+                },
+                {
+                  "audioStart": 46.6667,
+                  "audioEnd": 51.4117
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 0,
+          "text": "When land finally appeared, they cut away the heavy basket and clung to the net above it. The balloon struck the water, rose once more, and dragged them towards a strange shore.",
+          "sentences": [
+            {
+              "en": "When land finally appeared, they cut away the heavy basket and clung to the net above it.",
+              "zh": "陆地终于出现时，他们割掉沉重的吊篮，紧紧抓住上方的网。",
+              "audioStart": 61.8333,
+              "audioEnd": 67.9811
+            },
+            {
+              "en": "The balloon struck the water, rose once more, and dragged them towards a strange shore.",
+              "zh": "气球撞上海水，又升起一次，把他们拖向一片陌生的海岸。",
+              "audioStart": 68.8195,
+              "audioEnd": 75.2311
+            }
+          ],
+          "audioStart": 61.7533,
+          "audioEnd": 75.3511,
+          "voices": {
+            "teacher": {
+              "audioStart": 52.17,
+              "audioEnd": 63.7261,
+              "sentences": [
+                {
+                  "audioStart": 52.25,
+                  "audioEnd": 57.4117
+                },
+                {
+                  "audioStart": 58.25,
+                  "audioEnd": 63.6061
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 1,
+          "text": "Chapter 2: One Friend Missing. Four men reached the land, exhausted and soaked; Smith and Top had vanished into the sea. Neb searched the waves, refusing to believe that the engineer was gone for ever.",
+          "sentences": [
+            {
+              "en": "Chapter 2: One Friend Missing.",
+              "zh": "第2章：少了一位朋友。",
+              "type": "chapter",
+              "audioStart": 76.0695,
+              "audioEnd": 78.8561
+            },
+            {
+              "en": "Four men reached the land, exhausted and soaked; Smith and Top had vanished into the sea.",
+              "zh": "四个人筋疲力尽、浑身湿透地到了岸上；史密斯和托普却消失在海里。",
+              "audioStart": 79.6945,
+              "audioEnd": 86.7172
+            },
+            {
+              "en": "Neb searched the waves, refusing to believe that the engineer was gone for ever.",
+              "zh": "纳布搜索着海面，不肯相信工程师会永远离去。",
+              "audioStart": 87.5555,
+              "audioEnd": 93.4256
+            }
+          ],
+          "audioStart": 75.9895,
+          "audioEnd": 93.5456,
+          "voices": {
+            "teacher": {
+              "audioStart": 64.3645,
+              "audioEnd": 79.0872,
+              "sentences": [
+                {
+                  "audioStart": 64.4445,
+                  "audioEnd": 66.8978
+                },
+                {
+                  "audioStart": 67.7361,
+                  "audioEnd": 73.37
+                },
+                {
+                  "audioStart": 74.2083,
+                  "audioEnd": 78.9672
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 1,
+          "text": "He had once been enslaved, and Smith had helped him gain his freedom. Now Neb stayed beside him by choice, and nothing could persuade him to stop looking. While Neb and Spilett searched, Pencroft and Herbert found shelter among hollow rocks near a river.",
+          "sentences": [
+            {
+              "en": "He had once been enslaved, and Smith had helped him gain his freedom.",
+              "zh": "他曾被迫为奴，史密斯帮助他获得了自由。",
+              "audioStart": 94.2639,
+              "audioEnd": 99.4533
+            },
+            {
+              "en": "Now Neb stayed beside him by choice, and nothing could persuade him to stop looking.",
+              "zh": "如今，纳布出于自己的意愿留在他身边，谁也劝不动他放弃寻找。",
+              "audioStart": 100.2917,
+              "audioEnd": 106.4533
+            },
+            {
+              "en": "While Neb and Spilett searched, Pencroft and Herbert found shelter among hollow rocks near a river.",
+              "zh": "纳布和斯皮莱寻找同伴时，潘克洛夫与赫伯特在河边的空心岩石间找到了庇护所。",
+              "audioStart": 107.2917,
+              "audioEnd": 114.8145
+            }
+          ],
+          "audioStart": 94.1839,
+          "audioEnd": 114.9345,
+          "voices": {
+            "teacher": {
+              "audioStart": 79.7255,
+              "audioEnd": 96.5039,
+              "sentences": [
+                {
+                  "audioStart": 79.8055,
+                  "audioEnd": 83.9395
+                },
+                {
+                  "audioStart": 84.7778,
+                  "audioEnd": 89.7867
+                },
+                {
+                  "audioStart": 90.625,
+                  "audioEnd": 96.3839
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 1,
+          "text": "They called the place the Chimneys because the narrow passages reminded them of stone chimneys. A single match, found in the lining of Spilett's clothes, gave them their first small fire. Later, Top returned alone and led them through the darkness to a distant shelter.",
+          "sentences": [
+            {
+              "en": "They called the place the Chimneys because the narrow passages reminded them of stone chimneys.",
+              "zh": "他们把这里叫作“烟囱”，因为狭窄的通道像石头烟道。",
+              "audioStart": 115.6528,
+              "audioEnd": 121.8561
+            },
+            {
+              "en": "A single match, found in the lining of Spilett's clothes, gave them their first small fire.",
+              "zh": "在斯皮莱衣服衬里找到的一根火柴，给了他们第一小堆火。",
+              "audioStart": 122.6945,
+              "audioEnd": 129.495
+            },
+            {
+              "en": "Later, Top returned alone and led them through the darkness to a distant shelter.",
+              "zh": "后来，托普独自回来了，引着他们穿过黑暗，来到远处的藏身处。",
+              "audioStart": 130.3333,
+              "audioEnd": 136.2589
+            }
+          ],
+          "audioStart": 115.5728,
+          "audioEnd": 136.3789,
+          "voices": {
+            "teacher": {
+              "audioStart": 97.1422,
+              "audioEnd": 114.4205,
+              "sentences": [
+                {
+                  "audioStart": 97.2222,
+                  "audioEnd": 102.2589
+                },
+                {
+                  "audioStart": 103.0972,
+                  "audioEnd": 108.8422
+                },
+                {
+                  "audioStart": 109.6805,
+                  "audioEnd": 114.3005
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 1,
+          "text": "There they found Smith alive, but too weak to explain how he had arrived. He remembered the water, not the journey from the sea; the island had already given them a mystery.",
+          "sentences": [
+            {
+              "en": "There they found Smith alive, but too weak to explain how he had arrived.",
+              "zh": "他们在那里找到了还活着的史密斯，可他太虚弱，无法说明自己是怎样到达的。",
+              "audioStart": 137.0972,
+              "audioEnd": 142.6617
+            },
+            {
+              "en": "He remembered the water, not the journey from the sea; the island had already given them a mystery.",
+              "zh": "他记得海水，却不记得从海里来到这里的过程；这座岛已经给了他们第一个谜。",
+              "audioStart": 143.5,
+              "audioEnd": 150.4811
+            }
+          ],
+          "audioStart": 137.0172,
+          "audioEnd": 150.6011,
+          "voices": {
+            "teacher": {
+              "audioStart": 115.0589,
+              "audioEnd": 126.3511,
+              "sentences": [
+                {
+                  "audioStart": 115.1389,
+                  "audioEnd": 119.5505
+                },
+                {
+                  "audioStart": 120.3889,
+                  "audioEnd": 126.2311
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 2,
+          "text": "Chapter 3: Borrowing Fire from the Sun. The engineer slowly recovered, while the others brought food and tried to keep him warm. But their shelter at the Chimneys had suffered in rough weather, and their precious fire was lost.",
+          "sentences": [
+            {
+              "en": "Chapter 3: Borrowing Fire from the Sun.",
+              "zh": "第3章：向太阳借火。",
+              "type": "chapter",
+              "audioStart": 151.3195,
+              "audioEnd": 154.8978
+            },
+            {
+              "en": "The engineer slowly recovered, while the others brought food and tried to keep him warm.",
+              "zh": "工程师慢慢恢复，其他人给他送来食物，设法让他保持温暖。",
+              "audioStart": 155.7361,
+              "audioEnd": 161.745
+            },
+            {
+              "en": "But their shelter at the Chimneys had suffered in rough weather, and their precious fire was lost.",
+              "zh": "可“烟囱”庇护所在恶劣天气中受了损，那堆宝贵的火也熄灭了。",
+              "audioStart": 162.5833,
+              "audioEnd": 169.1755
+            }
+          ],
+          "audioStart": 151.2395,
+          "audioEnd": 169.2955,
+          "voices": {
+            "teacher": {
+              "audioStart": 126.9895,
+              "audioEnd": 142.3511,
+              "sentences": [
+                {
+                  "audioStart": 127.0695,
+                  "audioEnd": 130.0506
+                },
+                {
+                  "audioStart": 130.8889,
+                  "audioEnd": 135.8978
+                },
+                {
+                  "audioStart": 136.7361,
+                  "audioEnd": 142.2311
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 2,
+          "text": "There were no more matches, and Pencroft found that rubbing wood was harder than telling stories about it. Smith looked at the few things they still possessed, including two watches. He used their curved glass covers with water between them to make a simple lens.",
+          "sentences": [
+            {
+              "en": "There were no more matches, and Pencroft found that rubbing wood was harder than telling stories about it.",
+              "zh": "他们再没有火柴了，而潘克洛夫发现，摩擦木头生火可比讲这种故事难多了。",
+              "audioStart": 170.0139,
+              "audioEnd": 177.1894
+            },
+            {
+              "en": "Smith looked at the few things they still possessed, including two watches.",
+              "zh": "史密斯看了看他们仅剩的东西，其中包括两只怀表。",
+              "audioStart": 178.0278,
+              "audioEnd": 183.4394
+            },
+            {
+              "en": "He used their curved glass covers with water between them to make a simple lens.",
+              "zh": "他用两只弯曲的表蒙，中间夹上水，做成一片简单的透镜。",
+              "audioStart": 184.2778,
+              "audioEnd": 190.0227
+            }
+          ],
+          "audioStart": 169.9339,
+          "audioEnd": 190.1427,
+          "voices": {
+            "teacher": {
+              "audioStart": 142.9895,
+              "audioEnd": 159.99,
+              "sentences": [
+                {
+                  "audioStart": 143.0695,
+                  "audioEnd": 149.0089
+                },
+                {
+                  "audioStart": 149.8472,
+                  "audioEnd": 154.3006
+                },
+                {
+                  "audioStart": 155.1389,
+                  "audioEnd": 159.87
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 2,
+          "text": "The lens gathered sunlight into a bright point, and at last a little smoke appeared. Pencroft had expected a miracle; instead he saw an idea put to work. It did not give them a factory, a ship, or a road home, but it gave them heat and hope.",
+          "sentences": [
+            {
+              "en": "The lens gathered sunlight into a bright point, and at last a little smoke appeared.",
+              "zh": "透镜把阳光聚成明亮的一点，终于，一缕轻烟出现了。",
+              "audioStart": 190.8611,
+              "audioEnd": 196.745
+            },
+            {
+              "en": "Pencroft had expected a miracle; instead he saw an idea put to work.",
+              "zh": "潘克洛夫原以为需要奇迹，结果却看见一个想法变成了实际办法。",
+              "audioStart": 197.5833,
+              "audioEnd": 203.3561
+            },
+            {
+              "en": "It did not give them a factory, a ship, or a road home, but it gave them heat and hope.",
+              "zh": "这没有给他们工厂、船只或回家的路，却给了他们温暖和希望。",
+              "audioStart": 204.1945,
+              "audioEnd": 210.87
+            }
+          ],
+          "audioStart": 190.7811,
+          "audioEnd": 210.99,
+          "voices": {
+            "teacher": {
+              "audioStart": 160.6283,
+              "audioEnd": 177.6706,
+              "sentences": [
+                {
+                  "audioStart": 160.7083,
+                  "audioEnd": 165.6478
+                },
+                {
+                  "audioStart": 166.4861,
+                  "audioEnd": 171.2033
+                },
+                {
+                  "audioStart": 172.0417,
+                  "audioEnd": 177.5506
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 2,
+          "text": "Smith could not make supplies appear from nowhere, yet he could help them see new uses for ordinary things. Before sleeping, they made sure the fire would be carefully watched.",
+          "sentences": [
+            {
+              "en": "Smith could not make supplies appear from nowhere, yet he could help them see new uses for ordinary things.",
+              "zh": "史密斯不能凭空变出物资，却能帮助大家发现普通东西的新用途。",
+              "audioStart": 211.7083,
+              "audioEnd": 219.4117
+            },
+            {
+              "en": "Before sleeping, they made sure the fire would be carefully watched.",
+              "zh": "睡觉前，他们安排好人，小心看守这堆火。",
+              "audioStart": 220.25,
+              "audioEnd": 225.0227
+            }
+          ],
+          "audioStart": 211.6283,
+          "audioEnd": 225.1427,
+          "voices": {
+            "teacher": {
+              "audioStart": 178.3089,
+              "audioEnd": 189.6428,
+              "sentences": [
+                {
+                  "audioStart": 178.3889,
+                  "audioEnd": 184.6895
+                },
+                {
+                  "audioStart": 185.5278,
+                  "audioEnd": 189.5228
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 3,
+          "text": "Chapter 4: An Island Beneath Their Feet. Once Smith could travel, they climbed the mountain rising above the forests. From its summit they saw sea on every side, with no mainland waiting beyond the next valley.",
+          "sentences": [
+            {
+              "en": "Chapter 4: An Island Beneath Their Feet.",
+              "zh": "第4章：脚下原来是一座岛。",
+              "type": "chapter",
+              "audioStart": 225.8611,
+              "audioEnd": 229.3145
+            },
+            {
+              "en": "Once Smith could travel, they climbed the mountain rising above the forests.",
+              "zh": "史密斯能够行走后，他们登上了高出森林的山峰。",
+              "audioStart": 230.1528,
+              "audioEnd": 235.7589
+            },
+            {
+              "en": "From its summit they saw sea on every side, with no mainland waiting beyond the next valley.",
+              "zh": "从山顶望去，四面都是海，没有哪片大陆藏在下一个山谷后面。",
+              "audioStart": 236.5972,
+              "audioEnd": 243.3561
+            }
+          ],
+          "audioStart": 225.7811,
+          "audioEnd": 243.4761,
+          "voices": {
+            "teacher": {
+              "audioStart": 190.2811,
+              "audioEnd": 205.1845,
+              "sentences": [
+                {
+                  "audioStart": 190.3611,
+                  "audioEnd": 193.3839
+                },
+                {
+                  "audioStart": 194.2222,
+                  "audioEnd": 198.6478
+                },
+                {
+                  "audioStart": 199.4861,
+                  "audioEnd": 205.0645
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 3,
+          "text": "Their new home was an island, and no ship could be seen on the horizon. They named it Lincoln Island, after the American president, and called the mountain Mount Franklin. Together they studied the coastline, the river, the lake, and the paths through the trees.",
+          "sentences": [
+            {
+              "en": "Their new home was an island, and no ship could be seen on the horizon.",
+              "zh": "他们的新家是一座岛，地平线上看不见一艘船。",
+              "audioStart": 244.1945,
+              "audioEnd": 249.495
+            },
+            {
+              "en": "They named it Lincoln Island, after the American president, and called the mountain Mount Franklin.",
+              "zh": "他们以美国总统的名字，把它命名为林肯岛，又把山叫作富兰克林山。",
+              "audioStart": 250.3333,
+              "audioEnd": 257.1755
+            },
+            {
+              "en": "Together they studied the coastline, the river, the lake, and the paths through the trees.",
+              "zh": "他们一起研究海岸、河流、湖泊，以及穿过树林的道路。",
+              "audioStart": 258.0139,
+              "audioEnd": 264.4672
+            }
+          ],
+          "audioStart": 244.1145,
+          "audioEnd": 264.5872,
+          "voices": {
+            "teacher": {
+              "audioStart": 205.8228,
+              "audioEnd": 222.6983,
+              "sentences": [
+                {
+                  "audioStart": 205.9028,
+                  "audioEnd": 210.0505
+                },
+                {
+                  "audioStart": 210.8889,
+                  "audioEnd": 216.37
+                },
+                {
+                  "audioStart": 217.2083,
+                  "audioEnd": 222.5783
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 3,
+          "text": "Herbert noticed living things; Pencroft searched for useful wood and places where a boat might land. Smith thought about distances, heights, water, and the materials hidden in the ground. Spilett wrote things down so that a useful observation would not be forgotten.",
+          "sentences": [
+            {
+              "en": "Herbert noticed living things; Pencroft searched for useful wood and places where a boat might land.",
+              "zh": "赫伯特留意生物；潘克洛夫寻找可用的木材，以及适合船只靠岸的地方。",
+              "audioStart": 265.3056,
+              "audioEnd": 272.62
+            },
+            {
+              "en": "Smith thought about distances, heights, water, and the materials hidden in the ground.",
+              "zh": "史密斯思考距离、高度、水源，以及地下藏着的材料。",
+              "audioStart": 273.4583,
+              "audioEnd": 280.0784
+            },
+            {
+              "en": "Spilett wrote things down so that a useful observation would not be forgotten.",
+              "zh": "斯皮莱把事情记下来，让有用的观察不会被忘掉。",
+              "audioStart": 280.9167,
+              "audioEnd": 286.2728
+            }
+          ],
+          "audioStart": 265.2256,
+          "audioEnd": 286.3928,
+          "voices": {
+            "teacher": {
+              "audioStart": 223.3367,
+              "audioEnd": 240.7261,
+              "sentences": [
+                {
+                  "audioStart": 223.4167,
+                  "audioEnd": 229.2033
+                },
+                {
+                  "audioStart": 230.0417,
+                  "audioEnd": 235.5089
+                },
+                {
+                  "audioStart": 236.3472,
+                  "audioEnd": 240.6061
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 3,
+          "text": "Knowing the island could not rescue them by itself, but it could help them plan their next step. They returned to the shore with a map in their minds and a clearer idea of the work ahead.",
+          "sentences": [
+            {
+              "en": "Knowing the island could not rescue them by itself, but it could help them plan their next step.",
+              "zh": "了解这座岛本身不能让他们获救，却能帮助他们计划下一步。",
+              "audioStart": 287.1111,
+              "audioEnd": 293.6756
+            },
+            {
+              "en": "They returned to the shore with a map in their minds and a clearer idea of the work ahead.",
+              "zh": "他们带着心中的地图回到海岸，也更清楚接下来需要做什么。",
+              "audioStart": 294.5139,
+              "audioEnd": 300.5089
+            }
+          ],
+          "audioStart": 287.0311,
+          "audioEnd": 300.6289,
+          "voices": {
+            "teacher": {
+              "audioStart": 241.3645,
+              "audioEnd": 252.6845,
+              "sentences": [
+                {
+                  "audioStart": 241.4445,
+                  "audioEnd": 246.9811
+                },
+                {
+                  "audioStart": 247.8195,
+                  "audioEnd": 252.5645
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 4,
+          "text": "Chapter 5: Tools Before Comfort. Pencroft wanted strong tools, warm clothes, a fine house, and a boat big enough to leave. The island offered none of these ready-made, so their first problem was where to begin.",
+          "sentences": [
+            {
+              "en": "Chapter 5: Tools Before Comfort.",
+              "zh": "第5章：先造工具，再谈舒适。",
+              "type": "chapter",
+              "audioStart": 301.3472,
+              "audioEnd": 304.495
+            },
+            {
+              "en": "Pencroft wanted strong tools, warm clothes, a fine house, and a boat big enough to leave.",
+              "zh": "潘克洛夫想要结实的工具、暖和的衣服、好房子，以及一艘足以离岛的船。",
+              "audioStart": 305.3333,
+              "audioEnd": 312.9395
+            },
+            {
+              "en": "The island offered none of these ready-made, so their first problem was where to begin.",
+              "zh": "岛上没有哪一样现成的东西，因此，他们的第一个问题是从哪里开始。",
+              "audioStart": 313.7778,
+              "audioEnd": 319.5783
+            }
+          ],
+          "audioStart": 301.2672,
+          "audioEnd": 319.6983,
+          "voices": {
+            "teacher": {
+              "audioStart": 253.3228,
+              "audioEnd": 268.6567,
+              "sentences": [
+                {
+                  "audioStart": 253.4028,
+                  "audioEnd": 256.0783
+                },
+                {
+                  "audioStart": 256.9167,
+                  "audioEnd": 262.9117
+                },
+                {
+                  "audioStart": 263.75,
+                  "audioEnd": 268.5367
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 4,
+          "text": "Smith chose small beginnings: clay, stone, wood, and the heat of their fire. They shaped clay into bricks and pots, then learned how to make them useful through firing. A cooking pot changed their meals, because food could now be boiled instead of only roasted.",
+          "sentences": [
+            {
+              "en": "Smith chose small beginnings: clay, stone, wood, and the heat of their fire.",
+              "zh": "史密斯选择从小事开始：黏土、石头、木材，还有炉火的热量。",
+              "audioStart": 320.4167,
+              "audioEnd": 327.1756
+            },
+            {
+              "en": "They shaped clay into bricks and pots, then learned how to make them useful through firing.",
+              "zh": "他们把黏土做成砖块和陶罐，再学习怎样通过烧制让它们派上用场。",
+              "audioStart": 328.0139,
+              "audioEnd": 334.3978
+            },
+            {
+              "en": "A cooking pot changed their meals, because food could now be boiled instead of only roasted.",
+              "zh": "一只陶锅改变了他们的饭菜，因为食物除了烤，还可以煮了。",
+              "audioStart": 335.2361,
+              "audioEnd": 343.1617
+            }
+          ],
+          "audioStart": 320.3367,
+          "audioEnd": 343.2817,
+          "voices": {
+            "teacher": {
+              "audioStart": 269.295,
+              "audioEnd": 288.3511,
+              "sentences": [
+                {
+                  "audioStart": 269.375,
+                  "audioEnd": 274.7867
+                },
+                {
+                  "audioStart": 275.625,
+                  "audioEnd": 280.5783
+                },
+                {
+                  "audioStart": 281.4167,
+                  "audioEnd": 288.2311
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 4,
+          "text": "Later, they worked iron from material found on the island and made stronger tools. Each new tool helped make the next task possible; progress came in a chain, not in one great leap. Neb kept food ready, Herbert gathered knowledge, and the others shared the heavy work.",
+          "sentences": [
+            {
+              "en": "Later, they worked iron from material found on the island and made stronger tools.",
+              "zh": "后来，他们从岛上的材料中炼出铁，做成更结实的工具。",
+              "audioStart": 344.0,
+              "audioEnd": 350.1895
+            },
+            {
+              "en": "Each new tool helped make the next task possible; progress came in a chain, not in one great leap.",
+              "zh": "每一件新工具，都让下一项工作成为可能；进步是环环相扣的，不是一步登天。",
+              "audioStart": 351.025,
+              "audioEnd": 358.52
+            },
+            {
+              "en": "Neb kept food ready, Herbert gathered knowledge, and the others shared the heavy work.",
+              "zh": "纳布准备食物，赫伯特积累知识，其他人一起承担繁重的劳动。",
+              "audioStart": 359.3612,
+              "audioEnd": 365.5784
+            }
+          ],
+          "audioStart": 343.92,
+          "audioEnd": 365.6984,
+          "voices": {
+            "teacher": {
+              "audioStart": 288.9895,
+              "audioEnd": 307.5595,
+              "sentences": [
+                {
+                  "audioStart": 289.0695,
+                  "audioEnd": 294.1617
+                },
+                {
+                  "audioStart": 295.0,
+                  "audioEnd": 301.4672
+                },
+                {
+                  "audioStart": 302.3056,
+                  "audioEnd": 307.4395
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 4,
+          "text": "Their hands became sore, and many plans needed time before they produced anything useful. The island was becoming familiar, but it was their work together that made it more like a home.",
+          "sentences": [
+            {
+              "en": "Their hands became sore, and many plans needed time before they produced anything useful.",
+              "zh": "他们的手磨疼了，许多计划也要花上一段时间，才能产生有用的成果。",
+              "audioStart": 366.4167,
+              "audioEnd": 373.0089
+            },
+            {
+              "en": "The island was becoming familiar, but it was their work together that made it more like a home.",
+              "zh": "这座岛渐渐变得熟悉，而让它越来越像家的，是他们共同的劳动。",
+              "audioStart": 373.8472,
+              "audioEnd": 380.0784
+            }
+          ],
+          "audioStart": 366.3367,
+          "audioEnd": 380.1984,
+          "voices": {
+            "teacher": {
+              "audioStart": 308.1978,
+              "audioEnd": 320.2817,
+              "sentences": [
+                {
+                  "audioStart": 308.2778,
+                  "audioEnd": 313.9117
+                },
+                {
+                  "audioStart": 314.75,
+                  "audioEnd": 320.1617
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 5,
+          "text": "Chapter 6: A House Inside the Cliff. The Chimneys could shelter them for a while, but wind and waves could still threaten it. Smith suspected that the lake above the shore drained through a hidden passage inside the rock.",
+          "sentences": [
+            {
+              "en": "Chapter 6: A House Inside the Cliff.",
+              "zh": "第6章：悬崖里面的房子。",
+              "type": "chapter",
+              "audioStart": 380.9167,
+              "audioEnd": 384.245
+            },
+            {
+              "en": "The Chimneys could shelter them for a while, but wind and waves could still threaten it.",
+              "zh": "“烟囱”可以暂时遮风，可风浪仍会威胁这里。",
+              "audioStart": 385.0834,
+              "audioEnd": 391.245
+            },
+            {
+              "en": "Smith suspected that the lake above the shore drained through a hidden passage inside the rock.",
+              "zh": "史密斯猜想，岸边高处的湖水，是通过岩石内部的一条隐秘通道流走的。",
+              "audioStart": 392.0834,
+              "audioEnd": 398.3561
+            }
+          ],
+          "audioStart": 380.8367,
+          "audioEnd": 398.4761,
+          "voices": {
+            "teacher": {
+              "audioStart": 320.92,
+              "audioEnd": 335.5317,
+              "sentences": [
+                {
+                  "audioStart": 321.0,
+                  "audioEnd": 323.8145
+                },
+                {
+                  "audioStart": 324.6528,
+                  "audioEnd": 329.6339
+                },
+                {
+                  "audioStart": 330.4722,
+                  "audioEnd": 335.4117
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 5,
+          "text": "After they changed the water's course, a great hollow space became accessible inside the granite cliff. They explored it carefully and found enough room for a much safer home. High above the beach, they made openings for light and reached the entrance by a long ladder.",
+          "sentences": [
+            {
+              "en": "After they changed the water's course, a great hollow space became accessible inside the granite cliff.",
+              "zh": "他们改变水流方向后，花岗岩悬崖内部的一大片空洞露了出来。",
+              "audioStart": 399.1945,
+              "audioEnd": 406.6756
+            },
+            {
+              "en": "They explored it carefully and found enough room for a much safer home.",
+              "zh": "他们小心探索，发现这里有足够空间，可以建成安全得多的家。",
+              "audioStart": 407.5139,
+              "audioEnd": 412.5784
+            },
+            {
+              "en": "High above the beach, they made openings for light and reached the entrance by a long ladder.",
+              "zh": "在高出海滩的地方，他们开出采光口，再用长梯通往入口。",
+              "audioStart": 413.4167,
+              "audioEnd": 419.8839
+            }
+          ],
+          "audioStart": 399.1145,
+          "audioEnd": 420.0039,
+          "voices": {
+            "teacher": {
+              "audioStart": 336.17,
+              "audioEnd": 353.6706,
+              "sentences": [
+                {
+                  "audioStart": 336.25,
+                  "audioEnd": 342.6061
+                },
+                {
+                  "audioStart": 343.4445,
+                  "audioEnd": 347.4533
+                },
+                {
+                  "audioStart": 348.2917,
+                  "audioEnd": 353.5506
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 5,
+          "text": "They called the place Granite House, and divided its space into rooms for different uses. Pencroft admired the height because enemies could not simply walk through the door. Neb liked having room to cook, while Herbert found endless things to observe beyond the windows.",
+          "sentences": [
+            {
+              "en": "They called the place Granite House, and divided its space into rooms for different uses.",
+              "zh": "他们把这里叫作花岗岩宫，再把内部空间分成不同用途的房间。",
+              "audioStart": 420.7222,
+              "audioEnd": 427.12
+            },
+            {
+              "en": "Pencroft admired the height because enemies could not simply walk through the door.",
+              "zh": "潘克洛夫很满意这里的高度，因为敌人没法直接从门口走进来。",
+              "audioStart": 427.9584,
+              "audioEnd": 433.495
+            },
+            {
+              "en": "Neb liked having room to cook, while Herbert found endless things to observe beyond the windows.",
+              "zh": "纳布喜欢宽敞的做饭空间，而赫伯特发现窗外有看不完的东西。",
+              "audioStart": 434.3334,
+              "audioEnd": 441.2172
+            }
+          ],
+          "audioStart": 420.6422,
+          "audioEnd": 441.3372,
+          "voices": {
+            "teacher": {
+              "audioStart": 354.3089,
+              "audioEnd": 371.7539,
+              "sentences": [
+                {
+                  "audioStart": 354.3889,
+                  "audioEnd": 359.7172
+                },
+                {
+                  "audioStart": 360.5556,
+                  "audioEnd": 365.1061
+                },
+                {
+                  "audioStart": 365.9445,
+                  "audioEnd": 371.6339
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 5,
+          "text": "When Top barked near a deep well inside the house, however, nobody could explain what troubled him. Even after they had built walls around their lives, there were places on the island they did not understand.",
+          "sentences": [
+            {
+              "en": "When Top barked near a deep well inside the house, however, nobody could explain what troubled him.",
+              "zh": "可是，每当托普对着屋内一口深井吠叫，谁也无法解释是什么让它不安。",
+              "audioStart": 442.0556,
+              "audioEnd": 449.4672
+            },
+            {
+              "en": "Even after they had built walls around their lives, there were places on the island they did not understand.",
+              "zh": "即使他们为生活筑起了屏障，岛上仍有他们不理解的地方。",
+              "audioStart": 450.3056,
+              "audioEnd": 457.5506
+            }
+          ],
+          "audioStart": 441.9756,
+          "audioEnd": 457.6706,
+          "voices": {
+            "teacher": {
+              "audioStart": 372.3922,
+              "audioEnd": 385.5456,
+              "sentences": [
+                {
+                  "audioStart": 372.4722,
+                  "audioEnd": 378.5645
+                },
+                {
+                  "audioStart": 379.4028,
+                  "audioEnd": 385.4256
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 6,
+          "text": "Chapter 7: A Fortune in One Grain. One day Herbert found a single grain of wheat caught in his clothing. He almost treated it as something too small to matter, but Smith saw a beginning.",
+          "sentences": [
+            {
+              "en": "Chapter 7: A Fortune in One Grain.",
+              "zh": "第7章：一粒麦子里的财富。",
+              "type": "chapter",
+              "audioStart": 458.3889,
+              "audioEnd": 461.87
+            },
+            {
+              "en": "One day Herbert found a single grain of wheat caught in his clothing.",
+              "zh": "一天，赫伯特在衣服里发现了一粒小麦。",
+              "audioStart": 462.7084,
+              "audioEnd": 467.6617
+            },
+            {
+              "en": "He almost treated it as something too small to matter, but Smith saw a beginning.",
+              "zh": "他差点以为这小东西无关紧要，史密斯却从中看到了一个开端。",
+              "audioStart": 468.5,
+              "audioEnd": 474.2589
+            }
+          ],
+          "audioStart": 458.3089,
+          "audioEnd": 474.3789,
+          "voices": {
+            "teacher": {
+              "audioStart": 386.1839,
+              "audioEnd": 399.4345,
+              "sentences": [
+                {
+                  "audioStart": 386.2639,
+                  "audioEnd": 388.9811
+                },
+                {
+                  "audioStart": 389.8195,
+                  "audioEnd": 393.6895
+                },
+                {
+                  "audioStart": 394.5278,
+                  "audioEnd": 399.3145
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 6,
+          "text": "One seed could produce a plant, and that plant could give them seeds for another harvest. The others imagined bread at once; the engineer reminded them that the first harvest must be saved for planting. They prepared a small patch of ground and protected the precious seed with great care.",
+          "sentences": [
+            {
+              "en": "One seed could produce a plant, and that plant could give them seeds for another harvest.",
+              "zh": "一粒种子能长出一株植物，这株植物又能给他们下一次收获所需的种子。",
+              "audioStart": 475.0972,
+              "audioEnd": 481.509
+            },
+            {
+              "en": "The others imagined bread at once; the engineer reminded them that the first harvest must be saved for planting.",
+              "zh": "其他人立刻想到了面包；工程师提醒他们，第一批收成必须留作播种。",
+              "audioStart": 482.3472,
+              "audioEnd": 490.4673
+            },
+            {
+              "en": "They prepared a small patch of ground and protected the precious seed with great care.",
+              "zh": "他们准备了一小块土地，极其小心地保护这粒宝贵的种子。",
+              "audioStart": 491.3056,
+              "audioEnd": 497.0506
+            }
+          ],
+          "audioStart": 475.0172,
+          "audioEnd": 497.1706,
+          "voices": {
+            "teacher": {
+              "audioStart": 400.0728,
+              "audioEnd": 418.7261,
+              "sentences": [
+                {
+                  "audioStart": 400.1528,
+                  "audioEnd": 405.4255
+                },
+                {
+                  "audioStart": 406.2639,
+                  "audioEnd": 413.0645
+                },
+                {
+                  "audioStart": 413.9028,
+                  "audioEnd": 418.6061
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 6,
+          "text": "It required rain, sunlight, soil, and patience, none of which could be replaced by wanting bread badly. As their fields grew, they also kept animals and stored food against the colder season. No single person could watch every crop, mend every tool, and find every meal.",
+          "sentences": [
+            {
+              "en": "It required rain, sunlight, soil, and patience, none of which could be replaced by wanting bread badly.",
+              "zh": "它需要雨水、阳光、土壤和耐心，而急切地想吃面包，不能代替其中任何一样。",
+              "audioStart": 497.8889,
+              "audioEnd": 506.37
+            },
+            {
+              "en": "As their fields grew, they also kept animals and stored food against the colder season.",
+              "zh": "随着田地扩大，他们也饲养动物，储存食物，准备迎接寒冷的季节。",
+              "audioStart": 507.2084,
+              "audioEnd": 513.7728
+            },
+            {
+              "en": "No single person could watch every crop, mend every tool, and find every meal.",
+              "zh": "没有谁能独自照料每一片庄稼、修好每一件工具，再找齐每一餐食物。",
+              "audioStart": 514.6112,
+              "audioEnd": 521.0784
+            }
+          ],
+          "audioStart": 497.8089,
+          "audioEnd": 521.1984,
+          "voices": {
+            "teacher": {
+              "audioStart": 419.3645,
+              "audioEnd": 438.8372,
+              "sentences": [
+                {
+                  "audioStart": 419.4445,
+                  "audioEnd": 426.4533
+                },
+                {
+                  "audioStart": 427.2917,
+                  "audioEnd": 432.6061
+                },
+                {
+                  "audioStart": 433.4445,
+                  "audioEnd": 438.7172
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 6,
+          "text": "Their small community worked because each person accepted jobs that the others depended on. A grain that could disappear between two fingers had changed what they expected from the future.",
+          "sentences": [
+            {
+              "en": "Their small community worked because each person accepted jobs that the others depended on.",
+              "zh": "他们的小小群体能够运转，是因为每个人都承担起别人所依赖的工作。",
+              "audioStart": 521.9167,
+              "audioEnd": 528.1617
+            },
+            {
+              "en": "A grain that could disappear between two fingers had changed what they expected from the future.",
+              "zh": "一粒能从两指间漏掉的麦子，改变了他们对未来的期待。",
+              "audioStart": 529.0,
+              "audioEnd": 535.4534
+            }
+          ],
+          "audioStart": 521.8367,
+          "audioEnd": 535.5734,
+          "voices": {
+            "teacher": {
+              "audioStart": 439.4756,
+              "audioEnd": 451.1845,
+              "sentences": [
+                {
+                  "audioStart": 439.5556,
+                  "audioEnd": 444.8561
+                },
+                {
+                  "audioStart": 445.6945,
+                  "audioEnd": 451.0645
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 7,
+          "text": "Chapter 8: A Bullet and a Box. During a meal, Pencroft bit into something hard and found a small bullet in the meat. The animal had survived an old wound before being caught, but who had fired the shot?",
+          "sentences": [
+            {
+              "en": "Chapter 8: A Bullet and a Box.",
+              "zh": "第8章：子弹与木箱。",
+              "type": "chapter",
+              "audioStart": 536.2917,
+              "audioEnd": 539.3562
+            },
+            {
+              "en": "During a meal, Pencroft bit into something hard and found a small bullet in the meat.",
+              "zh": "一次吃饭时，潘克洛夫咬到了硬东西，在肉里发现一颗小子弹。",
+              "audioStart": 540.1945,
+              "audioEnd": 546.1895
+            },
+            {
+              "en": "The animal had survived an old wound before being caught, but who had fired the shot?",
+              "zh": "这只动物曾经中弹，却活到被他们捕获；可当初是谁开的枪？",
+              "audioStart": 547.0278,
+              "audioEnd": 552.9534
+            }
+          ],
+          "audioStart": 536.2117,
+          "audioEnd": 553.0734,
+          "voices": {
+            "teacher": {
+              "audioStart": 451.8228,
+              "audioEnd": 466.3234,
+              "sentences": [
+                {
+                  "audioStart": 451.9028,
+                  "audioEnd": 454.4395
+                },
+                {
+                  "audioStart": 455.2778,
+                  "audioEnd": 460.37
+                },
+                {
+                  "audioStart": 461.2083,
+                  "audioEnd": 466.2034
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 7,
+          "text": "The settlers had arrived without guns, and their searches had revealed no other home. Smith refused to turn one strange fact into an answer larger than the evidence. They searched more carefully, and later a large box was discovered near the coast.",
+          "sentences": [
+            {
+              "en": "The settlers had arrived without guns, and their searches had revealed no other home.",
+              "zh": "他们来时没有带枪，搜寻中也没有发现别人的住所。",
+              "audioStart": 553.7917,
+              "audioEnd": 559.7728
+            },
+            {
+              "en": "Smith refused to turn one strange fact into an answer larger than the evidence.",
+              "zh": "史密斯不愿仅凭一件怪事，就得出超出证据所能支持的结论。",
+              "audioStart": 560.6112,
+              "audioEnd": 566.5228
+            },
+            {
+              "en": "They searched more carefully, and later a large box was discovered near the coast.",
+              "zh": "他们更加仔细地搜寻，后来又在海岸附近发现了一只大箱子。",
+              "audioStart": 567.3612,
+              "audioEnd": 573.3839
+            }
+          ],
+          "audioStart": 553.7117,
+          "audioEnd": 573.5039,
+          "voices": {
+            "teacher": {
+              "audioStart": 466.9617,
+              "audioEnd": 483.6011,
+              "sentences": [
+                {
+                  "audioStart": 467.0417,
+                  "audioEnd": 471.9672
+                },
+                {
+                  "audioStart": 472.8056,
+                  "audioEnd": 477.62
+                },
+                {
+                  "audioStart": 478.4583,
+                  "audioEnd": 483.4811
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 7,
+          "text": "Inside were tools, weapons, books, clothes, and other supplies that seemed wonderfully suited to their needs. The gift made life easier, yet it made the island's silence harder to understand. Was it cargo from a wreck, a message from a stranger, or help placed where they would find it?",
+          "sentences": [
+            {
+              "en": "Inside were tools, weapons, books, clothes, and other supplies that seemed wonderfully suited to their needs.",
+              "zh": "箱子里有工具、武器、书籍、衣物和其他物资，竟然十分符合他们的需要。",
+              "audioStart": 574.2222,
+              "audioEnd": 583.1617
+            },
+            {
+              "en": "The gift made life easier, yet it made the island's silence harder to understand.",
+              "zh": "这份礼物让生活更容易，却也让岛上的寂静更难解释。",
+              "audioStart": 584.0,
+              "audioEnd": 590.0645
+            },
+            {
+              "en": "Was it cargo from a wreck, a message from a stranger, or help placed where they would find it?",
+              "zh": "它是沉船的货物、陌生人留下的信号，还是有人故意放在他们能发现的地方的帮助？",
+              "audioStart": 590.9028,
+              "audioEnd": 597.4534
+            }
+          ],
+          "audioStart": 574.1422,
+          "audioEnd": 597.5734,
+          "voices": {
+            "teacher": {
+              "audioStart": 484.2395,
+              "audioEnd": 503.5733,
+              "sentences": [
+                {
+                  "audioStart": 484.3195,
+                  "audioEnd": 491.6617
+                },
+                {
+                  "audioStart": 492.5,
+                  "audioEnd": 497.37
+                },
+                {
+                  "audioStart": 498.2083,
+                  "audioEnd": 503.4533
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 7,
+          "text": "The engineer kept the questions open instead of calling the matter solved. They had learned to make many things for themselves, but some things clearly came from beyond their own work.",
+          "sentences": [
+            {
+              "en": "The engineer kept the questions open instead of calling the matter solved.",
+              "zh": "工程师保留着这些问题，没有宣布事情已经解决。",
+              "audioStart": 598.3056,
+              "audioEnd": 603.3839
+            },
+            {
+              "en": "They had learned to make many things for themselves, but some things clearly came from beyond their own work.",
+              "zh": "他们已经学会自己制造许多东西，可有些东西，显然并非来自他们自己的劳动。",
+              "audioStart": 604.2223,
+              "audioEnd": 611.5922
+            }
+          ],
+          "audioStart": 598.2256,
+          "audioEnd": 611.7122,
+          "voices": {
+            "teacher": {
+              "audioStart": 504.2117,
+              "audioEnd": 515.6428,
+              "sentences": [
+                {
+                  "audioStart": 504.2917,
+                  "audioEnd": 508.6061
+                },
+                {
+                  "audioStart": 509.4445,
+                  "audioEnd": 515.5228
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 8,
+          "text": "Chapter 9: A Message Across the Sea. With better tools, Pencroft helped build a small sailing boat, which they called the Bonadventure. A boat opened a new path along the coast and towards places hidden beyond their usual view.",
+          "sentences": [
+            {
+              "en": "Chapter 9: A Message Across the Sea.",
+              "zh": "第9章：来自海上的消息。",
+              "type": "chapter",
+              "audioStart": 612.4306,
+              "audioEnd": 615.5784
+            },
+            {
+              "en": "With better tools, Pencroft helped build a small sailing boat, which they called the Bonadventure.",
+              "zh": "有了更好的工具，潘克洛夫参与造出一艘小帆船，取名“乘风破浪号”。",
+              "audioStart": 616.4167,
+              "audioEnd": 623.62
+            },
+            {
+              "en": "A boat opened a new path along the coast and towards places hidden beyond their usual view.",
+              "zh": "船为他们打开了沿海岸航行的新路，也让他们能接近平日视线之外的地方。",
+              "audioStart": 624.4584,
+              "audioEnd": 630.9256
+            }
+          ],
+          "audioStart": 612.3506,
+          "audioEnd": 631.0456,
+          "voices": {
+            "teacher": {
+              "audioStart": 516.2811,
+              "audioEnd": 531.8233,
+              "sentences": [
+                {
+                  "audioStart": 516.3611,
+                  "audioEnd": 519.0783
+                },
+                {
+                  "audioStart": 519.9167,
+                  "audioEnd": 525.745
+                },
+                {
+                  "audioStart": 526.5833,
+                  "audioEnd": 531.7033
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 8,
+          "text": "Then a bottle brought them words from another island: a person needed help on Tabor Island. It was a difficult choice, because leaving Lincoln Island meant crossing water in a very small vessel. They checked the boat and supplies before Pencroft, Herbert, and Spilett set out.",
+          "sentences": [
+            {
+              "en": "Then a bottle brought them words from another island: a person needed help on Tabor Island.",
+              "zh": "随后，一个瓶子带来了另一座岛的消息：塔博尔岛上有人需要帮助。",
+              "audioStart": 631.764,
+              "audioEnd": 638.3006
+            },
+            {
+              "en": "It was a difficult choice, because leaving Lincoln Island meant crossing water in a very small vessel.",
+              "zh": "这个选择并不容易，因为离开林肯岛，就意味着乘小船横渡海面。",
+              "audioStart": 639.139,
+              "audioEnd": 646.5367
+            },
+            {
+              "en": "They checked the boat and supplies before Pencroft, Herbert, and Spilett set out.",
+              "zh": "他们检查好船和物资，潘克洛夫、赫伯特与斯皮莱才动身出发。",
+              "audioStart": 647.375,
+              "audioEnd": 653.634
+            }
+          ],
+          "audioStart": 631.684,
+          "audioEnd": 653.754,
+          "voices": {
+            "teacher": {
+              "audioStart": 532.4617,
+              "audioEnd": 550.5872,
+              "sentences": [
+                {
+                  "audioStart": 532.5417,
+                  "audioEnd": 537.6756
+                },
+                {
+                  "audioStart": 538.5139,
+                  "audioEnd": 544.6061
+                },
+                {
+                  "audioStart": 545.4445,
+                  "audioEnd": 550.4672
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 8,
+          "text": "On Tabor they found signs of an abandoned home, then a lonely man who scarcely seemed able to speak. Years without human company had deeply changed his life and behaviour. The travellers brought him back, choosing to help someone they did not yet understand.",
+          "sentences": [
+            {
+              "en": "On Tabor they found signs of an abandoned home, then a lonely man who scarcely seemed able to speak.",
+              "zh": "在塔博尔岛，他们发现了废弃住所的痕迹，随后找到一个几乎已经不会说话的孤独男人。",
+              "audioStart": 654.4723,
+              "audioEnd": 661.8978
+            },
+            {
+              "en": "Years without human company had deeply changed his life and behaviour.",
+              "zh": "多年没有人类同伴的生活，深深改变了他的状态与行为。",
+              "audioStart": 662.7362,
+              "audioEnd": 667.8423
+            },
+            {
+              "en": "The travellers brought him back, choosing to help someone they did not yet understand.",
+              "zh": "旅行者们把他带了回去，决定先帮助这个他们还不理解的人。",
+              "audioStart": 668.6806,
+              "audioEnd": 674.4256
+            }
+          ],
+          "audioStart": 654.3923,
+          "audioEnd": 674.5456,
+          "voices": {
+            "teacher": {
+              "audioStart": 551.2256,
+              "audioEnd": 567.9067,
+              "sentences": [
+                {
+                  "audioStart": 551.3056,
+                  "audioEnd": 557.3422
+                },
+                {
+                  "audioStart": 558.1806,
+                  "audioEnd": 562.3562
+                },
+                {
+                  "audioStart": 563.1945,
+                  "audioEnd": 567.7867
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 8,
+          "text": "On the difficult return voyage, a light helped guide them towards Lincoln Island. Later, another question joined the others: who had made that light shine at the right moment?",
+          "sentences": [
+            {
+              "en": "On the difficult return voyage, a light helped guide them towards Lincoln Island.",
+              "zh": "在艰难的返航中，一束光帮助他们朝林肯岛驶去。",
+              "audioStart": 675.264,
+              "audioEnd": 682.2173
+            },
+            {
+              "en": "Later, another question joined the others: who had made that light shine at the right moment?",
+              "zh": "后来，又一个问题加入了谜团：是谁在恰当的时刻，让那束光亮了起来？",
+              "audioStart": 683.0556,
+              "audioEnd": 689.509
+            }
+          ],
+          "audioStart": 675.184,
+          "audioEnd": 689.629,
+          "voices": {
+            "teacher": {
+              "audioStart": 568.545,
+              "audioEnd": 580.6984,
+              "sentences": [
+                {
+                  "audioStart": 568.625,
+                  "audioEnd": 574.4117
+                },
+                {
+                  "audioStart": 575.25,
+                  "audioEnd": 580.5784
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 9,
+          "text": "Chapter 10: Ayrton's Second Chance. The rescued man slowly regained his speech and told them that his name was Ayrton. He had once helped criminals and betrayed people who had trusted him.",
+          "sentences": [
+            {
+              "en": "Chapter 10: Ayrton's Second Chance.",
+              "zh": "第10章：艾尔通的第二次机会。",
+              "type": "chapter",
+              "audioStart": 690.3473,
+              "audioEnd": 693.4257
+            },
+            {
+              "en": "The rescued man slowly regained his speech and told them that his name was Ayrton.",
+              "zh": "被救回的男人慢慢恢复了说话的能力，告诉大家，他叫艾尔通。",
+              "audioStart": 694.264,
+              "audioEnd": 700.0645
+            },
+            {
+              "en": "He had once helped criminals and betrayed people who had trusted him.",
+              "zh": "他曾经帮助罪犯，背叛过信任自己的人。",
+              "audioStart": 700.9029,
+              "audioEnd": 705.7173
+            }
+          ],
+          "audioStart": 690.2673,
+          "audioEnd": 705.8373,
+          "voices": {
+            "teacher": {
+              "audioStart": 581.3367,
+              "audioEnd": 594.3373,
+              "sentences": [
+                {
+                  "audioStart": 581.4167,
+                  "audioEnd": 584.0367
+                },
+                {
+                  "audioStart": 584.875,
+                  "audioEnd": 589.5228
+                },
+                {
+                  "audioStart": 590.3612,
+                  "audioEnd": 594.2173
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 9,
+          "text": "For those actions he had been left on Tabor Island, where a ship called the Duncan might one day return for him. Ayrton expected judgement, and at first he found it difficult even to sit beside the others. Smith and his companions did not pretend the past had never happened, but they offered him work and a place among them.",
+          "sentences": [
+            {
+              "en": "For those actions he had been left on Tabor Island, where a ship called the Duncan might one day return for him.",
+              "zh": "因为那些行为，他被留在了塔博尔岛，一艘叫“邓肯号”的船可能有一天会回来接他。",
+              "audioStart": 706.5556,
+              "audioEnd": 714.2729
+            },
+            {
+              "en": "Ayrton expected judgement, and at first he found it difficult even to sit beside the others.",
+              "zh": "艾尔通以为自己会受到审判，最初，他甚至难以在别人身边坐下。",
+              "audioStart": 715.1112,
+              "audioEnd": 721.8701
+            },
+            {
+              "en": "Smith and his companions did not pretend the past had never happened, but they offered him work and a place among them.",
+              "zh": "史密斯和同伴没有假装过去从未发生，却给了他工作，也让他在他们中间拥有一个位置。",
+              "audioStart": 722.7084,
+              "audioEnd": 730.6756
+            }
+          ],
+          "audioStart": 706.4756,
+          "audioEnd": 730.7956,
+          "voices": {
+            "teacher": {
+              "audioStart": 594.9756,
+              "audioEnd": 615.6984,
+              "sentences": [
+                {
+                  "audioStart": 595.0556,
+                  "audioEnd": 601.5089
+                },
+                {
+                  "audioStart": 602.3472,
+                  "audioEnd": 607.8562
+                },
+                {
+                  "audioStart": 608.6945,
+                  "audioEnd": 615.5784
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 9,
+          "text": "They allowed trust to grow through what he did each day, rather than demanding a perfect speech. Ayrton cared for the animals at a separate enclosure and helped with the island's work. Yet he said he had not written the message found in the bottle.",
+          "sentences": [
+            {
+              "en": "They allowed trust to grow through what he did each day, rather than demanding a perfect speech.",
+              "zh": "他们让信任通过他每天的行动逐渐建立，而不是要求他说一番完美的话。",
+              "audioStart": 731.514,
+              "audioEnd": 737.9673
+            },
+            {
+              "en": "Ayrton cared for the animals at a separate enclosure and helped with the island's work.",
+              "zh": "艾尔通在一处独立的畜栏照料动物，也帮助大家在岛上干活。",
+              "audioStart": 738.8056,
+              "audioEnd": 744.6201
+            },
+            {
+              "en": "Yet he said he had not written the message found in the bottle.",
+              "zh": "可他说，自己并没有写下瓶中那封求救信。",
+              "audioStart": 745.4584,
+              "audioEnd": 749.3979
+            }
+          ],
+          "audioStart": 731.434,
+          "audioEnd": 749.5179,
+          "voices": {
+            "teacher": {
+              "audioStart": 616.3367,
+              "audioEnd": 631.4762,
+              "sentences": [
+                {
+                  "audioStart": 616.4167,
+                  "audioEnd": 621.8006
+                },
+                {
+                  "audioStart": 622.6389,
+                  "audioEnd": 627.3978
+                },
+                {
+                  "audioStart": 628.2362,
+                  "audioEnd": 631.3562
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 9,
+          "text": "Someone had known where he was and had brought the settlers towards him. Saving Ayrton had answered one question, while quietly opening another.",
+          "sentences": [
+            {
+              "en": "Someone had known where he was and had brought the settlers towards him.",
+              "zh": "有人知道他在哪里，并引导岛上的人找到了他。",
+              "audioStart": 750.2362,
+              "audioEnd": 754.9673
+            },
+            {
+              "en": "Saving Ayrton had answered one question, while quietly opening another.",
+              "zh": "救回艾尔通回答了一个问题，却又悄悄打开了另一个问题。",
+              "audioStart": 755.8056,
+              "audioEnd": 761.1617
+            }
+          ],
+          "audioStart": 750.1562,
+          "audioEnd": 761.2817,
+          "voices": {
+            "teacher": {
+              "audioStart": 632.1145,
+              "audioEnd": 641.4067,
+              "sentences": [
+                {
+                  "audioStart": 632.1945,
+                  "audioEnd": 635.9812
+                },
+                {
+                  "audioStart": 636.8195,
+                  "audioEnd": 641.2867
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 10,
+          "text": "Chapter 11: A Wire Through the Forest. As their home grew, journeys between Granite House and the animal enclosure took more time. Smith proposed an electric telegraph so that news could travel faster than a person on foot.",
+          "sentences": [
+            {
+              "en": "Chapter 11: A Wire Through the Forest.",
+              "zh": "第11章：穿过森林的电线。",
+              "type": "chapter",
+              "audioStart": 762.0001,
+              "audioEnd": 765.3979
+            },
+            {
+              "en": "As their home grew, journeys between Granite House and the animal enclosure took more time.",
+              "zh": "随着家园发展，花岗岩宫与畜栏之间的来往越来越费时间。",
+              "audioStart": 766.2348,
+              "audioEnd": 772.8687
+            },
+            {
+              "en": "Smith proposed an electric telegraph so that news could travel faster than a person on foot.",
+              "zh": "史密斯提议建一条电报线，让消息能比步行的人更快传递。",
+              "audioStart": 773.7084,
+              "audioEnd": 780.1617
+            }
+          ],
+          "audioStart": 761.9201,
+          "audioEnd": 780.2817,
+          "voices": {
+            "teacher": {
+              "audioStart": 642.045,
+              "audioEnd": 657.5872,
+              "sentences": [
+                {
+                  "audioStart": 642.125,
+                  "audioEnd": 644.9395
+                },
+                {
+                  "audioStart": 645.7778,
+                  "audioEnd": 651.245
+                },
+                {
+                  "audioStart": 652.0834,
+                  "audioEnd": 657.4672
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 10,
+          "text": "Making it required more than a clever thought: they needed wire, a source of electricity, and careful work. The wire finally connected the two places, and signals could carry a simple message through the forest. Ayrton could report from the enclosure, and his companions could answer from their house in the cliff.",
+          "sentences": [
+            {
+              "en": "Making it required more than a clever thought: they needed wire, a source of electricity, and careful work.",
+              "zh": "要实现它，光有聪明想法还不够；他们需要电线、电源，还有细致的劳动。",
+              "audioStart": 781.0001,
+              "audioEnd": 789.0367
+            },
+            {
+              "en": "The wire finally connected the two places, and signals could carry a simple message through the forest.",
+              "zh": "电线终于连起了两个地方，信号可以带着简单消息穿过森林。",
+              "audioStart": 789.8751,
+              "audioEnd": 797.2173
+            },
+            {
+              "en": "Ayrton could report from the enclosure, and his companions could answer from their house in the cliff.",
+              "zh": "艾尔通能从畜栏报告情况，同伴则能从悬崖里的家回复。",
+              "audioStart": 798.0556,
+              "audioEnd": 804.7173
+            }
+          ],
+          "audioStart": 780.9201,
+          "audioEnd": 804.8373,
+          "voices": {
+            "teacher": {
+              "audioStart": 658.2256,
+              "audioEnd": 678.7262,
+              "sentences": [
+                {
+                  "audioStart": 658.3056,
+                  "audioEnd": 664.9812
+                },
+                {
+                  "audioStart": 665.8195,
+                  "audioEnd": 672.1061
+                },
+                {
+                  "audioStart": 672.9445,
+                  "audioEnd": 678.6062
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 10,
+          "text": "Pencroft was proud of every improvement, as though they had brought a little of the wider world to their shore. But Smith still thought about the rescue, the bullet, the supplies, and the unwritten message. Their own achievements were real; the unknown help did not make those achievements disappear.",
+          "sentences": [
+            {
+              "en": "Pencroft was proud of every improvement, as though they had brought a little of the wider world to their shore.",
+              "zh": "每一次改善都让潘克洛夫自豪，仿佛他们把外面的大世界带了一小片到海岸上。",
+              "audioStart": 805.5556,
+              "audioEnd": 812.759
+            },
+            {
+              "en": "But Smith still thought about the rescue, the bullet, the supplies, and the unwritten message.",
+              "zh": "可史密斯仍想着获救经过、子弹、物资，以及那封并非艾尔通所写的信。",
+              "audioStart": 813.5973,
+              "audioEnd": 820.4951
+            },
+            {
+              "en": "Their own achievements were real; the unknown help did not make those achievements disappear.",
+              "zh": "他们自己的成就是真实的；未知的帮助，并没有让这些成就消失。",
+              "audioStart": 821.3334,
+              "audioEnd": 827.5228
+            }
+          ],
+          "audioStart": 805.4756,
+          "audioEnd": 827.6428,
+          "voices": {
+            "teacher": {
+              "audioStart": 679.3645,
+              "audioEnd": 697.8234,
+              "sentences": [
+                {
+                  "audioStart": 679.4445,
+                  "audioEnd": 685.0089
+                },
+                {
+                  "audioStart": 685.8472,
+                  "audioEnd": 691.6756
+                },
+                {
+                  "audioStart": 692.5139,
+                  "audioEnd": 697.7034
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 10,
+          "text": "It did mean that the island could not be understood only by studying what the settlers themselves had done. One day a ship appeared, and all their hopes turned towards the horizon.",
+          "sentences": [
+            {
+              "en": "It did mean that the island could not be understood only by studying what the settlers themselves had done.",
+              "zh": "但这确实意味着，只研究他们自己做过的事，还不足以理解这座岛。",
+              "audioStart": 828.3612,
+              "audioEnd": 835.2867
+            },
+            {
+              "en": "One day a ship appeared, and all their hopes turned towards the horizon.",
+              "zh": "一天，一艘船出现了，大家的希望都转向了地平线。",
+              "audioStart": 836.1251,
+              "audioEnd": 841.4117
+            }
+          ],
+          "audioStart": 828.2812,
+          "audioEnd": 841.5317,
+          "voices": {
+            "teacher": {
+              "audioStart": 698.4617,
+              "audioEnd": 709.3512,
+              "sentences": [
+                {
+                  "audioStart": 698.5417,
+                  "audioEnd": 704.3422
+                },
+                {
+                  "audioStart": 705.1806,
+                  "audioEnd": 709.2312
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 11,
+          "text": "Chapter 12: The Black Flag. At first they hoped the ship might carry friends, perhaps even the Duncan coming for Ayrton. Then they saw the black flag, and hope gave way to alarm.",
+          "sentences": [
+            {
+              "en": "Chapter 12: The Black Flag.",
+              "zh": "第12章：黑色的旗帜。",
+              "type": "chapter",
+              "audioStart": 842.2501,
+              "audioEnd": 844.9673
+            },
+            {
+              "en": "At first they hoped the ship might carry friends, perhaps even the Duncan coming for Ayrton.",
+              "zh": "起初，他们希望船上是朋友，或许正是来接艾尔通的“邓肯号”。",
+              "audioStart": 845.8056,
+              "audioEnd": 852.3145
+            },
+            {
+              "en": "Then they saw the black flag, and hope gave way to alarm.",
+              "zh": "随后，他们看见了黑旗，希望立刻变成警惕。",
+              "audioStart": 853.1529,
+              "audioEnd": 857.6756
+            }
+          ],
+          "audioStart": 842.1701,
+          "audioEnd": 857.7956,
+          "voices": {
+            "teacher": {
+              "audioStart": 709.9895,
+              "audioEnd": 723.0873,
+              "sentences": [
+                {
+                  "audioStart": 710.0695,
+                  "audioEnd": 712.495
+                },
+                {
+                  "audioStart": 713.3334,
+                  "audioEnd": 718.6339
+                },
+                {
+                  "audioStart": 719.4722,
+                  "audioEnd": 722.9673
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 11,
+          "text": "The ship carried dangerous men who might seize the island and everything the settlers had built. Ayrton risked his life to learn more about them, proving how far he had changed. The settlers prepared to defend their home, hiding their small number as carefully as they could.",
+          "sentences": [
+            {
+              "en": "The ship carried dangerous men who might seize the island and everything the settlers had built.",
+              "zh": "船上是一群危险的人，可能夺走这座岛，以及大家建立的一切。",
+              "audioStart": 858.514,
+              "audioEnd": 864.884
+            },
+            {
+              "en": "Ayrton risked his life to learn more about them, proving how far he had changed.",
+              "zh": "艾尔通冒着生命危险去探查，证明自己已经有了多大的改变。",
+              "audioStart": 865.7223,
+              "audioEnd": 871.5923
+            },
+            {
+              "en": "The settlers prepared to defend their home, hiding their small number as carefully as they could.",
+              "zh": "大家准备保卫家园，尽可能不让对方知道自己人数很少。",
+              "audioStart": 872.4306,
+              "audioEnd": 879.009
+            }
+          ],
+          "audioStart": 858.434,
+          "audioEnd": 879.129,
+          "voices": {
+            "teacher": {
+              "audioStart": 723.7256,
+              "audioEnd": 741.1012,
+              "sentences": [
+                {
+                  "audioStart": 723.8056,
+                  "audioEnd": 729.12
+                },
+                {
+                  "audioStart": 729.9584,
+                  "audioEnd": 734.7311
+                },
+                {
+                  "audioStart": 735.5695,
+                  "audioEnd": 740.9812
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 11,
+          "text": "Gunfire crossed the water, and the enemy ship's cannon threatened Granite House. Then a sudden explosion tore through the ship, and the vessel sank before their eyes. The settlers had not caused the explosion, and again they could not explain what had saved them.",
+          "sentences": [
+            {
+              "en": "Gunfire crossed the water, and the enemy ship's cannon threatened Granite House.",
+              "zh": "枪声越过水面，敌船的大炮威胁着花岗岩宫。",
+              "audioStart": 879.8473,
+              "audioEnd": 885.6201
+            },
+            {
+              "en": "Then a sudden explosion tore through the ship, and the vessel sank before their eyes.",
+              "zh": "接着，一场突然的爆炸撕裂了船体，敌船在他们眼前沉了下去。",
+              "audioStart": 886.4584,
+              "audioEnd": 892.3701
+            },
+            {
+              "en": "The settlers had not caused the explosion, and again they could not explain what had saved them.",
+              "zh": "爆炸不是他们造成的，而他们又一次无法解释，是什么救了自己。",
+              "audioStart": 893.2084,
+              "audioEnd": 899.7312
+            }
+          ],
+          "audioStart": 879.7673,
+          "audioEnd": 899.8512,
+          "voices": {
+            "teacher": {
+              "audioStart": 741.7395,
+              "audioEnd": 758.8373,
+              "sentences": [
+                {
+                  "audioStart": 741.8195,
+                  "audioEnd": 746.6062
+                },
+                {
+                  "audioStart": 747.4445,
+                  "audioEnd": 752.3978
+                },
+                {
+                  "audioStart": 753.2362,
+                  "audioEnd": 758.7173
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 11,
+          "text": "Some of the attackers had already reached the island and escaped into the forest. The danger had changed its shape; it had not ended with the sinking ship.",
+          "sentences": [
+            {
+              "en": "Some of the attackers had already reached the island and escaped into the forest.",
+              "zh": "有些袭击者已经登岛，逃进了森林。",
+              "audioStart": 900.5695,
+              "audioEnd": 906.0923
+            },
+            {
+              "en": "The danger had changed its shape; it had not ended with the sinking ship.",
+              "zh": "危险只是换了模样，并没有随着沉船结束。",
+              "audioStart": 906.9306,
+              "audioEnd": 912.1062
+            }
+          ],
+          "audioStart": 900.4895,
+          "audioEnd": 912.2262,
+          "voices": {
+            "teacher": {
+              "audioStart": 759.4756,
+              "audioEnd": 769.5039,
+              "sentences": [
+                {
+                  "audioStart": 759.5556,
+                  "audioEnd": 764.1756
+                },
+                {
+                  "audioStart": 765.0139,
+                  "audioEnd": 769.3839
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 12,
+          "text": "Chapter 13: A Friend in Danger. The men hiding in the forest made even familiar paths unsafe. When the settlers went to the animal enclosure, a shot struck Herbert, and he fell wounded.",
+          "sentences": [
+            {
+              "en": "Chapter 13: A Friend in Danger.",
+              "zh": "第13章：朋友危在旦夕。",
+              "type": "chapter",
+              "audioStart": 912.9445,
+              "audioEnd": 916.1895
+            },
+            {
+              "en": "The men hiding in the forest made even familiar paths unsafe.",
+              "zh": "躲在森林里的人，让熟悉的小路也变得不安全。",
+              "audioStart": 917.0279,
+              "audioEnd": 921.8006
+            },
+            {
+              "en": "When the settlers went to the animal enclosure, a shot struck Herbert, and he fell wounded.",
+              "zh": "大家前往畜栏时，一声枪响，赫伯特中弹倒下。",
+              "audioStart": 922.639,
+              "audioEnd": 929.2729
+            }
+          ],
+          "audioStart": 912.8645,
+          "audioEnd": 929.3929,
+          "voices": {
+            "teacher": {
+              "audioStart": 770.1422,
+              "audioEnd": 783.9622,
+              "sentences": [
+                {
+                  "audioStart": 770.2222,
+                  "audioEnd": 772.87
+                },
+                {
+                  "audioStart": 773.7084,
+                  "audioEnd": 777.745
+                },
+                {
+                  "audioStart": 778.5834,
+                  "audioEnd": 783.8422
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 12,
+          "text": "Pencroft's anger vanished into fear as he looked at the young companion he loved like a son. Spilett cared for the wound, while the others watched, waited, and guarded their shelter. Herbert began to recover, but a terrible fever later threatened his life again.",
+          "sentences": [
+            {
+              "en": "Pencroft's anger vanished into fear as he looked at the young companion he loved like a son.",
+              "zh": "潘克洛夫望着这个被自己视如儿子的年轻同伴，愤怒转眼就变成了恐惧。",
+              "audioStart": 930.1112,
+              "audioEnd": 936.6617
+            },
+            {
+              "en": "Spilett cared for the wound, while the others watched, waited, and guarded their shelter.",
+              "zh": "斯皮莱照料伤口，其他人守着、等着，同时保护藏身处。",
+              "audioStart": 937.5001,
+              "audioEnd": 944.0923
+            },
+            {
+              "en": "Herbert began to recover, but a terrible fever later threatened his life again.",
+              "zh": "赫伯特一度开始恢复，可后来，一场可怕的高烧又威胁着他的生命。",
+              "audioStart": 944.9307,
+              "audioEnd": 950.5923
+            }
+          ],
+          "audioStart": 930.0312,
+          "audioEnd": 950.7123,
+          "voices": {
+            "teacher": {
+              "audioStart": 784.6006,
+              "audioEnd": 801.8373,
+              "sentences": [
+                {
+                  "audioStart": 784.6806,
+                  "audioEnd": 789.9534
+                },
+                {
+                  "audioStart": 790.7917,
+                  "audioEnd": 796.0923
+                },
+                {
+                  "audioStart": 796.9306,
+                  "audioEnd": 801.7173
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 12,
+          "text": "They needed a medicine they did not possess, and all their tools seemed useless beside his bed. After a night of fear, a small box was found near him, marked with the name of the needed medicine. Nobody in their group had placed it there, yet help had arrived when hope was almost gone.",
+          "sentences": [
+            {
+              "en": "They needed a medicine they did not possess, and all their tools seemed useless beside his bed.",
+              "zh": "他们需要一种自己没有的药，床边的所有工具此刻仿佛都失去了用处。",
+              "audioStart": 951.4307,
+              "audioEnd": 958.0923
+            },
+            {
+              "en": "After a night of fear, a small box was found near him, marked with the name of the needed medicine.",
+              "zh": "经历恐惧的一夜后，人们在他身边发现一个小盒子，上面写着所需药物的名字。",
+              "audioStart": 958.9307,
+              "audioEnd": 966.0367
+            },
+            {
+              "en": "Nobody in their group had placed it there, yet help had arrived when hope was almost gone.",
+              "zh": "他们之中没有谁把盒子放在那里，可帮助偏偏在希望几乎耗尽时到来了。",
+              "audioStart": 966.8751,
+              "audioEnd": 973.0229
+            }
+          ],
+          "audioStart": 951.3507,
+          "audioEnd": 973.1429,
+          "voices": {
+            "teacher": {
+              "audioStart": 802.4756,
+              "audioEnd": 820.99,
+              "sentences": [
+                {
+                  "audioStart": 802.5556,
+                  "audioEnd": 808.1062
+                },
+                {
+                  "audioStart": 808.9445,
+                  "audioEnd": 814.7728
+                },
+                {
+                  "audioStart": 815.6112,
+                  "audioEnd": 820.87
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 12,
+          "text": "Herbert gradually grew stronger, and relief filled Granite House. The unseen helper was no longer only an interesting puzzle; someone had helped save their friend's life.",
+          "sentences": [
+            {
+              "en": "Herbert gradually grew stronger, and relief filled Granite House.",
+              "zh": "赫伯特渐渐强壮起来，花岗岩宫终于松了一口气。",
+              "audioStart": 973.8612,
+              "audioEnd": 978.8979
+            },
+            {
+              "en": "The unseen helper was no longer only an interesting puzzle; someone had helped save their friend's life.",
+              "zh": "那个看不见的帮助者，不再只是有趣的谜题；有人帮助救回了朋友的生命。",
+              "audioStart": 979.7362,
+              "audioEnd": 987.1479
+            }
+          ],
+          "audioStart": 973.7812,
+          "audioEnd": 987.2679,
+          "voices": {
+            "teacher": {
+              "audioStart": 821.6284,
+              "audioEnd": 832.8095,
+              "sentences": [
+                {
+                  "audioStart": 821.7084,
+                  "audioEnd": 825.7173
+                },
+                {
+                  "audioStart": 826.5556,
+                  "audioEnd": 832.6895
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 13,
+          "text": "Chapter 14: The Unseen Neighbour. After Herbert recovered, the settlers searched for Ayrton, who had disappeared during the troubles. They found him alive, while the remaining attackers lay dead nearby without the wounds they expected.",
+          "sentences": [
+            {
+              "en": "Chapter 14: The Unseen Neighbour.",
+              "zh": "第14章：看不见的邻居。",
+              "type": "chapter",
+              "audioStart": 987.9862,
+              "audioEnd": 991.1617
+            },
+            {
+              "en": "After Herbert recovered, the settlers searched for Ayrton, who had disappeared during the troubles.",
+              "zh": "赫伯特恢复后，大家寻找在混乱中失踪的艾尔通。",
+              "audioStart": 992.0001,
+              "audioEnd": 998.9118
+            },
+            {
+              "en": "They found him alive, while the remaining attackers lay dead nearby without the wounds they expected.",
+              "zh": "他们找到了还活着的他，剩余袭击者却倒在附近，身上没有他们预想的伤口。",
+              "audioStart": 999.7501,
+              "audioEnd": 1007.9117
+            }
+          ],
+          "audioStart": 987.9062,
+          "audioEnd": 1008.0317,
+          "voices": {
+            "teacher": {
+              "audioStart": 833.4478,
+              "audioEnd": 850.3372,
+              "sentences": [
+                {
+                  "audioStart": 833.5278,
+                  "audioEnd": 836.1756
+                },
+                {
+                  "audioStart": 837.014,
+                  "audioEnd": 842.495
+                },
+                {
+                  "audioStart": 843.3334,
+                  "audioEnd": 850.2172
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 13,
+          "text": "The hidden power that had protected them was clearly capable of terrible force. Smith wanted to understand it, but he also wanted to thank whoever had shown them kindness. They searched caves, shores, and forest paths, yet the helper remained beyond their reach.",
+          "sentences": [
+            {
+              "en": "The hidden power that had protected them was clearly capable of terrible force.",
+              "zh": "保护他们的隐秘力量，显然也能发挥可怕的威力。",
+              "audioStart": 1008.7362,
+              "audioEnd": 1014.2729
+            },
+            {
+              "en": "Smith wanted to understand it, but he also wanted to thank whoever had shown them kindness.",
+              "zh": "史密斯想弄清真相，也想感谢那个对他们施以善意的人。",
+              "audioStart": 1015.1112,
+              "audioEnd": 1021.6618
+            },
+            {
+              "en": "They searched caves, shores, and forest paths, yet the helper remained beyond their reach.",
+              "zh": "他们搜索洞穴、海岸和林间小路，可帮助者仍然无处可寻。",
+              "audioStart": 1022.5001,
+              "audioEnd": 1029.7729
+            }
+          ],
+          "audioStart": 1008.6562,
+          "audioEnd": 1029.8929,
+          "voices": {
+            "teacher": {
+              "audioStart": 850.9756,
+              "audioEnd": 868.9762,
+              "sentences": [
+                {
+                  "audioStart": 851.0556,
+                  "audioEnd": 855.87
+                },
+                {
+                  "audioStart": 856.7084,
+                  "audioEnd": 862.0506
+                },
+                {
+                  "audioStart": 862.8889,
+                  "audioEnd": 868.8562
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 13,
+          "text": "Meanwhile, Mount Franklin began to show signs that it was not as quiet as before. Smoke over a mountain was a different kind of warning, one no locked door could keep outside. Then the telegraph rang when nobody should have been sending a message from the enclosure.",
+          "sentences": [
+            {
+              "en": "Meanwhile, Mount Franklin began to show signs that it was not as quiet as before.",
+              "zh": "与此同时，富兰克林山开始显露出迹象，不再像从前那样安静。",
+              "audioStart": 1030.6112,
+              "audioEnd": 1036.6896
+            },
+            {
+              "en": "Smoke over a mountain was a different kind of warning, one no locked door could keep outside.",
+              "zh": "山上的烟雾是另一种警告，任何锁着的门都挡不住它。",
+              "audioStart": 1037.5279,
+              "audioEnd": 1044.0368
+            },
+            {
+              "en": "Then the telegraph rang when nobody should have been sending a message from the enclosure.",
+              "zh": "接着，电报响了，可那时畜栏里本不该有人发消息。",
+              "audioStart": 1044.8751,
+              "audioEnd": 1050.6479
+            }
+          ],
+          "audioStart": 1030.5312,
+          "audioEnd": 1050.7679,
+          "voices": {
+            "teacher": {
+              "audioStart": 869.6145,
+              "audioEnd": 886.5178,
+              "sentences": [
+                {
+                  "audioStart": 869.6945,
+                  "audioEnd": 874.6756
+                },
+                {
+                  "audioStart": 875.5139,
+                  "audioEnd": 880.8145
+                },
+                {
+                  "audioStart": 881.6528,
+                  "audioEnd": 886.3978
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 13,
+          "text": "A new wire led them onward, away from the route they had built with their own hands. At low tide they entered a sea cave and followed the strange light waiting within.",
+          "sentences": [
+            {
+              "en": "A new wire led them onward, away from the route they had built with their own hands.",
+              "zh": "一根新的电线引着他们继续走，离开了那条他们亲手建起的线路。",
+              "audioStart": 1051.4862,
+              "audioEnd": 1057.3145
+            },
+            {
+              "en": "At low tide they entered a sea cave and followed the strange light waiting within.",
+              "zh": "退潮时，他们进入海边洞穴，循着深处等待着他们的奇异光亮前进。",
+              "audioStart": 1058.1515,
+              "audioEnd": 1063.8132
+            }
+          ],
+          "audioStart": 1051.4062,
+          "audioEnd": 1063.9332,
+          "voices": {
+            "teacher": {
+              "audioStart": 887.1562,
+              "audioEnd": 897.3234,
+              "sentences": [
+                {
+                  "audioStart": 887.2362,
+                  "audioEnd": 891.87
+                },
+                {
+                  "audioStart": 892.7084,
+                  "audioEnd": 897.2034
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 14,
+          "text": "Chapter 15: The Answer Beneath the Water. Inside the cavern lay a long metal vessel, and within it waited an old man. His name was Captain Nemo, and the vessel was the Nautilus.",
+          "sentences": [
+            {
+              "en": "Chapter 15: The Answer Beneath the Water.",
+              "zh": "第15章：水下的答案。",
+              "type": "chapter",
+              "audioStart": 1064.6529,
+              "audioEnd": 1068.3007
+            },
+            {
+              "en": "Inside the cavern lay a long metal vessel, and within it waited an old man.",
+              "zh": "洞穴里面停着一艘长长的金属船，船里等着一位老人。",
+              "audioStart": 1069.139,
+              "audioEnd": 1074.7867
+            },
+            {
+              "en": "His name was Captain Nemo, and the vessel was the Nautilus.",
+              "zh": "他名叫尼摩船长，船就是“鹦鹉螺号”。",
+              "audioStart": 1075.6251,
+              "audioEnd": 1080.134
+            }
+          ],
+          "audioStart": 1064.5729,
+          "audioEnd": 1080.254,
+          "voices": {
+            "teacher": {
+              "audioStart": 897.9617,
+              "audioEnd": 911.24,
+              "sentences": [
+                {
+                  "audioStart": 898.0417,
+                  "audioEnd": 901.0228
+                },
+                {
+                  "audioStart": 901.8612,
+                  "audioEnd": 906.495
+                },
+                {
+                  "audioStart": 907.3334,
+                  "audioEnd": 911.12
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 14,
+          "text": "Readers of Twenty Thousand Leagues Under the Sea may recognise both names. Nemo had watched the settlers for a long time, helping them without allowing them to see him. He had rescued Smith, left supplies, guided their boat, and brought medicine when Herbert was ill.",
+          "sentences": [
+            {
+              "en": "Readers of Twenty Thousand Leagues Under the Sea may recognise both names.",
+              "zh": "读过《海底两万里》的读者，也许会认出这两个名字。",
+              "audioStart": 1080.9723,
+              "audioEnd": 1086.259
+            },
+            {
+              "en": "Nemo had watched the settlers for a long time, helping them without allowing them to see him.",
+              "zh": "尼摩已经观察他们很久，一直暗中帮助，却不让他们看见自己。",
+              "audioStart": 1087.0973,
+              "audioEnd": 1093.5923
+            },
+            {
+              "en": "He had rescued Smith, left supplies, guided their boat, and brought medicine when Herbert was ill.",
+              "zh": "他救起史密斯，留下物资，引导小船，也在赫伯特生病时送来药。",
+              "audioStart": 1094.4307,
+              "audioEnd": 1101.9951
+            }
+          ],
+          "audioStart": 1080.8923,
+          "audioEnd": 1102.1151,
+          "voices": {
+            "teacher": {
+              "audioStart": 911.8784,
+              "audioEnd": 929.6289,
+              "sentences": [
+                {
+                  "audioStart": 911.9584,
+                  "audioEnd": 916.3006
+                },
+                {
+                  "audioStart": 917.1389,
+                  "audioEnd": 922.5089
+                },
+                {
+                  "audioStart": 923.3472,
+                  "audioEnd": 929.5089
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 14,
+          "text": "The bottle leading to Ayrton and the destruction of the enemy ship were also part of his hidden work. Nemo told them that he had once been Prince Dakkar of India, and had fought against British rule. After terrible losses, he had left the world above and made the ocean his refuge.",
+          "sentences": [
+            {
+              "en": "The bottle leading to Ayrton and the destruction of the enemy ship were also part of his hidden work.",
+              "zh": "引导大家找到艾尔通的瓶中信，以及敌船的毁灭，也都是他的暗中行动。",
+              "audioStart": 1102.8335,
+              "audioEnd": 1109.5507
+            },
+            {
+              "en": "Nemo told them that he had once been Prince Dakkar of India, and had fought against British rule.",
+              "zh": "尼摩告诉他们，自己曾是印度的达卡王子，反抗过英国的统治。",
+              "audioStart": 1110.389,
+              "audioEnd": 1117.0784
+            },
+            {
+              "en": "After terrible losses, he had left the world above and made the ocean his refuge.",
+              "zh": "经历惨重的失去后，他离开陆地上的世界，把海洋当成了避难所。",
+              "audioStart": 1117.9168,
+              "audioEnd": 1124.0507
+            }
+          ],
+          "audioStart": 1102.7535,
+          "audioEnd": 1124.1707,
+          "voices": {
+            "teacher": {
+              "audioStart": 930.2672,
+              "audioEnd": 948.2817,
+              "sentences": [
+                {
+                  "audioStart": 930.3472,
+                  "audioEnd": 935.7034
+                },
+                {
+                  "audioStart": 936.5417,
+                  "audioEnd": 942.0784
+                },
+                {
+                  "audioStart": 942.9167,
+                  "audioEnd": 948.1617
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 14,
+          "text": "Now his companions were gone, he was old and ill, and the Nautilus could no longer carry him freely away. The settlers saw a generous protector, but also a lonely man whose life carried anger, grief, and difficult choices.",
+          "sentences": [
+            {
+              "en": "Now his companions were gone, he was old and ill, and the Nautilus could no longer carry him freely away.",
+              "zh": "如今，同伴已经不在，他也年老多病，“鹦鹉螺号”再不能载着他自由离去。",
+              "audioStart": 1124.889,
+              "audioEnd": 1132.7729
+            },
+            {
+              "en": "The settlers saw a generous protector, but also a lonely man whose life carried anger, grief, and difficult choices.",
+              "zh": "大家看到的是慷慨的保护者，也是一位带着愤怒、悲伤和艰难抉择走过一生的孤独老人。",
+              "audioStart": 1133.6112,
+              "audioEnd": 1142.8423
+            }
+          ],
+          "audioStart": 1124.809,
+          "audioEnd": 1142.9623,
+          "voices": {
+            "teacher": {
+              "audioStart": 948.92,
+              "audioEnd": 964.0872,
+              "sentences": [
+                {
+                  "audioStart": 949.0,
+                  "audioEnd": 955.5645
+                },
+                {
+                  "audioStart": 956.4028,
+                  "audioEnd": 963.9672
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 15,
+          "text": "Chapter 16: The Captain's Last Warning. The settlers remained with Nemo during his final hours, offering the company he had lived without. He gave them a small chest of treasure and warned Smith of a danger beneath the island.",
+          "sentences": [
+            {
+              "en": "Chapter 16: The Captain's Last Warning.",
+              "zh": "第16章：船长最后的警告。",
+              "type": "chapter",
+              "audioStart": 1143.6807,
+              "audioEnd": 1147.3562
+            },
+            {
+              "en": "The settlers remained with Nemo during his final hours, offering the company he had lived without.",
+              "zh": "在尼摩最后的时光里，大家陪在他身边，给了他久违的陪伴。",
+              "audioStart": 1148.1945,
+              "audioEnd": 1155.2451
+            },
+            {
+              "en": "He gave them a small chest of treasure and warned Smith of a danger beneath the island.",
+              "zh": "他给了他们一小箱财宝，又提醒史密斯，岛下潜藏着危险。",
+              "audioStart": 1156.0835,
+              "audioEnd": 1162.2312
+            }
+          ],
+          "audioStart": 1143.6007,
+          "audioEnd": 1162.3512,
+          "voices": {
+            "teacher": {
+              "audioStart": 964.7256,
+              "audioEnd": 980.1011,
+              "sentences": [
+                {
+                  "audioStart": 964.8056,
+                  "audioEnd": 967.8422
+                },
+                {
+                  "audioStart": 968.6806,
+                  "audioEnd": 974.3423
+                },
+                {
+                  "audioStart": 975.1806,
+                  "audioEnd": 979.9811
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 15,
+          "text": "The volcano and the sea were separated by rock, but that barrier would not remain safe for ever. If water broke into the hot depths, the island could be destroyed. When Nemo died, they honoured his wish that the Nautilus should become his tomb beneath the water.",
+          "sentences": [
+            {
+              "en": "The volcano and the sea were separated by rock, but that barrier would not remain safe for ever.",
+              "zh": "火山与海水之间隔着岩石，可这道屏障不会永远安全。",
+              "audioStart": 1163.0695,
+              "audioEnd": 1170.0646
+            },
+            {
+              "en": "If water broke into the hot depths, the island could be destroyed.",
+              "zh": "如果海水冲入炽热的深处，这座岛就可能毁灭。",
+              "audioStart": 1170.9029,
+              "audioEnd": 1175.7451
+            },
+            {
+              "en": "When Nemo died, they honoured his wish that the Nautilus should become his tomb beneath the water.",
+              "zh": "尼摩去世后，大家遵照他的愿望，让“鹦鹉螺号”成为水下的陵墓。",
+              "audioStart": 1176.5835,
+              "audioEnd": 1183.0229
+            }
+          ],
+          "audioStart": 1162.9895,
+          "audioEnd": 1183.1429,
+          "voices": {
+            "teacher": {
+              "audioStart": 980.7395,
+              "audioEnd": 997.49,
+              "sentences": [
+                {
+                  "audioStart": 980.8195,
+                  "audioEnd": 986.7034
+                },
+                {
+                  "audioStart": 987.5417,
+                  "audioEnd": 991.5089
+                },
+                {
+                  "audioStart": 992.3472,
+                  "audioEnd": 997.37
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 15,
+          "text": "For the settlers, the mystery had become a person, and now that person was gone. Smith examined the threatened barrier and understood that the captain's warning could not be ignored. They must prepare to leave the home they had worked so hard to build.",
+          "sentences": [
+            {
+              "en": "For the settlers, the mystery had become a person, and now that person was gone.",
+              "zh": "对他们来说，谜团已经变成了一个人，而现在，这个人又离去了。",
+              "audioStart": 1183.8612,
+              "audioEnd": 1189.9673
+            },
+            {
+              "en": "Smith examined the threatened barrier and understood that the captain's warning could not be ignored.",
+              "zh": "史密斯查看了受到威胁的岩壁，明白船长的警告不可忽视。",
+              "audioStart": 1190.8057,
+              "audioEnd": 1197.4535
+            },
+            {
+              "en": "They must prepare to leave the home they had worked so hard to build.",
+              "zh": "他们必须准备离开这个付出无数劳动才建成的家。",
+              "audioStart": 1198.2918,
+              "audioEnd": 1202.8979
+            }
+          ],
+          "audioStart": 1183.7812,
+          "audioEnd": 1203.0179,
+          "voices": {
+            "teacher": {
+              "audioStart": 998.1284,
+              "audioEnd": 1014.0872,
+              "sentences": [
+                {
+                  "audioStart": 998.2084,
+                  "audioEnd": 1003.2312
+                },
+                {
+                  "audioStart": 1004.0695,
+                  "audioEnd": 1009.4534
+                },
+                {
+                  "audioStart": 1010.2917,
+                  "audioEnd": 1013.9672
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 15,
+          "text": "Their small boat had been destroyed during the earlier troubles, so they hurried to build another vessel. This time they were working against a danger that would not stop to let them finish.",
+          "sentences": [
+            {
+              "en": "Their small boat had been destroyed during the earlier troubles, so they hurried to build another vessel.",
+              "zh": "原来的小船已在之前的混乱中毁坏，因此，他们急忙建造另一艘船。",
+              "audioStart": 1203.7362,
+              "audioEnd": 1210.6479
+            },
+            {
+              "en": "This time they were working against a danger that would not stop to let them finish.",
+              "zh": "这一次，他们是在和一种不会停下来等他们完工的危险赛跑。",
+              "audioStart": 1211.4862,
+              "audioEnd": 1216.9673
+            }
+          ],
+          "audioStart": 1203.6562,
+          "audioEnd": 1217.0873,
+          "voices": {
+            "teacher": {
+              "audioStart": 1014.7256,
+              "audioEnd": 1025.9206,
+              "sentences": [
+                {
+                  "audioStart": 1014.8056,
+                  "audioEnd": 1020.4256
+                },
+                {
+                  "audioStart": 1021.2639,
+                  "audioEnd": 1025.8006
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 16,
+          "text": "Chapter 17: The Night of Fire. Smoke thickened above Mount Franklin, and the ground reminded them that the island was changing. Lava spread across places they knew, burning trees and cutting through familiar routes.",
+          "sentences": [
+            {
+              "en": "Chapter 17: The Night of Fire.",
+              "zh": "第17章：烈火之夜。",
+              "type": "chapter",
+              "audioStart": 1217.8057,
+              "audioEnd": 1220.8701
+            },
+            {
+              "en": "Smoke thickened above Mount Franklin, and the ground reminded them that the island was changing.",
+              "zh": "富兰克林山上方的烟越来越浓，脚下的大地不断提醒他们：这座岛正在改变。",
+              "audioStart": 1221.7085,
+              "audioEnd": 1228.1618
+            },
+            {
+              "en": "Lava spread across places they knew, burning trees and cutting through familiar routes.",
+              "zh": "熔岩流过熟悉的地方，烧毁树木，截断曾经常走的路。",
+              "audioStart": 1229.0001,
+              "audioEnd": 1235.3562
+            }
+          ],
+          "audioStart": 1217.7257,
+          "audioEnd": 1235.4762,
+          "voices": {
+            "teacher": {
+              "audioStart": 1026.5589,
+              "audioEnd": 1041.5873,
+              "sentences": [
+                {
+                  "audioStart": 1026.6389,
+                  "audioEnd": 1029.3145
+                },
+                {
+                  "audioStart": 1030.1528,
+                  "audioEnd": 1035.4672
+                },
+                {
+                  "audioStart": 1036.3056,
+                  "audioEnd": 1041.4673
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 16,
+          "text": "They tried to save useful supplies while continuing their work on the new ship. Fields, workshops, and paths could vanish in hours after taking months to create. Pencroft could not bear to see their home destroyed, but anger could not turn the lava aside.",
+          "sentences": [
+            {
+              "en": "They tried to save useful supplies while continuing their work on the new ship.",
+              "zh": "他们一边抢救有用的物资，一边继续建造新船。",
+              "audioStart": 1236.1945,
+              "audioEnd": 1241.4118
+            },
+            {
+              "en": "Fields, workshops, and paths could vanish in hours after taking months to create.",
+              "zh": "花了几个月建起的田地、工场和道路，可能在几小时内消失。",
+              "audioStart": 1242.2501,
+              "audioEnd": 1249.0923
+            },
+            {
+              "en": "Pencroft could not bear to see their home destroyed, but anger could not turn the lava aside.",
+              "zh": "潘克洛夫不忍看家园毁灭，可愤怒没法让熔岩转向。",
+              "audioStart": 1249.9307,
+              "audioEnd": 1256.6062
+            }
+          ],
+          "audioStart": 1236.1145,
+          "audioEnd": 1256.7262,
+          "voices": {
+            "teacher": {
+              "audioStart": 1042.2256,
+              "audioEnd": 1059.3928,
+              "sentences": [
+                {
+                  "audioStart": 1042.3056,
+                  "audioEnd": 1046.759
+                },
+                {
+                  "audioStart": 1047.5972,
+                  "audioEnd": 1053.1478
+                },
+                {
+                  "audioStart": 1053.9862,
+                  "audioEnd": 1059.2728
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 16,
+          "text": "They hurried to make the vessel ready before the final disaster arrived. But the rock barrier failed before their work was finished, and the sea entered the burning depths. A vast explosion tore Lincoln Island apart and hurled away the world they had known.",
+          "sentences": [
+            {
+              "en": "They hurried to make the vessel ready before the final disaster arrived.",
+              "zh": "他们拼命赶工，想在最后的灾难到来前，把船造好。",
+              "audioStart": 1257.4445,
+              "audioEnd": 1262.384
+            },
+            {
+              "en": "But the rock barrier failed before their work was finished, and the sea entered the burning depths.",
+              "zh": "可工程还没完成，岩石屏障就破裂了，海水涌入燃烧的深处。",
+              "audioStart": 1263.2223,
+              "audioEnd": 1269.7451
+            },
+            {
+              "en": "A vast explosion tore Lincoln Island apart and hurled away the world they had known.",
+              "zh": "巨大的爆炸撕裂了林肯岛，也掀走了他们曾经熟悉的世界。",
+              "audioStart": 1270.5835,
+              "audioEnd": 1276.634
+            }
+          ],
+          "audioStart": 1257.3645,
+          "audioEnd": 1276.754,
+          "voices": {
+            "teacher": {
+              "audioStart": 1060.0312,
+              "audioEnd": 1075.8234,
+              "sentences": [
+                {
+                  "audioStart": 1060.1112,
+                  "audioEnd": 1063.9395
+                },
+                {
+                  "audioStart": 1064.7778,
+                  "audioEnd": 1070.1339
+                },
+                {
+                  "audioStart": 1070.9722,
+                  "audioEnd": 1075.7034
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 16,
+          "text": "The six men and Top survived on a small remnant of rock above the sea. Almost everything they had made was gone, and no workshop remained from which to begin again.",
+          "sentences": [
+            {
+              "en": "The six men and Top survived on a small remnant of rock above the sea.",
+              "zh": "六个人和托普活了下来，留在一小块露出海面的残岩上。",
+              "audioStart": 1277.4723,
+              "audioEnd": 1282.7173
+            },
+            {
+              "en": "Almost everything they had made was gone, and no workshop remained from which to begin again.",
+              "zh": "他们做出的一切几乎都不在了，也再没有一间工场，可以让他们从头开始。",
+              "audioStart": 1283.5557,
+              "audioEnd": 1289.8979
+            }
+          ],
+          "audioStart": 1277.3923,
+          "audioEnd": 1290.0179,
+          "voices": {
+            "teacher": {
+              "audioStart": 1076.4617,
+              "audioEnd": 1087.1845,
+              "sentences": [
+                {
+                  "audioStart": 1076.5417,
+                  "audioEnd": 1080.8145
+                },
+                {
+                  "audioStart": 1081.6528,
+                  "audioEnd": 1087.0645
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 17,
+          "text": "Chapter 18: A Ship Finds the Last Rock. On the bare rock, the survivors had very little food and almost no protection from the weather. Their knowledge had not disappeared, but knowledge alone could not make a ship rise from the sea.",
+          "sentences": [
+            {
+              "en": "Chapter 18: A Ship Finds the Last Rock.",
+              "zh": "第18章：船找到了最后的礁石。",
+              "type": "chapter",
+              "audioStart": 1290.7362,
+              "audioEnd": 1294.3979
+            },
+            {
+              "en": "On the bare rock, the survivors had very little food and almost no protection from the weather.",
+              "zh": "在光秃秃的礁石上，幸存者们食物极少，也几乎没有抵挡风雨的地方。",
+              "audioStart": 1295.2362,
+              "audioEnd": 1302.0229
+            },
+            {
+              "en": "Their knowledge had not disappeared, but knowledge alone could not make a ship rise from the sea.",
+              "zh": "知识并没有消失，可仅凭知识，无法让一艘船从海里升起。",
+              "audioStart": 1302.8612,
+              "audioEnd": 1309.2868
+            }
+          ],
+          "audioStart": 1290.6562,
+          "audioEnd": 1309.4068,
+          "voices": {
+            "teacher": {
+              "audioStart": 1087.8228,
+              "audioEnd": 1103.9345,
+              "sentences": [
+                {
+                  "audioStart": 1087.9028,
+                  "audioEnd": 1091.0645
+                },
+                {
+                  "audioStart": 1091.9028,
+                  "audioEnd": 1097.6478
+                },
+                {
+                  "audioStart": 1098.4862,
+                  "audioEnd": 1103.8145
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 17,
+          "text": "At last a vessel appeared, and Ayrton recognised the Duncan coming towards them. The rescuers had visited Tabor Island and found a message directing them to Lincoln Island. Nemo had left that information there before his death, giving help that could outlive him.",
+          "sentences": [
+            {
+              "en": "At last a vessel appeared, and Ayrton recognised the Duncan coming towards them.",
+              "zh": "终于，一艘船出现了，艾尔通认出，驶来的正是“邓肯号”。",
+              "audioStart": 1310.1251,
+              "audioEnd": 1315.9673
+            },
+            {
+              "en": "The rescuers had visited Tabor Island and found a message directing them to Lincoln Island.",
+              "zh": "救援者到过塔博尔岛，发现一封指引他们前往林肯岛的信。",
+              "audioStart": 1316.8057,
+              "audioEnd": 1323.2868
+            },
+            {
+              "en": "Nemo had left that information there before his death, giving help that could outlive him.",
+              "zh": "尼摩在去世前就把消息留在了那里，让帮助能够延续到自己离世之后。",
+              "audioStart": 1324.1251,
+              "audioEnd": 1330.3423
+            }
+          ],
+          "audioStart": 1310.0451,
+          "audioEnd": 1330.4623,
+          "voices": {
+            "teacher": {
+              "audioStart": 1104.5728,
+              "audioEnd": 1121.7817,
+              "sentences": [
+                {
+                  "audioStart": 1104.6528,
+                  "audioEnd": 1109.5922
+                },
+                {
+                  "audioStart": 1110.4306,
+                  "audioEnd": 1115.7312
+                },
+                {
+                  "audioStart": 1116.5695,
+                  "audioEnd": 1121.6617
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 17,
+          "text": "The last mystery ended in rescue, although the island itself could never be returned to them. They returned to America and used Nemo's gift to establish a new home in Iowa. They carried familiar names into the new landscape, keeping the memory of Lincoln Island alive.",
+          "sentences": [
+            {
+              "en": "The last mystery ended in rescue, although the island itself could never be returned to them.",
+              "zh": "最后一个谜以获救告终，尽管那座岛再也无法回到他们身边。",
+              "audioStart": 1331.1807,
+              "audioEnd": 1337.8145
+            },
+            {
+              "en": "They returned to America and used Nemo's gift to establish a new home in Iowa.",
+              "zh": "他们回到美国，用尼摩的赠礼在艾奥瓦州建立了新的家园。",
+              "audioStart": 1338.6529,
+              "audioEnd": 1346.0229
+            },
+            {
+              "en": "They carried familiar names into the new landscape, keeping the memory of Lincoln Island alive.",
+              "zh": "他们把熟悉的名字带进新的土地，让林肯岛的记忆继续存在。",
+              "audioStart": 1346.8612,
+              "audioEnd": 1353.634
+            }
+          ],
+          "audioStart": 1331.1007,
+          "audioEnd": 1353.754,
+          "voices": {
+            "teacher": {
+              "audioStart": 1122.42,
+              "audioEnd": 1141.3512,
+              "sentences": [
+                {
+                  "audioStart": 1122.5,
+                  "audioEnd": 1127.9673
+                },
+                {
+                  "audioStart": 1128.8056,
+                  "audioEnd": 1134.9117
+                },
+                {
+                  "audioStart": 1135.7501,
+                  "audioEnd": 1141.2312
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 17,
+          "text": "What had saved them included skill, patient work, friendship, and help they could never have provided alone. The island was gone, but the people who had learned to live together did not have to lose one another.",
+          "sentences": [
+            {
+              "en": "What had saved them included skill, patient work, friendship, and help they could never have provided alone.",
+              "zh": "拯救他们的，有技能、耐心的劳动、友谊，也有他们无法独自提供的帮助。",
+              "audioStart": 1354.4723,
+              "audioEnd": 1362.384
+            },
+            {
+              "en": "The island was gone, but the people who had learned to live together did not have to lose one another.",
+              "zh": "岛虽然消失了，那些学会共同生活的人，却不必再失去彼此。",
+              "audioStart": 1363.2223,
+              "audioEnd": 1369.9395
+            }
+          ],
+          "audioStart": 1354.3923,
+          "audioEnd": 1370.0595,
+          "voices": {
+            "teacher": {
+              "audioStart": 1141.9895,
+              "audioEnd": 1155.1429,
+              "sentences": [
+                {
+                  "audioStart": 1142.0695,
+                  "audioEnd": 1148.6062
+                },
+                {
+                  "audioStart": 1149.4445,
+                  "audioEnd": 1155.0229
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 18,
+          "text": "Chapter 19: After the Adventure. The Mysterious Island is a novel, and its island and characters belong to an imagined story. It draws on real ideas about plants, materials, light, electricity, and the work needed to build things.",
+          "sentences": [
+            {
+              "en": "Chapter 19: After the Adventure.",
+              "zh": "第19章：探险之后。",
+              "type": "chapter",
+              "audioStart": 1370.7779,
+              "audioEnd": 1373.8285
+            },
+            {
+              "en": "The Mysterious Island is a novel, and its island and characters belong to an imagined story.",
+              "zh": "《神秘岛》是一部小说，其中的岛屿与人物属于虚构的故事。",
+              "audioStart": 1374.6668,
+              "audioEnd": 1381.6201
+            },
+            {
+              "en": "It draws on real ideas about plants, materials, light, electricity, and the work needed to build things.",
+              "zh": "它借用了关于植物、材料、光、电，以及建造事物所需劳动的真实知识。",
+              "audioStart": 1382.4585,
+              "audioEnd": 1391.3701
+            }
+          ],
+          "audioStart": 1370.6979,
+          "audioEnd": 1391.4901,
+          "voices": {
+            "teacher": {
+              "audioStart": 1155.7812,
+              "audioEnd": 1173.0873,
+              "sentences": [
+                {
+                  "audioStart": 1155.8612,
+                  "audioEnd": 1158.509
+                },
+                {
+                  "audioStart": 1159.3473,
+                  "audioEnd": 1164.9117
+                },
+                {
+                  "audioStart": 1165.7501,
+                  "audioEnd": 1172.9673
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 18,
+          "text": "But the speed of the settlers' progress and some of their inventions are simplified or exaggerated for adventure. Its descriptions of dangerous chemicals, weapons, medicine, and volcanic events are not instructions to copy. Smith has important knowledge, yet the group also depends on Neb's care, Pencroft's skills, Spilett's judgement, and Herbert's curiosity.",
+          "sentences": [
+            {
+              "en": "But the speed of the settlers' progress and some of their inventions are simplified or exaggerated for adventure.",
+              "zh": "但为了冒险故事，岛上人们发展的速度，以及部分发明，被简化或夸张了。",
+              "audioStart": 1392.2085,
+              "audioEnd": 1399.759
+            },
+            {
+              "en": "Its descriptions of dangerous chemicals, weapons, medicine, and volcanic events are not instructions to copy.",
+              "zh": "其中关于危险化学物质、武器、药物和火山事件的描写，并不是可照做的操作说明。",
+              "audioStart": 1400.5973,
+              "audioEnd": 1409.3007
+            },
+            {
+              "en": "Smith has important knowledge, yet the group also depends on Neb's care, Pencroft's skills, Spilett's judgement, and Herbert's curiosity.",
+              "zh": "史密斯拥有重要知识，但团队同样依靠纳布的照料、潘克洛夫的技能、斯皮莱的判断，以及赫伯特的好奇心。",
+              "audioStart": 1410.139,
+              "audioEnd": 1421.1896
+            }
+          ],
+          "audioStart": 1392.1285,
+          "audioEnd": 1421.3096,
+          "voices": {
+            "teacher": {
+              "audioStart": 1173.7256,
+              "audioEnd": 1198.0734,
+              "sentences": [
+                {
+                  "audioStart": 1173.8056,
+                  "audioEnd": 1180.0506
+                },
+                {
+                  "audioStart": 1180.889,
+                  "audioEnd": 1188.3006
+                },
+                {
+                  "audioStart": 1189.139,
+                  "audioEnd": 1197.9534
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/mysterious-island-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 18,
+          "text": "Ayrton shows that a person's future need not be only a repetition of his worst actions. Nemo's help is generous, but the story also gives us reasons to think about his loneliness and use of force. Which problem would you most like to help the settlers solve, and whose skill would you ask to learn first?",
+          "sentences": [
+            {
+              "en": "Ayrton shows that a person's future need not be only a repetition of his worst actions.",
+              "zh": "艾尔通让我们看到，一个人的未来，不必只是最糟糕行为的不断重复。",
+              "audioStart": 1422.0279,
+              "audioEnd": 1428.3562
+            },
+            {
+              "en": "Nemo's help is generous, but the story also gives us reasons to think about his loneliness and use of force.",
+              "zh": "尼摩的帮助十分慷慨，但故事也让我们思考他的孤独，以及他对力量的使用。",
+              "audioStart": 1429.1945,
+              "audioEnd": 1437.3562
+            },
+            {
+              "en": "Which problem would you most like to help the settlers solve, and whose skill would you ask to learn first?",
+              "zh": "你最想帮助岛上的人解决哪个难题？又最想先向谁学习哪一种技能？",
+              "audioStart": 1438.1945,
+              "audioEnd": 1444.9673
+            }
+          ],
+          "audioStart": 1421.9479,
+          "audioEnd": 1445.0873,
+          "voices": {
+            "teacher": {
+              "audioStart": 1198.7117,
+              "audioEnd": 1218.0317,
+              "sentences": [
+                {
+                  "audioStart": 1198.7917,
+                  "audioEnd": 1204.0923
+                },
+                {
+                  "audioStart": 1204.9306,
+                  "audioEnd": 1211.4673
+                },
+                {
+                  "audioStart": 1212.3056,
+                  "audioEnd": 1217.9117
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "chapters": [
+        {
+          "title": "A Balloon in the Storm",
+          "titleZh": "风暴中的气球",
+          "startPage": 1
+        },
+        {
+          "title": "One Friend Missing",
+          "titleZh": "少了一位朋友",
+          "startPage": 5
+        },
+        {
+          "title": "Borrowing Fire from the Sun",
+          "titleZh": "向太阳借火",
+          "startPage": 9
+        },
+        {
+          "title": "An Island Beneath Their Feet",
+          "titleZh": "脚下原来是一座岛",
+          "startPage": 13
+        },
+        {
+          "title": "Tools Before Comfort",
+          "titleZh": "先造工具，再谈舒适",
+          "startPage": 17
+        },
+        {
+          "title": "A House Inside the Cliff",
+          "titleZh": "悬崖里面的房子",
+          "startPage": 21
+        },
+        {
+          "title": "A Fortune in One Grain",
+          "titleZh": "一粒麦子里的财富",
+          "startPage": 25
+        },
+        {
+          "title": "A Bullet and a Box",
+          "titleZh": "子弹与木箱",
+          "startPage": 29
+        },
+        {
+          "title": "A Message Across the Sea",
+          "titleZh": "来自海上的消息",
+          "startPage": 33
+        },
+        {
+          "title": "Ayrton's Second Chance",
+          "titleZh": "艾尔通的第二次机会",
+          "startPage": 37
+        },
+        {
+          "title": "A Wire Through the Forest",
+          "titleZh": "穿过森林的电线",
+          "startPage": 41
+        },
+        {
+          "title": "The Black Flag",
+          "titleZh": "黑色的旗帜",
+          "startPage": 45
+        },
+        {
+          "title": "A Friend in Danger",
+          "titleZh": "朋友危在旦夕",
+          "startPage": 49
+        },
+        {
+          "title": "The Unseen Neighbour",
+          "titleZh": "看不见的邻居",
+          "startPage": 53
+        },
+        {
+          "title": "The Answer Beneath the Water",
+          "titleZh": "水下的答案",
+          "startPage": 57
+        },
+        {
+          "title": "The Captain's Last Warning",
+          "titleZh": "船长最后的警告",
+          "startPage": 61
+        },
+        {
+          "title": "The Night of Fire",
+          "titleZh": "烈火之夜",
+          "startPage": 65
+        },
+        {
+          "title": "A Ship Finds the Last Rock",
+          "titleZh": "船找到了最后的礁石",
+          "startPage": 69
+        },
+        {
+          "title": "After the Adventure",
+          "titleZh": "探险之后",
+          "startPage": 73
+        }
+      ],
+      "paragraphs": [
+        "Chapter 1: A Balloon in the Storm. Over the Pacific Ocean, a damaged balloon was falling towards the waves. Five travellers threw out their supplies to make it lighter, but gas still escaped through the torn cloth.",
+        "Only a few days earlier, they had escaped from Richmond during the American Civil War. The storm had carried them far beyond any route they could choose or follow. Cyrus Smith, an engineer, tried to save what remained of the balloon.",
+        "Gideon Spilett was a reporter, used to watching carefully even when danger was close. The sailor Pencroft worked beside Herbert, a young companion who loved plants and animals. Neb, Smith's devoted friend, was with them, and so was the dog Top.",
+        "When land finally appeared, they cut away the heavy basket and clung to the net above it. The balloon struck the water, rose once more, and dragged them towards a strange shore.",
+        "Chapter 2: One Friend Missing. Four men reached the land, exhausted and soaked; Smith and Top had vanished into the sea. Neb searched the waves, refusing to believe that the engineer was gone for ever.",
+        "He had once been enslaved, and Smith had helped him gain his freedom. Now Neb stayed beside him by choice, and nothing could persuade him to stop looking. While Neb and Spilett searched, Pencroft and Herbert found shelter among hollow rocks near a river.",
+        "They called the place the Chimneys because the narrow passages reminded them of stone chimneys. A single match, found in the lining of Spilett's clothes, gave them their first small fire. Later, Top returned alone and led them through the darkness to a distant shelter.",
+        "There they found Smith alive, but too weak to explain how he had arrived. He remembered the water, not the journey from the sea; the island had already given them a mystery.",
+        "Chapter 3: Borrowing Fire from the Sun. The engineer slowly recovered, while the others brought food and tried to keep him warm. But their shelter at the Chimneys had suffered in rough weather, and their precious fire was lost.",
+        "There were no more matches, and Pencroft found that rubbing wood was harder than telling stories about it. Smith looked at the few things they still possessed, including two watches. He used their curved glass covers with water between them to make a simple lens.",
+        "The lens gathered sunlight into a bright point, and at last a little smoke appeared. Pencroft had expected a miracle; instead he saw an idea put to work. It did not give them a factory, a ship, or a road home, but it gave them heat and hope.",
+        "Smith could not make supplies appear from nowhere, yet he could help them see new uses for ordinary things. Before sleeping, they made sure the fire would be carefully watched.",
+        "Chapter 4: An Island Beneath Their Feet. Once Smith could travel, they climbed the mountain rising above the forests. From its summit they saw sea on every side, with no mainland waiting beyond the next valley.",
+        "Their new home was an island, and no ship could be seen on the horizon. They named it Lincoln Island, after the American president, and called the mountain Mount Franklin. Together they studied the coastline, the river, the lake, and the paths through the trees.",
+        "Herbert noticed living things; Pencroft searched for useful wood and places where a boat might land. Smith thought about distances, heights, water, and the materials hidden in the ground. Spilett wrote things down so that a useful observation would not be forgotten.",
+        "Knowing the island could not rescue them by itself, but it could help them plan their next step. They returned to the shore with a map in their minds and a clearer idea of the work ahead.",
+        "Chapter 5: Tools Before Comfort. Pencroft wanted strong tools, warm clothes, a fine house, and a boat big enough to leave. The island offered none of these ready-made, so their first problem was where to begin.",
+        "Smith chose small beginnings: clay, stone, wood, and the heat of their fire. They shaped clay into bricks and pots, then learned how to make them useful through firing. A cooking pot changed their meals, because food could now be boiled instead of only roasted.",
+        "Later, they worked iron from material found on the island and made stronger tools. Each new tool helped make the next task possible; progress came in a chain, not in one great leap. Neb kept food ready, Herbert gathered knowledge, and the others shared the heavy work.",
+        "Their hands became sore, and many plans needed time before they produced anything useful. The island was becoming familiar, but it was their work together that made it more like a home.",
+        "Chapter 6: A House Inside the Cliff. The Chimneys could shelter them for a while, but wind and waves could still threaten it. Smith suspected that the lake above the shore drained through a hidden passage inside the rock.",
+        "After they changed the water's course, a great hollow space became accessible inside the granite cliff. They explored it carefully and found enough room for a much safer home. High above the beach, they made openings for light and reached the entrance by a long ladder.",
+        "They called the place Granite House, and divided its space into rooms for different uses. Pencroft admired the height because enemies could not simply walk through the door. Neb liked having room to cook, while Herbert found endless things to observe beyond the windows.",
+        "When Top barked near a deep well inside the house, however, nobody could explain what troubled him. Even after they had built walls around their lives, there were places on the island they did not understand.",
+        "Chapter 7: A Fortune in One Grain. One day Herbert found a single grain of wheat caught in his clothing. He almost treated it as something too small to matter, but Smith saw a beginning.",
+        "One seed could produce a plant, and that plant could give them seeds for another harvest. The others imagined bread at once; the engineer reminded them that the first harvest must be saved for planting. They prepared a small patch of ground and protected the precious seed with great care.",
+        "It required rain, sunlight, soil, and patience, none of which could be replaced by wanting bread badly. As their fields grew, they also kept animals and stored food against the colder season. No single person could watch every crop, mend every tool, and find every meal.",
+        "Their small community worked because each person accepted jobs that the others depended on. A grain that could disappear between two fingers had changed what they expected from the future.",
+        "Chapter 8: A Bullet and a Box. During a meal, Pencroft bit into something hard and found a small bullet in the meat. The animal had survived an old wound before being caught, but who had fired the shot?",
+        "The settlers had arrived without guns, and their searches had revealed no other home. Smith refused to turn one strange fact into an answer larger than the evidence. They searched more carefully, and later a large box was discovered near the coast.",
+        "Inside were tools, weapons, books, clothes, and other supplies that seemed wonderfully suited to their needs. The gift made life easier, yet it made the island's silence harder to understand. Was it cargo from a wreck, a message from a stranger, or help placed where they would find it?",
+        "The engineer kept the questions open instead of calling the matter solved. They had learned to make many things for themselves, but some things clearly came from beyond their own work.",
+        "Chapter 9: A Message Across the Sea. With better tools, Pencroft helped build a small sailing boat, which they called the Bonadventure. A boat opened a new path along the coast and towards places hidden beyond their usual view.",
+        "Then a bottle brought them words from another island: a person needed help on Tabor Island. It was a difficult choice, because leaving Lincoln Island meant crossing water in a very small vessel. They checked the boat and supplies before Pencroft, Herbert, and Spilett set out.",
+        "On Tabor they found signs of an abandoned home, then a lonely man who scarcely seemed able to speak. Years without human company had deeply changed his life and behaviour. The travellers brought him back, choosing to help someone they did not yet understand.",
+        "On the difficult return voyage, a light helped guide them towards Lincoln Island. Later, another question joined the others: who had made that light shine at the right moment?",
+        "Chapter 10: Ayrton's Second Chance. The rescued man slowly regained his speech and told them that his name was Ayrton. He had once helped criminals and betrayed people who had trusted him.",
+        "For those actions he had been left on Tabor Island, where a ship called the Duncan might one day return for him. Ayrton expected judgement, and at first he found it difficult even to sit beside the others. Smith and his companions did not pretend the past had never happened, but they offered him work and a place among them.",
+        "They allowed trust to grow through what he did each day, rather than demanding a perfect speech. Ayrton cared for the animals at a separate enclosure and helped with the island's work. Yet he said he had not written the message found in the bottle.",
+        "Someone had known where he was and had brought the settlers towards him. Saving Ayrton had answered one question, while quietly opening another.",
+        "Chapter 11: A Wire Through the Forest. As their home grew, journeys between Granite House and the animal enclosure took more time. Smith proposed an electric telegraph so that news could travel faster than a person on foot.",
+        "Making it required more than a clever thought: they needed wire, a source of electricity, and careful work. The wire finally connected the two places, and signals could carry a simple message through the forest. Ayrton could report from the enclosure, and his companions could answer from their house in the cliff.",
+        "Pencroft was proud of every improvement, as though they had brought a little of the wider world to their shore. But Smith still thought about the rescue, the bullet, the supplies, and the unwritten message. Their own achievements were real; the unknown help did not make those achievements disappear.",
+        "It did mean that the island could not be understood only by studying what the settlers themselves had done. One day a ship appeared, and all their hopes turned towards the horizon.",
+        "Chapter 12: The Black Flag. At first they hoped the ship might carry friends, perhaps even the Duncan coming for Ayrton. Then they saw the black flag, and hope gave way to alarm.",
+        "The ship carried dangerous men who might seize the island and everything the settlers had built. Ayrton risked his life to learn more about them, proving how far he had changed. The settlers prepared to defend their home, hiding their small number as carefully as they could.",
+        "Gunfire crossed the water, and the enemy ship's cannon threatened Granite House. Then a sudden explosion tore through the ship, and the vessel sank before their eyes. The settlers had not caused the explosion, and again they could not explain what had saved them.",
+        "Some of the attackers had already reached the island and escaped into the forest. The danger had changed its shape; it had not ended with the sinking ship.",
+        "Chapter 13: A Friend in Danger. The men hiding in the forest made even familiar paths unsafe. When the settlers went to the animal enclosure, a shot struck Herbert, and he fell wounded.",
+        "Pencroft's anger vanished into fear as he looked at the young companion he loved like a son. Spilett cared for the wound, while the others watched, waited, and guarded their shelter. Herbert began to recover, but a terrible fever later threatened his life again.",
+        "They needed a medicine they did not possess, and all their tools seemed useless beside his bed. After a night of fear, a small box was found near him, marked with the name of the needed medicine. Nobody in their group had placed it there, yet help had arrived when hope was almost gone.",
+        "Herbert gradually grew stronger, and relief filled Granite House. The unseen helper was no longer only an interesting puzzle; someone had helped save their friend's life.",
+        "Chapter 14: The Unseen Neighbour. After Herbert recovered, the settlers searched for Ayrton, who had disappeared during the troubles. They found him alive, while the remaining attackers lay dead nearby without the wounds they expected.",
+        "The hidden power that had protected them was clearly capable of terrible force. Smith wanted to understand it, but he also wanted to thank whoever had shown them kindness. They searched caves, shores, and forest paths, yet the helper remained beyond their reach.",
+        "Meanwhile, Mount Franklin began to show signs that it was not as quiet as before. Smoke over a mountain was a different kind of warning, one no locked door could keep outside. Then the telegraph rang when nobody should have been sending a message from the enclosure.",
+        "A new wire led them onward, away from the route they had built with their own hands. At low tide they entered a sea cave and followed the strange light waiting within.",
+        "Chapter 15: The Answer Beneath the Water. Inside the cavern lay a long metal vessel, and within it waited an old man. His name was Captain Nemo, and the vessel was the Nautilus.",
+        "Readers of Twenty Thousand Leagues Under the Sea may recognise both names. Nemo had watched the settlers for a long time, helping them without allowing them to see him. He had rescued Smith, left supplies, guided their boat, and brought medicine when Herbert was ill.",
+        "The bottle leading to Ayrton and the destruction of the enemy ship were also part of his hidden work. Nemo told them that he had once been Prince Dakkar of India, and had fought against British rule. After terrible losses, he had left the world above and made the ocean his refuge.",
+        "Now his companions were gone, he was old and ill, and the Nautilus could no longer carry him freely away. The settlers saw a generous protector, but also a lonely man whose life carried anger, grief, and difficult choices.",
+        "Chapter 16: The Captain's Last Warning. The settlers remained with Nemo during his final hours, offering the company he had lived without. He gave them a small chest of treasure and warned Smith of a danger beneath the island.",
+        "The volcano and the sea were separated by rock, but that barrier would not remain safe for ever. If water broke into the hot depths, the island could be destroyed. When Nemo died, they honoured his wish that the Nautilus should become his tomb beneath the water.",
+        "For the settlers, the mystery had become a person, and now that person was gone. Smith examined the threatened barrier and understood that the captain's warning could not be ignored. They must prepare to leave the home they had worked so hard to build.",
+        "Their small boat had been destroyed during the earlier troubles, so they hurried to build another vessel. This time they were working against a danger that would not stop to let them finish.",
+        "Chapter 17: The Night of Fire. Smoke thickened above Mount Franklin, and the ground reminded them that the island was changing. Lava spread across places they knew, burning trees and cutting through familiar routes.",
+        "They tried to save useful supplies while continuing their work on the new ship. Fields, workshops, and paths could vanish in hours after taking months to create. Pencroft could not bear to see their home destroyed, but anger could not turn the lava aside.",
+        "They hurried to make the vessel ready before the final disaster arrived. But the rock barrier failed before their work was finished, and the sea entered the burning depths. A vast explosion tore Lincoln Island apart and hurled away the world they had known.",
+        "The six men and Top survived on a small remnant of rock above the sea. Almost everything they had made was gone, and no workshop remained from which to begin again.",
+        "Chapter 18: A Ship Finds the Last Rock. On the bare rock, the survivors had very little food and almost no protection from the weather. Their knowledge had not disappeared, but knowledge alone could not make a ship rise from the sea.",
+        "At last a vessel appeared, and Ayrton recognised the Duncan coming towards them. The rescuers had visited Tabor Island and found a message directing them to Lincoln Island. Nemo had left that information there before his death, giving help that could outlive him.",
+        "The last mystery ended in rescue, although the island itself could never be returned to them. They returned to America and used Nemo's gift to establish a new home in Iowa. They carried familiar names into the new landscape, keeping the memory of Lincoln Island alive.",
+        "What had saved them included skill, patient work, friendship, and help they could never have provided alone. The island was gone, but the people who had learned to live together did not have to lose one another.",
+        "Chapter 19: After the Adventure. The Mysterious Island is a novel, and its island and characters belong to an imagined story. It draws on real ideas about plants, materials, light, electricity, and the work needed to build things.",
+        "But the speed of the settlers' progress and some of their inventions are simplified or exaggerated for adventure. Its descriptions of dangerous chemicals, weapons, medicine, and volcanic events are not instructions to copy. Smith has important knowledge, yet the group also depends on Neb's care, Pencroft's skills, Spilett's judgement, and Herbert's curiosity.",
+        "Ayrton shows that a person's future need not be only a repetition of his worst actions. Nemo's help is generous, but the story also gives us reasons to think about his loneliness and use of force. Which problem would you most like to help the settlers solve, and whose skill would you ask to learn first?"
+      ],
+      "readingGuide": {
+        "before": "先认识五位性格与技能不同的同伴。跟着他们从生存难题开始，不急着寻找岛上秘密的答案。",
+        "people": [
+          "史密斯：工程师，善于把观察和知识变成办法。",
+          "斯皮莱：记者，仔细观察并记录，也愿意照顾同伴。",
+          "潘克洛夫：水手，擅长航海和动手，十分关心赫伯特。",
+          "赫伯特：年轻同伴，喜爱动植物，愿意学习。",
+          "纳布：史密斯的朋友，负责照料、食物，也和大家共同劳动。"
+        ],
+        "watch": "遇到难题时，他们手里有什么？还缺什么？哪些结果来自自己的努力，哪些证据说明有人暗中参与？",
+        "chapters": [
+          {
+            "recap": "气球撞上海水，又升起一次，把他们拖向一片陌生的海岸。",
+            "questions": [
+              [
+                "风暴为什么让他们不断丢弃重要物资？",
+                "把当前的危险和将来的生活需要分开想。",
+                "减轻重量可能避免立刻坠海，但丢掉物资会让日后的生存更艰难。他们在两种风险之间选择。"
+              ]
+            ]
+          },
+          {
+            "recap": "他记得海水，却不记得从海里来到这里的过程；这座岛已经给了他们第一个谜。",
+            "questions": [
+              [
+                "纳布为什么不肯停止寻找史密斯？",
+                "除了知道谁失踪了，也要留意两人的关系。",
+                "史密斯是他珍视的朋友；他不肯让恐惧成为放弃寻找的理由。他选择的友谊推动了行动。"
+              ]
+            ]
+          },
+          {
+            "recap": "睡觉前，他们安排好人，小心看守这堆火。",
+            "questions": [
+              [
+                "史密斯怎样改变大家看待怀表的方式？",
+                "怀表不只可以告诉时间。",
+                "他注意到玻璃的形状，发现它们还能帮助聚光。这体现观察和把知识用于新问题的能力。"
+              ]
+            ]
+          },
+          {
+            "recap": "他们带着心中的地图回到海岸，也更清楚接下来需要做什么。",
+            "questions": [
+              [
+                "五个人在观察岛屿时，注意的东西为什么不同？",
+                "回顾各人的技能。",
+                "赫伯特注意生物，水手关注木材和海岸，工程师关注距离与材料，记者记录。他们的发现可以互补。"
+              ]
+            ]
+          },
+          {
+            "recap": "这座岛渐渐变得熟悉，而让它越来越像家的，是他们共同的劳动。",
+            "questions": [
+              [
+                "为什么先做陶罐，比立刻造大船更实际？",
+                "想想下一件工具需要什么条件。",
+                "陶罐和砖块能支持食物、储存和进一步加工；工具之间有先后依赖，不能仅凭愿望跳过。"
+              ]
+            ]
+          },
+          {
+            "recap": "即使他们为生活筑起了屏障，岛上仍有他们不理解的地方。",
+            "questions": [
+              [
+                "花岗岩宫解决了所有安全问题吗？",
+                "既看悬崖高度，也看托普的反应。",
+                "新家改善了防风浪和防入侵的条件，但他们并不理解岩洞的一切。舒适并不代表已经掌握全部情况。"
+              ]
+            ]
+          },
+          {
+            "recap": "一粒能从两指间漏掉的麦子，改变了他们对未来的期待。",
+            "questions": [
+              [
+                "为什么不能把第一批麦子马上吃掉？",
+                "分清一次吃饱和以后继续收获。",
+                "留种让收成有机会扩大。眼前的满足与长远的需要不总是一致，故事用一粒麦子表现耐心。"
+              ]
+            ]
+          },
+          {
+            "recap": "他们已经学会自己制造许多东西，可有些东西，显然并非来自他们自己的劳动。",
+            "questions": [
+              [
+                "木箱使生活容易了，为什么反而让谜团更深？",
+                "物品是否过于符合他们的需要？",
+                "他们能使用物资，却不知道提供者。得到帮助与解释帮助的来源，是两个不同的问题。"
+              ]
+            ]
+          },
+          {
+            "recap": "后来，又一个问题加入了谜团：是谁在恰当的时刻，让那束光亮了起来？",
+            "questions": [
+              [
+                "他们为什么愿意冒险去塔博尔岛？",
+                "他们自己也经历过等待救援。",
+                "他们把陌生人的困境看得重要，但仍先检查船和物资。善意与准备可以同时存在。"
+              ]
+            ]
+          },
+          {
+            "recap": "救回艾尔通回答了一个问题，却又悄悄打开了另一个问题。",
+            "questions": [
+              [
+                "同伴们怎样给艾尔通第二次机会？",
+                "不要只看他们说了什么，也看安排了什么。",
+                "他们承认过去，却提供工作、陪伴和重新建立信任的时间；改变需要连续的行动。"
+              ]
+            ]
+          },
+          {
+            "recap": "一天，一艘船出现了，大家的希望都转向了地平线。",
+            "questions": [
+              [
+                "电报说明工程师只靠一个聪明想法就能成功吗？",
+                "看看电线、电源和大家的劳动。",
+                "它既需要原理，也需要材料和细致的制作。发明离不开把想法实现的过程。"
+              ]
+            ]
+          },
+          {
+            "recap": "危险只是换了模样，并没有随着沉船结束。",
+            "questions": [
+              [
+                "敌船沉没后，为什么不能立刻放松警惕？",
+                "注意哪些敌人已离开船。",
+                "部分袭击者已进入森林，危险并没有与船一起沉没；局势改变后需要重新判断。"
+              ]
+            ]
+          },
+          {
+            "recap": "那个看不见的帮助者，不再只是有趣的谜题；有人帮助救回了朋友的生命。",
+            "questions": [
+              [
+                "送来的药物为什么比木箱更触动他们？",
+                "把物资方便与朋友的生命放在一起想。",
+                "药物在最绝望时刻帮助了赫伯特；未知帮助者与他们的关系因此变得更加切身。"
+              ]
+            ]
+          },
+          {
+            "recap": "退潮时，他们进入海边洞穴，循着深处等待着他们的奇异光亮前进。",
+            "questions": [
+              [
+                "隐秘力量保护他们，就一定不会令人不安吗？",
+                "既看援助，也看它对敌人造成的后果。",
+                "它施以善意，也掌握致命力量。感激不必阻止我们继续思考力量怎样使用。"
+              ]
+            ]
+          },
+          {
+            "recap": "大家看到的是慷慨的保护者，也是一位带着愤怒、悲伤和艰难抉择走过一生的孤独老人。",
+            "questions": [
+              [
+                "谜底揭晓后，哪些旧线索可以重新解释？",
+                "从救人、物资、瓶中信和药物中选择几项。",
+                "这些事件连接到尼摩的行动；但这并不抹去岛上同伴自己的知识、劳动与合作。"
+              ]
+            ]
+          },
+          {
+            "recap": "这一次，他们是在和一种不会停下来等他们完工的危险赛跑。",
+            "questions": [
+              [
+                "得知火山危险后，为什么必须改变原来的计划？",
+                "家园很珍贵，地质危险却不会听从人的愿望。",
+                "留下的感情不能消除风险；他们需要依据新证据，及时把重点改为准备撤离。"
+              ]
+            ]
+          },
+          {
+            "recap": "他们做出的一切几乎都不在了，也再没有一间工场，可以让他们从头开始。",
+            "questions": [
+              [
+                "这一章怎样表现人的能力也有边界？",
+                "留意他们付出的劳动和灾难的规模。",
+                "他们能建设许多东西，却无法命令火山停止。承认能力边界也是判断现实的一部分。"
+              ]
+            ]
+          },
+          {
+            "recap": "岛虽然消失了，那些学会共同生活的人，却不必再失去彼此。",
+            "questions": [
+              [
+                "尼摩去世后为什么还能帮助他们？",
+                "救援船依据什么找来？",
+                "他事先留下的位置消息让救援成为可能。关怀有时通过提前安排，延续到一个人离开之后。"
+              ]
+            ]
+          },
+          {
+            "recap": "你最想帮助岛上的人解决哪个难题？又最想先向谁学习哪一种技能？",
+            "questions": [
+              [
+                "你会怎样区分故事知识和可照做的真实方法？",
+                "想想小说对时间、难度和危险的处理。",
+                "小说能激发问题，却不保证技术细节完整或安全；真实学习还需要可靠材料和适合的指导。"
+              ]
+            ]
+          }
+        ],
+        "after": [
+          [
+            "哪一种建造过程最吸引你？",
+            "选一项工具、住所或通信方式，讲清它解决了什么问题、又需要哪些前提。"
+          ],
+          [
+            "如果没有暗中的帮助，他们的努力还有意义吗？",
+            "用他们自己找到水源、制造工具、照料同伴的事例支持你的看法。"
+          ],
+          [
+            "艾尔通和尼摩分别改变了你对“一个人是谁”的判断吗？",
+            "可以同时考虑过去、现在的行动，以及故事没有替我们消除的困难。"
+          ]
+        ]
+      },
+      "narrations": {
+        "child": {
+          "src": "audio/mysterious-island-retold-child-9c26d8881435.mp3",
+          "voice": "en-US-AnaNeural",
+          "label": "美式童声 Ana",
+          "slowRate": 0.8
+        },
+        "teacher": {
+          "src": "audio/mysterious-island-retold-teacher-fb4322c13681.mp3",
+          "voice": "en-US-JennyNeural",
+          "label": "美式女老师 Jenny",
+          "slowRate": 0.8
+        }
+      },
+      "narration": {
+        "src": "audio/mysterious-island-retold-child-9c26d8881435.mp3",
+        "voice": "en-US-AnaNeural",
+        "label": "美式童声 Ana",
+        "slowRate": 0.8
+      },
+      "wordMeanings": {
+        "top": "托普（狗的名字）；顶部",
+        "firing": "烧制（本书此处指烧陶器、砖块）",
+        "left": "留下；离开（leave的过去式）；左边",
+        "saw": "看见（see的过去式）；锯",
+        "bear": "忍受；承受（could not bear：无法忍受）；熊",
+        "right": "恰当的；正确的；权利；右边",
+        "match": "火柴（本书此处指生火用品）；比赛",
+        "light": "光；轻的",
+        "lighter": "更轻的（make it lighter：减轻它的重量）",
+        "lay": "停放着；躺着（lie的过去式）；放置",
+        "fell": "落下；倒下（fall的过去式）",
+        "bit": "咬（bite的过去式）；一点",
+        "course": "流向；航向；路线；课程",
+        "watched": "看守；观察（watch的过去式）",
+        "work": "工作；劳动；运转；作品",
+        "set": "放置（set out：动身，出发）",
+        "fine": "好的；精美的",
+        "arms": "手臂；武器",
+        "kept": "保持；保存；照料（keep的过去式）",
+        "signs": "迹象；标记（复数）",
+        "state": "状态；州",
+        "passed": "经过；传递；过去了（pass的过去式）",
+        "second": "第二（a second chance：第二次机会）；秒",
+        "hard": "坚硬的；艰难的；努力地"
+      }
     }
   ],
   "glossary": {
@@ -68607,7 +72615,140 @@
     "traveller": "旅行者（英式拼写）",
     "tunnels": "隧道（复数）",
     "upwards": "向上",
-    "wandering": "漫游；辗转行走"
+    "wandering": "漫游；辗转行走",
+    "accessible": "可以进入的；可到达的",
+    "achievements": "成就；成果（复数）",
+    "alarm": "惊恐；警报",
+    "ayrton": "艾尔通（人名）",
+    "ayrton's": "艾尔通的",
+    "beginnings": "开端（复数）",
+    "behaviour": "行为；表现（英式拼写）",
+    "boiled": "煮熟的；煮沸了",
+    "bonadventure": "乘风破浪号（小说中的船名）",
+    "borrowing": "借用",
+    "bottle": "瓶子",
+    "british": "英国的；英国人",
+    "bullet": "子弹",
+    "cannon": "大炮",
+    "caused": "引起；造成（cause 的过去式）",
+    "caves": "洞穴（复数）",
+    "characters": "人物；角色；文字（复数）",
+    "chemicals": "化学物质（复数）",
+    "chimneys": "烟囱（复数）；小说中的岩石庇护所名",
+    "civil": "国内的；公民的（Civil War：内战）",
+    "clay": "黏土",
+    "clearer": "更清楚的；更明亮的",
+    "coastline": "海岸线",
+    "copy": "照做；复制；副本",
+    "criminals": "罪犯（复数）",
+    "cyrus": "赛勒斯（人名）",
+    "dakkar": "达卡（人名）",
+    "defend": "保卫；防守",
+    "depends": "依靠；取决于",
+    "depths": "深处（复数形式）",
+    "descriptions": "描述；描写（复数）",
+    "destruction": "毁灭；破坏",
+    "devoted": "忠实的；挚爱的",
+    "directing": "指引；指向",
+    "draws": "画；汲取（draws on：借用；利用）",
+    "duncan": "邓肯号（船名）",
+    "enclosure": "围起来的地方；畜栏",
+    "engineer": "工程师",
+    "enslaved": "被奴役的；被迫为奴的",
+    "events": "事件（复数）",
+    "exaggerated": "夸张了的",
+    "fact": "事实",
+    "factory": "工厂",
+    "foot": "脚；英尺（on foot：步行）",
+    "fortune": "财富；运气",
+    "franklin": "富兰克林（人名或小说中的山名）",
+    "gas": "气体",
+    "generous": "慷慨的",
+    "gideon": "吉迪恩（人名）",
+    "grain": "谷粒；一粒谷物",
+    "granite": "花岗岩",
+    "gunfire": "枪炮声；枪炮射击",
+    "height": "高度；高处",
+    "heights": "高度；高地（复数）",
+    "helper": "帮助者",
+    "herbert": "赫伯特（人名）",
+    "herbert's": "赫伯特的",
+    "honoured": "尊重；遵从；纪念（英式拼写）",
+    "hopes": "希望（复数或动词形式）",
+    "information": "信息；消息",
+    "inventions": "发明（复数）",
+    "iowa": "艾奥瓦州（美国地名）",
+    "jobs": "工作；任务（复数）",
+    "judgement": "判断；评判；审判（英式拼写）",
+    "landscape": "景色；地貌",
+    "leap": "跳跃；飞跃",
+    "lens": "透镜；镜片",
+    "lining": "衣服的衬里；内衬",
+    "losses": "损失；失去的事物（复数）",
+    "mainland": "大陆；本土",
+    "meanwhile": "与此同时",
+    "minds": "头脑；心中（复数）",
+    "miracle": "奇迹",
+    "neb": "纳布（人名）",
+    "neb's": "纳布的",
+    "net": "网",
+    "observation": "观察；观察所得",
+    "observe": "观察；注意",
+    "outlive": "比……活得更久；在……之后继续存在",
+    "pencroft": "潘克洛夫（人名）",
+    "pencroft's": "潘克洛夫的",
+    "possess": "拥有",
+    "possessed": "拥有（possess 的过去式）",
+    "president": "总统；主席",
+    "protector": "保护者",
+    "provided": "提供了",
+    "proving": "证明",
+    "readers": "读者（复数）",
+    "recover": "恢复；康复；找回",
+    "refuge": "避难所；庇护",
+    "regained": "重新获得；恢复了",
+    "remnant": "残余部分；残存物",
+    "repetition": "重复",
+    "reporter": "记者",
+    "richmond": "里士满（美国城市）",
+    "roasted": "烤熟的",
+    "routes": "路线（复数）",
+    "searches": "搜寻（复数或动词形式）",
+    "season": "季节",
+    "seize": "夺取；抓住",
+    "settlers": "定居者；故事中在岛上建立家园的人（复数）",
+    "shine": "发光；照耀",
+    "shores": "岸；海岸（复数）",
+    "shows": "显示；表明",
+    "signals": "信号（复数）",
+    "simplified": "简化了的",
+    "smith": "史密斯（人名）；铁匠",
+    "smith's": "史密斯的",
+    "soaked": "湿透的",
+    "solved": "解决了；解开了",
+    "spilett": "斯皮莱（人名）",
+    "spilett's": "斯皮莱的",
+    "stored": "储存了的",
+    "studying": "学习；研究；仔细查看",
+    "summit": "山顶；顶峰",
+    "suspected": "猜想；怀疑",
+    "tabor": "塔博尔（小说中的岛名）",
+    "telegraph": "电报；电报机",
+    "threaten": "威胁；危及",
+    "tomb": "陵墓；坟墓",
+    "tool": "工具",
+    "torn": "撕破的；撕裂了（tear 的过去分词）",
+    "travellers": "旅行者（复数，英式拼写）",
+    "unseen": "看不见的；未被看见的",
+    "unwritten": "未写下的",
+    "watches": "怀表；手表（复数）；看守",
+    "water's": "水的",
+    "wheat": "小麦",
+    "whoever": "无论谁；……的那个人",
+    "wire": "电线；金属丝",
+    "workshop": "工场；作坊",
+    "workshops": "工场；作坊（复数）",
+    "wreck": "失事；沉船；残骸"
   },
   "archivedStories": [
     {
