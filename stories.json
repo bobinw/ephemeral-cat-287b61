@@ -70388,6 +70388,3124 @@
         "fierce": "激烈的；凶猛的",
         "balance": "平衡；力量格局"
       }
+    },
+    {
+      "id": "around-world-retold",
+      "title": "Around the World in Eighty Days",
+      "titleZh": "八十天环游地球",
+      "kind": "picture",
+      "adaptedReader": true,
+      "synopsis": "一位生活精确如钟表的先生，带着新仆人突然出发：八十天绕地球一圈。误船、断路和追踪接连打乱计划，他们必须不断寻找下一条路。",
+      "credits": "原著：Jules Verne，Le Tour du monde en quatre-vingts jours；依据 George M. Towle 英文译本（Project Gutenberg #103）节选改写。本站简明英文、中文翻译、导读和封面为新编，CC BY 4.0。非原著全文，非官方分级版本，蓝思值未测评。压缩部分旅行支线、暴力与成人情节，保留主要路线、同伴互助和日期谜题；原作时代偏见不代表当代地理文化事实。",
+      "creditsFile": "books/around-world-retold/credits.txt",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/103",
+      "original": "books/around-world-retold/original.txt",
+      "retelling": "books/around-world-retold/retelling.txt",
+      "cover": "books/around-world-retold/cover.svg",
+      "edition": "原作探险版",
+      "translationNote": "18章故事＋1章读后思考；简明英文节选改写，突出交通路线、应变、同伴互助与日期谜题。",
+      "shelfDifficulty": "challenge",
+      "topics": [
+        "冒险与探索",
+        "旅行与地理"
+      ],
+      "illustrationNote": "英文与中文为节选改写；封面为本站原创交通与地球示意图，正文采用纯文字分页。",
+      "introduction": {
+        "author": "儒勒·凡尔纳（Jules Verne），法国小说家，《海底两万里》《地心游记》和《神秘岛》的作者。",
+        "background": "十九世纪交通快速变化的时代，铁路与轮船让环球旅行成为一场关于路线、时刻与应变的挑战。故事发生于1872年，书中路线与社会描写不等于当代情况。",
+        "synopsis": "福格先生押下赌注，要在八十天内回到伦敦。他和路路通向东出发，每到一站都需要衔接下一班交通工具；可是，时刻表从不保证一路没有意外。",
+        "sourceUrl": "https://www.gutenberg.org/ebooks/103"
+      },
+      "picturePages": [
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "layout": "reflow",
+          "text": "Around the World in Eighty Days.",
+          "sentences": [
+            {
+              "en": "Around the World in Eighty Days.",
+              "zh": "八十天环游地球 · 原作探险版。",
+              "audioStart": 0.0555,
+              "audioEnd": 2.5922
+            }
+          ],
+          "audioStart": 0,
+          "audioEnd": 2.7122,
+          "voices": {
+            "teacher": {
+              "audioStart": 0,
+              "audioEnd": 2.2261,
+              "sentences": [
+                {
+                  "audioStart": 0.0555,
+                  "audioEnd": 2.1061
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 0,
+          "text": "Chapter 1: A Very Quiet Life. Phileas Fogg lived in London, where every part of his day seemed to follow the hands of a clock. He ate at fixed times, walked at a steady pace, and rarely showed surprise.",
+          "sentences": [
+            {
+              "en": "Chapter 1: A Very Quiet Life.",
+              "zh": "第1章：十分安静的生活。",
+              "type": "chapter",
+              "audioStart": 3.4305,
+              "audioEnd": 6.4255
+            },
+            {
+              "en": "Phileas Fogg lived in London, where every part of his day seemed to follow the hands of a clock.",
+              "zh": "菲利亚斯·福格住在伦敦，他一天中的每件事似乎都跟着钟表指针进行。",
+              "audioStart": 7.2639,
+              "audioEnd": 14.1061
+            },
+            {
+              "en": "He ate at fixed times, walked at a steady pace, and rarely showed surprise.",
+              "zh": "他定时吃饭，以稳定的步伐行走，很少表现出惊讶。",
+              "audioStart": 14.9445,
+              "audioEnd": 21.2033
+            }
+          ],
+          "audioStart": 3.3505,
+          "audioEnd": 21.3233,
+          "voices": {
+            "teacher": {
+              "audioStart": 2.8645,
+              "audioEnd": 17.9622,
+              "sentences": [
+                {
+                  "audioStart": 2.9445,
+                  "audioEnd": 5.4811
+                },
+                {
+                  "audioStart": 6.3195,
+                  "audioEnd": 11.8561
+                },
+                {
+                  "audioStart": 12.6945,
+                  "audioEnd": 17.8422
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 0,
+          "text": "His new servant, a cheerful Frenchman called Passepartout, hoped that working for him would mean a peaceful life. Passepartout had been a performer and a fireman, and he was ready for a rest from excitement. On his first day, he carefully checked the house while Fogg went to his club as usual.",
+          "sentences": [
+            {
+              "en": "His new servant, a cheerful Frenchman called Passepartout, hoped that working for him would mean a peaceful life.",
+              "zh": "他的新仆人是个开朗的法国人，名叫路路通，希望这份工作能带来平静的生活。",
+              "audioStart": 22.0417,
+              "audioEnd": 30.2033
+            },
+            {
+              "en": "Passepartout had been a performer and a fireman, and he was ready for a rest from excitement.",
+              "zh": "路路通做过表演者和消防员，已经准备远离刺激，好好休息。",
+              "audioStart": 31.0417,
+              "audioEnd": 37.5089
+            },
+            {
+              "en": "On his first day, he carefully checked the house while Fogg went to his club as usual.",
+              "zh": "上工第一天，他仔细检查屋子，福格则照常去了俱乐部。",
+              "audioStart": 38.3472,
+              "audioEnd": 44.4395
+            }
+          ],
+          "audioStart": 21.9617,
+          "audioEnd": 44.5595,
+          "voices": {
+            "teacher": {
+              "audioStart": 18.6005,
+              "audioEnd": 37.99,
+              "sentences": [
+                {
+                  "audioStart": 18.6805,
+                  "audioEnd": 25.3561
+                },
+                {
+                  "audioStart": 26.1945,
+                  "audioEnd": 31.7172
+                },
+                {
+                  "audioStart": 32.5555,
+                  "audioEnd": 37.87
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 0,
+          "text": "Everything seemed wonderfully regular, from the warm rooms to the times written in his instructions. But before that day ended, the quiet household would be preparing for a journey around the world.",
+          "sentences": [
+            {
+              "en": "Everything seemed wonderfully regular, from the warm rooms to the times written in his instructions.",
+              "zh": "一切都井然有序，从温暖的房间，到工作说明上写好的时间，都令人满意。",
+              "audioStart": 45.2778,
+              "audioEnd": 52.2867
+            },
+            {
+              "en": "But before that day ended, the quiet household would be preparing for a journey around the world.",
+              "zh": "可这一天尚未结束，这个安静的家就要为一场环球旅行作准备了。",
+              "audioStart": 53.125,
+              "audioEnd": 59.9117
+            }
+          ],
+          "audioStart": 45.1978,
+          "audioEnd": 60.0317,
+          "voices": {
+            "teacher": {
+              "audioStart": 38.6283,
+              "audioEnd": 50.7955,
+              "sentences": [
+                {
+                  "audioStart": 38.7083,
+                  "audioEnd": 44.5783
+                },
+                {
+                  "audioStart": 45.4167,
+                  "audioEnd": 50.6755
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 1,
+          "text": "Chapter 2: The Eighty-Day Challenge. At the club, a newspaper report led Fogg and several other men to discuss how quickly a traveler could circle the earth. New railways, regular steamships, and the route through the Suez Canal made the world seem smaller.",
+          "sentences": [
+            {
+              "en": "Chapter 2: The Eighty-Day Challenge.",
+              "zh": "第2章：八十天的挑战。",
+              "type": "chapter",
+              "audioStart": 60.75,
+              "audioEnd": 63.7867
+            },
+            {
+              "en": "At the club, a newspaper report led Fogg and several other men to discuss how quickly a traveler could circle the earth.",
+              "zh": "在俱乐部，一则报纸消息让福格和几位先生讨论起：旅行者最快能用多久绕地球一圈。",
+              "audioStart": 64.6236,
+              "audioEnd": 73.0353
+            },
+            {
+              "en": "New railways, regular steamships, and the route through the Suez Canal made the world seem smaller.",
+              "zh": "新的铁路、定期航行的轮船，以及穿过苏伊士运河的航线，让世界显得更小了。",
+              "audioStart": 73.875,
+              "audioEnd": 81.3422
+            }
+          ],
+          "audioStart": 60.67,
+          "audioEnd": 81.4622,
+          "voices": {
+            "teacher": {
+              "audioStart": 51.4339,
+              "audioEnd": 69.1011,
+              "sentences": [
+                {
+                  "audioStart": 51.5139,
+                  "audioEnd": 54.12
+                },
+                {
+                  "audioStart": 54.9583,
+                  "audioEnd": 62.0506
+                },
+                {
+                  "audioStart": 62.8889,
+                  "audioEnd": 68.9811
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 1,
+          "text": "The published plan allowed eighty days, but the others pointed out storms, accidents, and missed connections. Fogg declared that he could do it, and he made a wager of twenty thousand pounds. He had to return to the club by a quarter to nine on the evening of December twenty-first.",
+          "sentences": [
+            {
+              "en": "The published plan allowed eighty days, but the others pointed out storms, accidents, and missed connections.",
+              "zh": "报上的计划需要八十天，但其他人指出，途中可能有风暴、事故和错过的班次。",
+              "audioStart": 82.1805,
+              "audioEnd": 90.37
+            },
+            {
+              "en": "Fogg declared that he could do it, and he made a wager of twenty thousand pounds.",
+              "zh": "福格宣布自己能够做到，并押上了两万英镑的赌注。",
+              "audioStart": 91.2083,
+              "audioEnd": 97.0227
+            },
+            {
+              "en": "He had to return to the club by a quarter to nine on the evening of December twenty-first.",
+              "zh": "他必须在十二月二十一日晚上八点四十五分之前回到俱乐部。",
+              "audioStart": 97.8611,
+              "audioEnd": 103.9255
+            }
+          ],
+          "audioStart": 82.1005,
+          "audioEnd": 104.0455,
+          "voices": {
+            "teacher": {
+              "audioStart": 69.7395,
+              "audioEnd": 88.3372,
+              "sentences": [
+                {
+                  "audioStart": 69.8195,
+                  "audioEnd": 76.7033
+                },
+                {
+                  "audioStart": 77.5417,
+                  "audioEnd": 82.2311
+                },
+                {
+                  "audioStart": 83.0695,
+                  "audioEnd": 88.2172
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 1,
+          "text": "That very evening, he told an astonished Passepartout to pack a small bag and come with him. Their train left London, and the life Passepartout had expected disappeared behind them.",
+          "sentences": [
+            {
+              "en": "That very evening, he told an astonished Passepartout to pack a small bag and come with him.",
+              "zh": "就在当天晚上，他让惊讶不已的路路通收拾一个小旅行袋，跟自己出发。",
+              "audioStart": 104.7639,
+              "audioEnd": 111.6061
+            },
+            {
+              "en": "Their train left London, and the life Passepartout had expected disappeared behind them.",
+              "zh": "火车驶离伦敦，路路通原本期待的生活，就这样被留在了身后。",
+              "audioStart": 112.4445,
+              "audioEnd": 118.7589
+            }
+          ],
+          "audioStart": 104.6839,
+          "audioEnd": 118.8789,
+          "voices": {
+            "teacher": {
+              "audioStart": 88.9755,
+              "audioEnd": 100.9483,
+              "sentences": [
+                {
+                  "audioStart": 89.0555,
+                  "audioEnd": 94.6478
+                },
+                {
+                  "audioStart": 95.4861,
+                  "audioEnd": 100.8283
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 2,
+          "text": "Chapter 3: A Detective at Suez. The travelers crossed France and Italy, then boarded a steamship that carried them toward Suez. As the ship passed along its route, a detective named Fix watched the passengers with special interest.",
+          "sentences": [
+            {
+              "en": "Chapter 3: A Detective at Suez.",
+              "zh": "第3章：苏伊士的侦探。",
+              "type": "chapter",
+              "audioStart": 119.5972,
+              "audioEnd": 122.9395
+            },
+            {
+              "en": "The travelers crossed France and Italy, then boarded a steamship that carried them toward Suez.",
+              "zh": "旅行者穿过法国和意大利，登上轮船，驶向苏伊士。",
+              "audioStart": 123.7778,
+              "audioEnd": 130.7867
+            },
+            {
+              "en": "As the ship passed along its route, a detective named Fix watched the passengers with special interest.",
+              "zh": "轮船沿途航行时，一位名叫费克斯的侦探格外留意着乘客。",
+              "audioStart": 131.625,
+              "audioEnd": 138.9811
+            }
+          ],
+          "audioStart": 119.5172,
+          "audioEnd": 139.1011,
+          "voices": {
+            "teacher": {
+              "audioStart": 101.5867,
+              "audioEnd": 118.1845,
+              "sentences": [
+                {
+                  "audioStart": 101.6667,
+                  "audioEnd": 104.4811
+                },
+                {
+                  "audioStart": 105.3195,
+                  "audioEnd": 111.0644
+                },
+                {
+                  "audioStart": 111.9028,
+                  "audioEnd": 118.0645
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 2,
+          "text": "A large sum of money had been stolen from a London bank, and Fix thought Fogg resembled the wanted man. Fogg's money and sudden departure seemed suspicious to him, although they did not prove a crime. Fix waited for an arrest warrant and questioned Passepartout, who happily talked about their remarkable journey.",
+          "sentences": [
+            {
+              "en": "A large sum of money had been stolen from a London bank, and Fix thought Fogg resembled the wanted man.",
+              "zh": "伦敦一家银行有一大笔钱被盗，费克斯认为福格很像通缉中的人。",
+              "audioStart": 139.8195,
+              "audioEnd": 147.3283
+            },
+            {
+              "en": "Fogg's money and sudden departure seemed suspicious to him, although they did not prove a crime.",
+              "zh": "福格带着大笔钱，又突然出发，在他看来很可疑，尽管这些并不能证明犯罪。",
+              "audioStart": 148.1653,
+              "audioEnd": 154.7714
+            },
+            {
+              "en": "Fix waited for an arrest warrant and questioned Passepartout, who happily talked about their remarkable journey.",
+              "zh": "费克斯等待逮捕令，又向路路通打听情况；路路通高兴地讲起这趟非凡的旅程。",
+              "audioStart": 155.6097,
+              "audioEnd": 163.2853
+            }
+          ],
+          "audioStart": 139.7395,
+          "audioEnd": 163.4053,
+          "voices": {
+            "teacher": {
+              "audioStart": 118.8228,
+              "audioEnd": 138.5872,
+              "sentences": [
+                {
+                  "audioStart": 118.9028,
+                  "audioEnd": 125.1061
+                },
+                {
+                  "audioStart": 125.9445,
+                  "audioEnd": 131.2728
+                },
+                {
+                  "audioStart": 132.1111,
+                  "audioEnd": 138.4672
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 2,
+          "text": "The servant did not understand why this friendly stranger wanted so many details. When the ship sailed onward to Bombay, Fix followed, carrying his suspicion with him.",
+          "sentences": [
+            {
+              "en": "The servant did not understand why this friendly stranger wanted so many details.",
+              "zh": "仆人不明白，这位友善的陌生人为什么想知道那么多细节。",
+              "audioStart": 164.125,
+              "audioEnd": 170.0644
+            },
+            {
+              "en": "When the ship sailed onward to Bombay, Fix followed, carrying his suspicion with him.",
+              "zh": "轮船继续驶向孟买时，费克斯也跟了上去，心中仍带着怀疑。",
+              "audioStart": 170.9028,
+              "audioEnd": 177.3839
+            }
+          ],
+          "audioStart": 164.045,
+          "audioEnd": 177.5039,
+          "voices": {
+            "teacher": {
+              "audioStart": 139.2255,
+              "audioEnd": 150.3511,
+              "sentences": [
+                {
+                  "audioStart": 139.3055,
+                  "audioEnd": 144.1755
+                },
+                {
+                  "audioStart": 145.0139,
+                  "audioEnd": 150.2311
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 3,
+          "text": "Chapter 4: Where the Railway Stops. In India, Fogg and Passepartout took a train eastward, expecting the railway to carry them toward Calcutta. Then the train stopped, and they discovered that a section of the line had not yet been completed.",
+          "sentences": [
+            {
+              "en": "Chapter 4: Where the Railway Stops.",
+              "zh": "第4章：铁路尽头。",
+              "type": "chapter",
+              "audioStart": 178.2222,
+              "audioEnd": 181.3839
+            },
+            {
+              "en": "In India, Fogg and Passepartout took a train eastward, expecting the railway to carry them toward Calcutta.",
+              "zh": "到了印度，福格和路路通坐上东行列车，指望铁路将他们带往加尔各答。",
+              "audioStart": 182.2222,
+              "audioEnd": 190.5228
+            },
+            {
+              "en": "Then the train stopped, and they discovered that a section of the line had not yet been completed.",
+              "zh": "可列车停了下来，他们发现其中一段铁轨尚未修好。",
+              "audioStart": 191.3611,
+              "audioEnd": 197.995
+            }
+          ],
+          "audioStart": 178.1422,
+          "audioEnd": 198.115,
+          "voices": {
+            "teacher": {
+              "audioStart": 150.9895,
+              "audioEnd": 167.8095,
+              "sentences": [
+                {
+                  "audioStart": 151.0695,
+                  "audioEnd": 153.8005
+                },
+                {
+                  "audioStart": 154.6389,
+                  "audioEnd": 161.495
+                },
+                {
+                  "audioStart": 162.3333,
+                  "audioEnd": 167.6895
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 3,
+          "text": "The timetable had made the journey look simple, but the ground before them told a different story. Fogg did not spend long complaining; he looked for another way to reach the next part of the railway. He bought an elephant and hired a guide who knew the paths through the country.",
+          "sentences": [
+            {
+              "en": "The timetable had made the journey look simple, but the ground before them told a different story.",
+              "zh": "时刻表让旅程看起来很简单，眼前的实际情况却完全不同。",
+              "audioStart": 198.8333,
+              "audioEnd": 205.3561
+            },
+            {
+              "en": "Fogg did not spend long complaining; he looked for another way to reach the next part of the railway.",
+              "zh": "福格没有长时间抱怨，而是寻找别的办法，前往下一段铁路。",
+              "audioStart": 206.193,
+              "audioEnd": 213.0352
+            },
+            {
+              "en": "He bought an elephant and hired a guide who knew the paths through the country.",
+              "zh": "他买下一头大象，又雇了一位熟悉当地道路的向导。",
+              "audioStart": 213.875,
+              "audioEnd": 218.8422
+            }
+          ],
+          "audioStart": 198.7533,
+          "audioEnd": 218.9622,
+          "voices": {
+            "teacher": {
+              "audioStart": 168.4478,
+              "audioEnd": 185.6011,
+              "sentences": [
+                {
+                  "audioStart": 168.5278,
+                  "audioEnd": 174.0228
+                },
+                {
+                  "audioStart": 174.8611,
+                  "audioEnd": 180.6756
+                },
+                {
+                  "audioStart": 181.5139,
+                  "audioEnd": 185.4811
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 3,
+          "text": "With a fellow traveler, they continued through fields and forest, moving more slowly than a train but still moving east. Passepartout discovered that a plan could be exact on paper and still need changing in real life.",
+          "sentences": [
+            {
+              "en": "With a fellow traveler, they continued through fields and forest, moving more slowly than a train but still moving east.",
+              "zh": "他们与一位同行旅客穿过田野和森林，虽然不及火车快，却仍在向东前进。",
+              "audioStart": 219.6805,
+              "audioEnd": 228.7311
+            },
+            {
+              "en": "Passepartout discovered that a plan could be exact on paper and still need changing in real life.",
+              "zh": "路路通发现，纸上的计划即使十分精确，到了实际生活中仍可能需要改变。",
+              "audioStart": 229.5695,
+              "audioEnd": 236.5089
+            }
+          ],
+          "audioStart": 219.6005,
+          "audioEnd": 236.6289,
+          "voices": {
+            "teacher": {
+              "audioStart": 186.2395,
+              "audioEnd": 200.1845,
+              "sentences": [
+                {
+                  "audioStart": 186.3195,
+                  "audioEnd": 193.5228
+                },
+                {
+                  "audioStart": 194.3611,
+                  "audioEnd": 200.0645
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 4,
+          "text": "Chapter 5: Time for Another Person. In the forest, the guide told them that a young widow named Aouda was being taken to a ceremony that would end her life. She was unable to choose freely, and the travelers realized that she needed help at once.",
+          "sentences": [
+            {
+              "en": "Chapter 5: Time for Another Person.",
+              "zh": "第5章：为另一个人停下。",
+              "type": "chapter",
+              "audioStart": 237.3472,
+              "audioEnd": 240.5922
+            },
+            {
+              "en": "In the forest, the guide told them that a young widow named Aouda was being taken to a ceremony that would end her life.",
+              "zh": "森林中，向导告诉他们，一位名叫艾娥达的年轻寡妇，正被带往一场会夺去她生命的仪式。",
+              "audioStart": 241.4305,
+              "audioEnd": 249.7589
+            },
+            {
+              "en": "She was unable to choose freely, and the travelers realized that she needed help at once.",
+              "zh": "她无法自由选择，旅行者们意识到，她需要立即得到帮助。",
+              "audioStart": 250.5972,
+              "audioEnd": 257.1895
+            }
+          ],
+          "audioStart": 237.2672,
+          "audioEnd": 257.3095,
+          "voices": {
+            "teacher": {
+              "audioStart": 200.8228,
+              "audioEnd": 217.4761,
+              "sentences": [
+                {
+                  "audioStart": 200.9028,
+                  "audioEnd": 203.6478
+                },
+                {
+                  "audioStart": 204.4861,
+                  "audioEnd": 211.1477
+                },
+                {
+                  "audioStart": 211.9861,
+                  "audioEnd": 217.3561
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 4,
+          "text": "Fogg still had time in his schedule, and he decided to use it to try to save her. Their first attempt failed, but Passepartout found another chance by using his courage and skill as a performer. He secretly took the place of the dead husband, then rose and carried Aouda away while the watchers fled in fear.",
+          "sentences": [
+            {
+              "en": "Fogg still had time in his schedule, and he decided to use it to try to save her.",
+              "zh": "福格的行程中还有余量，他决定利用这段时间尝试救人。",
+              "audioStart": 258.0264,
+              "audioEnd": 264.0353
+            },
+            {
+              "en": "Their first attempt failed, but Passepartout found another chance by using his courage and skill as a performer.",
+              "zh": "他们第一次尝试失败了，路路通却凭借勇气和表演本领找到了另一个机会。",
+              "audioStart": 264.875,
+              "audioEnd": 272.8006
+            },
+            {
+              "en": "He secretly took the place of the dead husband, then rose and carried Aouda away while the watchers fled in fear.",
+              "zh": "他悄悄替换了死去的丈夫，随后起身抱走艾娥达，围观者则惊恐地逃散。",
+              "audioStart": 273.6389,
+              "audioEnd": 281.5228
+            }
+          ],
+          "audioStart": 257.9464,
+          "audioEnd": 281.6428,
+          "voices": {
+            "teacher": {
+              "audioStart": 218.1145,
+              "audioEnd": 237.8789,
+              "sentences": [
+                {
+                  "audioStart": 218.1945,
+                  "audioEnd": 223.0645
+                },
+                {
+                  "audioStart": 223.9028,
+                  "audioEnd": 230.4395
+                },
+                {
+                  "audioStart": 231.2778,
+                  "audioEnd": 237.7589
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 4,
+          "text": "With their guide's help, the party escaped and continued toward the railway. Aouda traveled with them, and the race around the world now included a responsibility that no timetable had listed.",
+          "sentences": [
+            {
+              "en": "With their guide's help, the party escaped and continued toward the railway.",
+              "zh": "在向导帮助下，一行人脱身，继续赶往铁路。",
+              "audioStart": 282.3611,
+              "audioEnd": 287.6061
+            },
+            {
+              "en": "Aouda traveled with them, and the race around the world now included a responsibility that no timetable had listed.",
+              "zh": "艾娥达与他们同行，而这场环球竞赛也多了一份时刻表从未列出的责任。",
+              "audioStart": 288.4445,
+              "audioEnd": 296.6061
+            }
+          ],
+          "audioStart": 282.2811,
+          "audioEnd": 296.7261,
+          "voices": {
+            "teacher": {
+              "audioStart": 238.5172,
+              "audioEnd": 250.5733,
+              "sentences": [
+                {
+                  "audioStart": 238.5972,
+                  "audioEnd": 242.7589
+                },
+                {
+                  "audioStart": 243.5972,
+                  "audioEnd": 250.4533
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 5,
+          "text": "Chapter 6: Trouble Before the Ship. At Calcutta, another delay waited for them, this time inside a court. Earlier in Bombay, Passepartout had entered a temple without following its rules, and the matter had followed him here.",
+          "sentences": [
+            {
+              "en": "Chapter 6: Trouble Before the Ship.",
+              "zh": "第6章：开船之前的麻烦。",
+              "type": "chapter",
+              "audioStart": 297.4445,
+              "audioEnd": 300.5645
+            },
+            {
+              "en": "At Calcutta, another delay waited for them, this time inside a court.",
+              "zh": "加尔各答又有一场耽搁等着他们，这次是在法庭里。",
+              "audioStart": 301.4028,
+              "audioEnd": 306.8561
+            },
+            {
+              "en": "Earlier in Bombay, Passepartout had entered a temple without following its rules, and the matter had followed him here.",
+              "zh": "先前在孟买，路路通进入一座寺庙时没有遵守规定，这件事一路追到了这里。",
+              "audioStart": 307.6945,
+              "audioEnd": 316.1755
+            }
+          ],
+          "audioStart": 297.3645,
+          "audioEnd": 316.2955,
+          "voices": {
+            "teacher": {
+              "audioStart": 251.2117,
+              "audioEnd": 267.24,
+              "sentences": [
+                {
+                  "audioStart": 251.2917,
+                  "audioEnd": 253.9811
+                },
+                {
+                  "audioStart": 254.8195,
+                  "audioEnd": 259.2867
+                },
+                {
+                  "audioStart": 260.125,
+                  "audioEnd": 267.12
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 5,
+          "text": "Fix hoped the case would keep Fogg in place until the bank's arrest warrant arrived. But Fogg paid the required bail, and the travelers reached their ship in time. They sailed from Calcutta toward Hong Kong by way of Singapore.",
+          "sentences": [
+            {
+              "en": "Fix hoped the case would keep Fogg in place until the bank's arrest warrant arrived.",
+              "zh": "费克斯希望此案能拖住福格，直到银行盗案的逮捕令送到。",
+              "audioStart": 317.0125,
+              "audioEnd": 322.8408
+            },
+            {
+              "en": "But Fogg paid the required bail, and the travelers reached their ship in time.",
+              "zh": "不过福格支付了要求的保释金，一行人及时赶上轮船。",
+              "audioStart": 323.6806,
+              "audioEnd": 329.2589
+            },
+            {
+              "en": "They sailed from Calcutta toward Hong Kong by way of Singapore.",
+              "zh": "他们从加尔各答出发，经新加坡驶向香港。",
+              "audioStart": 330.0972,
+              "audioEnd": 335.87
+            }
+          ],
+          "audioStart": 316.9325,
+          "audioEnd": 335.99,
+          "voices": {
+            "teacher": {
+              "audioStart": 267.8783,
+              "audioEnd": 283.8928,
+              "sentences": [
+                {
+                  "audioStart": 267.9583,
+                  "audioEnd": 272.62
+                },
+                {
+                  "audioStart": 273.4583,
+                  "audioEnd": 278.1339
+                },
+                {
+                  "audioStart": 278.9722,
+                  "audioEnd": 283.7728
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 5,
+          "text": "Aouda hoped to find a relative in Hong Kong, while Fogg continued checking the next connection. Fix sailed with them, convinced that every mile was carrying a criminal farther from justice.",
+          "sentences": [
+            {
+              "en": "Aouda hoped to find a relative in Hong Kong, while Fogg continued checking the next connection.",
+              "zh": "艾娥达希望在香港找到一位亲戚，福格则继续核对下一段交通安排。",
+              "audioStart": 336.7084,
+              "audioEnd": 343.2728
+            },
+            {
+              "en": "Fix sailed with them, convinced that every mile was carrying a criminal farther from justice.",
+              "zh": "费克斯也一同航行，深信每走一英里，都是让一个罪犯离正义更远一步。",
+              "audioStart": 344.1097,
+              "audioEnd": 350.9103
+            }
+          ],
+          "audioStart": 336.6284,
+          "audioEnd": 351.0303,
+          "voices": {
+            "teacher": {
+              "audioStart": 284.5311,
+              "audioEnd": 296.9067,
+              "sentences": [
+                {
+                  "audioStart": 284.6111,
+                  "audioEnd": 290.37
+                },
+                {
+                  "audioStart": 291.2083,
+                  "audioEnd": 296.7867
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 6,
+          "text": "Chapter 7: A Secret in Hong Kong. In Hong Kong, Aouda learned that her relative had moved to Europe, so Fogg offered to take her there with them. Meanwhile, Passepartout discovered that their next ship would leave earlier than expected.",
+          "sentences": [
+            {
+              "en": "Chapter 7: A Secret in Hong Kong.",
+              "zh": "第7章：香港的秘密。",
+              "type": "chapter",
+              "audioStart": 351.75,
+              "audioEnd": 355.0089
+            },
+            {
+              "en": "In Hong Kong, Aouda learned that her relative had moved to Europe, so Fogg offered to take her there with them.",
+              "zh": "在香港，艾娥达得知亲戚已迁往欧洲，福格便提出让她继续同行。",
+              "audioStart": 355.8472,
+              "audioEnd": 363.7589
+            },
+            {
+              "en": "Meanwhile, Passepartout discovered that their next ship would leave earlier than expected.",
+              "zh": "与此同时，路路通发现下一班船会比预期更早离港。",
+              "audioStart": 364.5972,
+              "audioEnd": 370.8562
+            }
+          ],
+          "audioStart": 351.67,
+          "audioEnd": 370.9762,
+          "voices": {
+            "teacher": {
+              "audioStart": 297.545,
+              "audioEnd": 313.365,
+              "sentences": [
+                {
+                  "audioStart": 297.625,
+                  "audioEnd": 300.3006
+                },
+                {
+                  "audioStart": 301.1389,
+                  "audioEnd": 307.4256
+                },
+                {
+                  "audioStart": 308.2639,
+                  "audioEnd": 313.245
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 6,
+          "text": "Before he could warn Fogg, Fix drew him into a private conversation and revealed that he was a detective. Passepartout refused to help arrest his master, whose kindness he had seen for himself. Fix then used drink and a drug to leave him unable to carry the warning back.",
+          "sentences": [
+            {
+              "en": "Before he could warn Fogg, Fix drew him into a private conversation and revealed that he was a detective.",
+              "zh": "他还没来得及通知福格，费克斯就把他带到一旁谈话，透露了自己的侦探身份。",
+              "audioStart": 371.6945,
+              "audioEnd": 379.2589
+            },
+            {
+              "en": "Passepartout refused to help arrest his master, whose kindness he had seen for himself.",
+              "zh": "路路通亲眼见过主人的善意，拒绝协助逮捕他。",
+              "audioStart": 380.0972,
+              "audioEnd": 386.5645
+            },
+            {
+              "en": "Fix then used drink and a drug to leave him unable to carry the warning back.",
+              "zh": "费克斯随后利用酒和毒品，使路路通无法回去传递消息。",
+              "audioStart": 387.4014,
+              "audioEnd": 393.0492
+            }
+          ],
+          "audioStart": 371.6145,
+          "audioEnd": 393.1692,
+          "voices": {
+            "teacher": {
+              "audioStart": 314.0033,
+              "audioEnd": 332.0178,
+              "sentences": [
+                {
+                  "audioStart": 314.0833,
+                  "audioEnd": 320.2867
+                },
+                {
+                  "audioStart": 321.125,
+                  "audioEnd": 326.6339
+                },
+                {
+                  "audioStart": 327.4722,
+                  "audioEnd": 331.8978
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 6,
+          "text": "The servant missed his chance to explain the changed departure, and the travelers were separated. Fogg and Aouda waited in vain for Passepartout, while the ship they needed prepared to sail without them.",
+          "sentences": [
+            {
+              "en": "The servant missed his chance to explain the changed departure, and the travelers were separated.",
+              "zh": "仆人错过了说明开船时间变化的机会，几位旅行者因此失散。",
+              "audioStart": 393.8889,
+              "audioEnd": 400.5228
+            },
+            {
+              "en": "Fogg and Aouda waited in vain for Passepartout, while the ship they needed prepared to sail without them.",
+              "zh": "福格和艾娥达徒劳地等着路路通，而他们需要搭乘的船，已准备在没有他们的情况下起航。",
+              "audioStart": 401.3597,
+              "audioEnd": 408.5353
+            }
+          ],
+          "audioStart": 393.8089,
+          "audioEnd": 408.6553,
+          "voices": {
+            "teacher": {
+              "audioStart": 332.6561,
+              "audioEnd": 345.1706,
+              "sentences": [
+                {
+                  "audioStart": 332.7361,
+                  "audioEnd": 338.2867
+                },
+                {
+                  "audioStart": 339.125,
+                  "audioEnd": 345.0506
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 7,
+          "text": "Chapter 8: A Small Boat and a Storm. Passepartout recovered enough to reach the departing ship, but Fogg and Aouda were not aboard. They had to find another route, and Fogg hired a small sailing boat called the Tankadere.",
+          "sentences": [
+            {
+              "en": "Chapter 8: A Small Boat and a Storm.",
+              "zh": "第8章：小船与风暴。",
+              "type": "chapter",
+              "audioStart": 409.375,
+              "audioEnd": 412.8006
+            },
+            {
+              "en": "Passepartout recovered enough to reach the departing ship, but Fogg and Aouda were not aboard.",
+              "zh": "路路通恢复过来，赶上了即将离港的船，可福格和艾娥达并不在船上。",
+              "audioStart": 413.6389,
+              "audioEnd": 420.2311
+            },
+            {
+              "en": "They had to find another route, and Fogg hired a small sailing boat called the Tankadere.",
+              "zh": "他们必须另找路线，于是福格租下一艘名叫坦卡德尔号的小帆船。",
+              "audioStart": 421.0695,
+              "audioEnd": 427.3145
+            }
+          ],
+          "audioStart": 409.295,
+          "audioEnd": 427.4345,
+          "voices": {
+            "teacher": {
+              "audioStart": 345.8089,
+              "audioEnd": 360.9345,
+              "sentences": [
+                {
+                  "audioStart": 345.8889,
+                  "audioEnd": 348.5505
+                },
+                {
+                  "audioStart": 349.3889,
+                  "audioEnd": 354.9117
+                },
+                {
+                  "audioStart": 355.75,
+                  "audioEnd": 360.8145
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 7,
+          "text": "Its captain could not take them all the way to Japan, but he could try to reach Shanghai. There they might meet the larger steamship traveling onward to Yokohama and across the Pacific. Fix joined the small boat, while its crew fought a fierce storm that made speed and safety difficult to balance.",
+          "sentences": [
+            {
+              "en": "Its captain could not take them all the way to Japan, but he could try to reach Shanghai.",
+              "zh": "船长无法把他们一路送到日本，但可以尝试赶到上海。",
+              "audioStart": 428.1528,
+              "audioEnd": 434.1756
+            },
+            {
+              "en": "There they might meet the larger steamship traveling onward to Yokohama and across the Pacific.",
+              "zh": "在那里，他们也许能赶上继续前往横滨、再横渡太平洋的大轮船。",
+              "audioStart": 435.0139,
+              "audioEnd": 441.6061
+            },
+            {
+              "en": "Fix joined the small boat, while its crew fought a fierce storm that made speed and safety difficult to balance.",
+              "zh": "费克斯也上了小船；船员们与猛烈风暴搏斗，很难在速度和安全之间取得平衡。",
+              "audioStart": 442.4431,
+              "audioEnd": 450.4381
+            }
+          ],
+          "audioStart": 428.0728,
+          "audioEnd": 450.5581,
+          "voices": {
+            "teacher": {
+              "audioStart": 361.5728,
+              "audioEnd": 380.2678,
+              "sentences": [
+                {
+                  "audioStart": 361.6528,
+                  "audioEnd": 366.62
+                },
+                {
+                  "audioStart": 367.4583,
+                  "audioEnd": 372.8561
+                },
+                {
+                  "audioStart": 373.6945,
+                  "audioEnd": 380.1478
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 7,
+          "text": "Near their destination, they saw the steamship moving away, and the captain signaled for help by firing a gun. The signal was noticed, and Fogg's party gained another chance to continue the journey.",
+          "sentences": [
+            {
+              "en": "Near their destination, they saw the steamship moving away, and the captain signaled for help by firing a gun.",
+              "zh": "临近目的地时，他们看见轮船正驶离，于是船长鸣枪求助。",
+              "audioStart": 451.2778,
+              "audioEnd": 459.245
+            },
+            {
+              "en": "The signal was noticed, and Fogg's party gained another chance to continue the journey.",
+              "zh": "信号被发现了，福格一行又获得一次继续旅程的机会。",
+              "audioStart": 460.0834,
+              "audioEnd": 466.2867
+            }
+          ],
+          "audioStart": 451.1978,
+          "audioEnd": 466.4067,
+          "voices": {
+            "teacher": {
+              "audioStart": 380.9061,
+              "audioEnd": 393.7539,
+              "sentences": [
+                {
+                  "audioStart": 380.9861,
+                  "audioEnd": 387.7172
+                },
+                {
+                  "audioStart": 388.5556,
+                  "audioEnd": 393.6339
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 8,
+          "text": "Chapter 9: The Performer in Japan. Passepartout arrived in Yokohama alone, with little money and no idea where his companions were. He walked through unfamiliar streets, searching for food and a way to earn his passage onward.",
+          "sentences": [
+            {
+              "en": "Chapter 9: The Performer in Japan.",
+              "zh": "第9章：日本的表演者。",
+              "type": "chapter",
+              "audioStart": 467.125,
+              "audioEnd": 470.2867
+            },
+            {
+              "en": "Passepartout arrived in Yokohama alone, with little money and no idea where his companions were.",
+              "zh": "路路通独自抵达横滨，钱所剩无几，也不知道同伴们在哪里。",
+              "audioStart": 471.125,
+              "audioEnd": 478.4533
+            },
+            {
+              "en": "He walked through unfamiliar streets, searching for food and a way to earn his passage onward.",
+              "zh": "他穿过陌生街道，寻找食物，也寻找挣到下一段船费的办法。",
+              "audioStart": 479.2917,
+              "audioEnd": 486.0367
+            }
+          ],
+          "audioStart": 467.045,
+          "audioEnd": 486.1567,
+          "voices": {
+            "teacher": {
+              "audioStart": 394.3922,
+              "audioEnd": 410.2678,
+              "sentences": [
+                {
+                  "audioStart": 394.4722,
+                  "audioEnd": 397.1339
+                },
+                {
+                  "audioStart": 397.9722,
+                  "audioEnd": 404.0089
+                },
+                {
+                  "audioStart": 404.8472,
+                  "audioEnd": 410.1478
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 8,
+          "text": "His old performance skills helped him find work with a troupe of acrobats. During a show, he took his place in a tall human tower, wearing part of a strange costume. Then he saw Fogg and Aouda in the audience, and excitement swept away every thought of the performance.",
+          "sentences": [
+            {
+              "en": "His old performance skills helped him find work with a troupe of acrobats.",
+              "zh": "过去的表演本领，帮助他在一个杂技团找到了工作。",
+              "audioStart": 486.875,
+              "audioEnd": 492.1756
+            },
+            {
+              "en": "During a show, he took his place in a tall human tower, wearing part of a strange costume.",
+              "zh": "一次演出中，他穿着奇特服装，在高高的人塔上站好自己的位置。",
+              "audioStart": 493.0139,
+              "audioEnd": 499.62
+            },
+            {
+              "en": "Then he saw Fogg and Aouda in the audience, and excitement swept away every thought of the performance.",
+              "zh": "突然，他看见福格和艾娥达就在观众中，激动之下，把演出的事忘得一干二净。",
+              "audioStart": 500.4584,
+              "audioEnd": 507.8145
+            }
+          ],
+          "audioStart": 486.795,
+          "audioEnd": 507.9345,
+          "voices": {
+            "teacher": {
+              "audioStart": 410.9061,
+              "audioEnd": 428.8233,
+              "sentences": [
+                {
+                  "audioStart": 410.9861,
+                  "audioEnd": 415.3006
+                },
+                {
+                  "audioStart": 416.1389,
+                  "audioEnd": 422.0089
+                },
+                {
+                  "audioStart": 422.8472,
+                  "audioEnd": 428.7033
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 8,
+          "text": "He rushed toward them, bringing the tower down and ending his short career with the troupe. The travelers were together again, and soon they boarded the steamship bound for San Francisco.",
+          "sentences": [
+            {
+              "en": "He rushed toward them, bringing the tower down and ending his short career with the troupe.",
+              "zh": "他向他们冲去，弄倒了人塔，也结束了自己在团里短暂的工作。",
+              "audioStart": 508.6528,
+              "audioEnd": 514.7589
+            },
+            {
+              "en": "The travelers were together again, and soon they boarded the steamship bound for San Francisco.",
+              "zh": "旅行者们终于重聚，不久便登上了驶往旧金山的轮船。",
+              "audioStart": 515.5972,
+              "audioEnd": 522.2589
+            }
+          ],
+          "audioStart": 508.5728,
+          "audioEnd": 522.3789,
+          "voices": {
+            "teacher": {
+              "audioStart": 429.4617,
+              "audioEnd": 441.0178,
+              "sentences": [
+                {
+                  "audioStart": 429.5417,
+                  "audioEnd": 434.495
+                },
+                {
+                  "audioStart": 435.3333,
+                  "audioEnd": 440.8978
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 9,
+          "text": "Chapter 10: Across the Pacific. The Pacific stretched around their ship, wider than any ocean passage they had crossed so far. Fogg studied his schedule, Passepartout looked after his duties, and Aouda grew increasingly fond of their quiet companion.",
+          "sentences": [
+            {
+              "en": "Chapter 10: Across the Pacific.",
+              "zh": "第10章：横渡太平洋。",
+              "type": "chapter",
+              "audioStart": 523.0972,
+              "audioEnd": 525.9672
+            },
+            {
+              "en": "The Pacific stretched around their ship, wider than any ocean passage they had crossed so far.",
+              "zh": "太平洋在轮船四周展开，比他们此前经过的任何海洋航段都更辽阔。",
+              "audioStart": 526.8056,
+              "audioEnd": 533.62
+            },
+            {
+              "en": "Fogg studied his schedule, Passepartout looked after his duties, and Aouda grew increasingly fond of their quiet companion.",
+              "zh": "福格研究行程，路路通照料事务，艾娥达则越来越喜欢这位沉静的同行者。",
+              "audioStart": 534.457,
+              "audioEnd": 543.7575
+            }
+          ],
+          "audioStart": 523.0172,
+          "audioEnd": 543.8775,
+          "voices": {
+            "teacher": {
+              "audioStart": 441.6561,
+              "audioEnd": 459.4067,
+              "sentences": [
+                {
+                  "audioStart": 441.7361,
+                  "audioEnd": 444.2033
+                },
+                {
+                  "audioStart": 445.0417,
+                  "audioEnd": 450.9256
+                },
+                {
+                  "audioStart": 451.7639,
+                  "audioEnd": 459.2867
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 9,
+          "text": "Fix had obtained the warrant, but outside British territory he could not use it as he wished. Now he wanted Fogg to reach Britain quickly, where he planned to make the arrest. Passepartout learned that Fix would help them onward, though the two men had very different reasons for continuing.",
+          "sentences": [
+            {
+              "en": "Fix had obtained the warrant, but outside British territory he could not use it as he wished.",
+              "zh": "费克斯拿到了逮捕令，可在英国领地之外，他无法按自己的意愿使用它。",
+              "audioStart": 544.5972,
+              "audioEnd": 551.2728
+            },
+            {
+              "en": "Now he wanted Fogg to reach Britain quickly, where he planned to make the arrest.",
+              "zh": "现在他反倒希望福格尽快回到英国，以便实施逮捕。",
+              "audioStart": 552.1111,
+              "audioEnd": 557.62
+            },
+            {
+              "en": "Passepartout learned that Fix would help them onward, though the two men had very different reasons for continuing.",
+              "zh": "路路通得知费克斯会帮助他们继续前进，尽管两个人这样做的理由完全不同。",
+              "audioStart": 558.4584,
+              "audioEnd": 566.1756
+            }
+          ],
+          "audioStart": 544.5172,
+          "audioEnd": 566.2956,
+          "voices": {
+            "teacher": {
+              "audioStart": 460.045,
+              "audioEnd": 478.3789,
+              "sentences": [
+                {
+                  "audioStart": 460.125,
+                  "audioEnd": 465.5645
+                },
+                {
+                  "audioStart": 466.4028,
+                  "audioEnd": 471.1617
+                },
+                {
+                  "audioStart": 472.0,
+                  "audioEnd": 478.2589
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 9,
+          "text": "After the long crossing, the ship reached San Francisco, and the travelers hurried toward a train across America. Their route was still moving east, from one coast toward another and from one set of difficulties to the next.",
+          "sentences": [
+            {
+              "en": "After the long crossing, the ship reached San Francisco, and the travelers hurried toward a train across America.",
+              "zh": "漫长航行之后，轮船抵达旧金山，旅行者们匆忙赶往横穿美国的火车。",
+              "audioStart": 567.0139,
+              "audioEnd": 575.4672
+            },
+            {
+              "en": "Their route was still moving east, from one coast toward another and from one set of difficulties to the next.",
+              "zh": "路线仍在向东延伸，从一个海岸通往另一个海岸，也从一组难题走向下一组难题。",
+              "audioStart": 576.3056,
+              "audioEnd": 584.3006
+            }
+          ],
+          "audioStart": 566.9339,
+          "audioEnd": 584.4206,
+          "voices": {
+            "teacher": {
+              "audioStart": 479.0172,
+              "audioEnd": 493.4484,
+              "sentences": [
+                {
+                  "audioStart": 479.0972,
+                  "audioEnd": 486.0228
+                },
+                {
+                  "audioStart": 486.8611,
+                  "audioEnd": 493.3284
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 10,
+          "text": "Chapter 11: Rails Across America. The train carried them through great open spaces, past towns, mountains, and plains. Once, a huge herd of bison blocked the line, and the powerful engine had to wait for living traffic to pass.",
+          "sentences": [
+            {
+              "en": "Chapter 11: Rails Across America.",
+              "zh": "第11章：横穿美国的铁轨。",
+              "type": "chapter",
+              "audioStart": 585.1389,
+              "audioEnd": 588.4117
+            },
+            {
+              "en": "The train carried them through great open spaces, past towns, mountains, and plains.",
+              "zh": "列车载着他们驶过辽阔大地，经过城镇、山脉和平原。",
+              "audioStart": 589.25,
+              "audioEnd": 596.4117
+            },
+            {
+              "en": "Once, a huge herd of bison blocked the line, and the powerful engine had to wait for living traffic to pass.",
+              "zh": "有一次，庞大的野牛群挡住铁路，强大的火车头也只能等待这些活生生的路障通过。",
+              "audioStart": 597.25,
+              "audioEnd": 605.5506
+            }
+          ],
+          "audioStart": 585.0589,
+          "audioEnd": 605.6706,
+          "voices": {
+            "teacher": {
+              "audioStart": 494.0867,
+              "audioEnd": 511.4622,
+              "sentences": [
+                {
+                  "audioStart": 494.1667,
+                  "audioEnd": 496.87
+                },
+                {
+                  "audioStart": 497.7083,
+                  "audioEnd": 503.5505
+                },
+                {
+                  "audioStart": 504.3889,
+                  "audioEnd": 511.3422
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 10,
+          "text": "Later, a damaged bridge threatened another delay, and the crew decided to rush the train across it at speed. Passepartout thought the passengers should cross safely first, but events moved too quickly for his suggestion. The train reached the far side, and the bridge fell behind it.",
+          "sentences": [
+            {
+              "en": "Later, a damaged bridge threatened another delay, and the crew decided to rush the train across it at speed.",
+              "zh": "后来，一座损坏的桥又可能造成耽搁，乘务人员决定让火车快速冲过。",
+              "audioStart": 606.3889,
+              "audioEnd": 614.245
+            },
+            {
+              "en": "Passepartout thought the passengers should cross safely first, but events moved too quickly for his suggestion.",
+              "zh": "路路通认为应该让乘客先安全过去，可事情发展太快，他的建议没来得及实施。",
+              "audioStart": 615.0972,
+              "audioEnd": 622.9256
+            },
+            {
+              "en": "The train reached the far side, and the bridge fell behind it.",
+              "zh": "火车到了对岸，大桥随即在身后坍塌。",
+              "audioStart": 623.7639,
+              "audioEnd": 628.2312
+            }
+          ],
+          "audioStart": 606.3089,
+          "audioEnd": 628.3512,
+          "voices": {
+            "teacher": {
+              "audioStart": 512.1006,
+              "audioEnd": 530.6011,
+              "sentences": [
+                {
+                  "audioStart": 512.1806,
+                  "audioEnd": 518.5506
+                },
+                {
+                  "audioStart": 519.3889,
+                  "audioEnd": 525.8978
+                },
+                {
+                  "audioStart": 526.7361,
+                  "audioEnd": 530.4811
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 10,
+          "text": "They had escaped, but a successful outcome did not make the choice free from danger. Fogg's timetable kept its neat columns while the real journey shook, stopped, and changed beneath their feet.",
+          "sentences": [
+            {
+              "en": "They had escaped, but a successful outcome did not make the choice free from danger.",
+              "zh": "他们脱险了，可结果成功，并不意味着当时的选择没有危险。",
+              "audioStart": 629.0695,
+              "audioEnd": 635.12
+            },
+            {
+              "en": "Fogg's timetable kept its neat columns while the real journey shook, stopped, and changed beneath their feet.",
+              "zh": "福格的时刻表仍然排列整齐，真实的旅程却在脚下颠簸、停顿，不断变化。",
+              "audioStart": 635.9584,
+              "audioEnd": 643.8978
+            }
+          ],
+          "audioStart": 628.9895,
+          "audioEnd": 644.0178,
+          "voices": {
+            "teacher": {
+              "audioStart": 531.2395,
+              "audioEnd": 543.7678,
+              "sentences": [
+                {
+                  "audioStart": 531.3195,
+                  "audioEnd": 536.1617
+                },
+                {
+                  "audioStart": 537.0,
+                  "audioEnd": 543.6478
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 11,
+          "text": "Chapter 12: The Train Without a Driver. Farther along the line, a group of Sioux riders attacked the train, and fighting broke out among the moving carriages. The engine driver was struck down, and the train continued without anyone properly controlling its speed.",
+          "sentences": [
+            {
+              "en": "Chapter 12: The Train Without a Driver.",
+              "zh": "第12章：失控的列车。",
+              "type": "chapter",
+              "audioStart": 644.7362,
+              "audioEnd": 648.2034
+            },
+            {
+              "en": "Farther along the line, a group of Sioux riders attacked the train, and fighting broke out among the moving carriages.",
+              "zh": "在更远的路段，一群苏族骑手袭击了列车，行驶的车厢间爆发了战斗。",
+              "audioStart": 649.0417,
+              "audioEnd": 657.1339
+            },
+            {
+              "en": "The engine driver was struck down, and the train continued without anyone properly controlling its speed.",
+              "zh": "火车司机受伤倒下，列车在无人正常控制速度的情况下继续前进。",
+              "audioStart": 657.9722,
+              "audioEnd": 665.2728
+            }
+          ],
+          "audioStart": 644.6562,
+          "audioEnd": 665.3928,
+          "voices": {
+            "teacher": {
+              "audioStart": 544.4061,
+              "audioEnd": 562.2678,
+              "sentences": [
+                {
+                  "audioStart": 544.4861,
+                  "audioEnd": 547.3422
+                },
+                {
+                  "audioStart": 548.1806,
+                  "audioEnd": 555.0922
+                },
+                {
+                  "audioStart": 555.9306,
+                  "audioEnd": 562.1478
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 11,
+          "text": "Passepartout climbed beneath the carriages and managed to separate them from the engine. The carriages slowed near a fort, where soldiers came to help. But when the attack ended, Passepartout and several other passengers were missing.",
+          "sentences": [
+            {
+              "en": "Passepartout climbed beneath the carriages and managed to separate them from the engine.",
+              "zh": "路路通爬到车厢下方，设法将车厢与火车头分开。",
+              "audioStart": 666.125,
+              "audioEnd": 673.134
+            },
+            {
+              "en": "The carriages slowed near a fort, where soldiers came to help.",
+              "zh": "车厢在一座堡垒附近慢下来，士兵们赶来救援。",
+              "audioStart": 673.9723,
+              "audioEnd": 678.5923
+            },
+            {
+              "en": "But when the attack ended, Passepartout and several other passengers were missing.",
+              "zh": "然而袭击结束后，路路通和另外几名乘客失踪了。",
+              "audioStart": 679.4306,
+              "audioEnd": 685.1062
+            }
+          ],
+          "audioStart": 666.045,
+          "audioEnd": 685.2262,
+          "voices": {
+            "teacher": {
+              "audioStart": 562.9061,
+              "audioEnd": 579.1289,
+              "sentences": [
+                {
+                  "audioStart": 562.9861,
+                  "audioEnd": 568.9672
+                },
+                {
+                  "audioStart": 569.8056,
+                  "audioEnd": 573.5089
+                },
+                {
+                  "audioStart": 574.3472,
+                  "audioEnd": 579.0089
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 11,
+          "text": "Fogg could continue without his servant, or he could lose precious time trying to bring him back. He chose the rescue and left with a party of soldiers while Aouda waited anxiously.",
+          "sentences": [
+            {
+              "en": "Fogg could continue without his servant, or he could lose precious time trying to bring him back.",
+              "zh": "福格可以抛下仆人继续赶路，也可以花掉宝贵时间，设法把他带回来。",
+              "audioStart": 685.9445,
+              "audioEnd": 692.5784
+            },
+            {
+              "en": "He chose the rescue and left with a party of soldiers while Aouda waited anxiously.",
+              "zh": "他选择了营救，与一队士兵出发，艾娥达则焦急地等待。",
+              "audioStart": 693.4167,
+              "audioEnd": 699.2867
+            }
+          ],
+          "audioStart": 685.8645,
+          "audioEnd": 699.4067,
+          "voices": {
+            "teacher": {
+              "audioStart": 579.7672,
+              "audioEnd": 591.0872,
+              "sentences": [
+                {
+                  "audioStart": 579.8472,
+                  "audioEnd": 585.37
+                },
+                {
+                  "audioStart": 586.2084,
+                  "audioEnd": 590.9672
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 12,
+          "text": "Chapter 13: A Sail over Snow. The rescue party returned with the missing travelers, but the train had already departed. Fogg had kept his friend, yet the lost hours now threatened the entire journey.",
+          "sentences": [
+            {
+              "en": "Chapter 13: A Sail over Snow.",
+              "zh": "第13章：雪地上的风帆。",
+              "type": "chapter",
+              "audioStart": 700.1251,
+              "audioEnd": 703.2728
+            },
+            {
+              "en": "The rescue party returned with the missing travelers, but the train had already departed.",
+              "zh": "救援队带着失踪旅客回来了，可火车早已开走。",
+              "audioStart": 704.1112,
+              "audioEnd": 710.3284
+            },
+            {
+              "en": "Fogg had kept his friend, yet the lost hours now threatened the entire journey.",
+              "zh": "福格救回了朋友，但失去的几个小时，却威胁着整趟旅程。",
+              "audioStart": 711.1653,
+              "audioEnd": 716.9659
+            }
+          ],
+          "audioStart": 700.0451,
+          "audioEnd": 717.0859,
+          "voices": {
+            "teacher": {
+              "audioStart": 591.7256,
+              "audioEnd": 606.1289,
+              "sentences": [
+                {
+                  "audioStart": 591.8056,
+                  "audioEnd": 594.4672
+                },
+                {
+                  "audioStart": 595.3056,
+                  "audioEnd": 600.5089
+                },
+                {
+                  "audioStart": 601.3472,
+                  "audioEnd": 606.0089
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 12,
+          "text": "Fix helped arrange another strange form of transport: a sledge fitted with sails. A strong wind pushed it over the frozen plain, carrying the travelers toward a place where they could catch another train. Wrapped against the bitter cold, they watched the white ground rush beneath them.",
+          "sentences": [
+            {
+              "en": "Fix helped arrange another strange form of transport: a sledge fitted with sails.",
+              "zh": "费克斯帮助安排了另一种奇特交通工具：装着风帆的雪橇。",
+              "audioStart": 717.8042,
+              "audioEnd": 724.1465
+            },
+            {
+              "en": "A strong wind pushed it over the frozen plain, carrying the travelers toward a place where they could catch another train.",
+              "zh": "强风推动雪橇滑过冰冻平原，把旅行者们送往能搭上另一班火车的地方。",
+              "audioStart": 724.9862,
+              "audioEnd": 732.9951
+            },
+            {
+              "en": "Wrapped against the bitter cold, they watched the white ground rush beneath them.",
+              "zh": "他们裹紧衣物抵御严寒，看着白色地面在身下飞快掠过。",
+              "audioStart": 733.8334,
+              "audioEnd": 739.1201
+            }
+          ],
+          "audioStart": 717.7242,
+          "audioEnd": 739.2401,
+          "voices": {
+            "teacher": {
+              "audioStart": 606.7672,
+              "audioEnd": 624.74,
+              "sentences": [
+                {
+                  "audioStart": 606.8472,
+                  "audioEnd": 611.8562
+                },
+                {
+                  "audioStart": 612.6945,
+                  "audioEnd": 619.495
+                },
+                {
+                  "audioStart": 620.3334,
+                  "audioEnd": 624.62
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 12,
+          "text": "The sledge and the next train brought them to New York, but not soon enough for their planned Atlantic steamer. The ship was gone, and once again Fogg stood at a waterfront with an ocean between him and home.",
+          "sentences": [
+            {
+              "en": "The sledge and the next train brought them to New York, but not soon enough for their planned Atlantic steamer.",
+              "zh": "雪橇和下一班火车把他们送到了纽约，却没能让他们赶上计划中的大西洋轮船。",
+              "audioStart": 739.9584,
+              "audioEnd": 747.134
+            },
+            {
+              "en": "The ship was gone, and once again Fogg stood at a waterfront with an ocean between him and home.",
+              "zh": "轮船已经离开，福格又一次站在码头，家与自己之间隔着一片大洋。",
+              "audioStart": 747.9723,
+              "audioEnd": 755.0506
+            }
+          ],
+          "audioStart": 739.8784,
+          "audioEnd": 755.1706,
+          "voices": {
+            "teacher": {
+              "audioStart": 625.3784,
+              "audioEnd": 638.2817,
+              "sentences": [
+                {
+                  "audioStart": 625.4584,
+                  "audioEnd": 631.5645
+                },
+                {
+                  "audioStart": 632.4028,
+                  "audioEnd": 638.1617
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 13,
+          "text": "Chapter 14: A Different Atlantic Crossing. Fogg searched the harbor and found the Henrietta, a ship whose captain intended to sail to Bordeaux in France. The captain refused to change his destination, but he agreed to carry the travelers as passengers.",
+          "sentences": [
+            {
+              "en": "Chapter 14: A Different Atlantic Crossing.",
+              "zh": "第14章：另一条大西洋航线。",
+              "type": "chapter",
+              "audioStart": 755.889,
+              "audioEnd": 759.634
+            },
+            {
+              "en": "Fogg searched the harbor and found the Henrietta, a ship whose captain intended to sail to Bordeaux in France.",
+              "zh": "福格在港口寻找，找到亨利埃塔号，船长原计划前往法国波尔多。",
+              "audioStart": 760.4723,
+              "audioEnd": 768.3284
+            },
+            {
+              "en": "The captain refused to change his destination, but he agreed to carry the travelers as passengers.",
+              "zh": "船长拒绝更改目的地，却同意载上他们。",
+              "audioStart": 769.1667,
+              "audioEnd": 776.3145
+            }
+          ],
+          "audioStart": 755.809,
+          "audioEnd": 776.4345,
+          "voices": {
+            "teacher": {
+              "audioStart": 638.92,
+              "audioEnd": 656.4484,
+              "sentences": [
+                {
+                  "audioStart": 639.0,
+                  "audioEnd": 642.12
+                },
+                {
+                  "audioStart": 642.9584,
+                  "audioEnd": 649.3284
+                },
+                {
+                  "audioStart": 650.1667,
+                  "audioEnd": 656.3284
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 13,
+          "text": "Once at sea, Fogg persuaded the crew to support him, confined the captain, and directed the ship toward Britain. It was a bold and troubling act, not simply another ticket bought at a station. The ship's new course took them toward home, with every day of the crossing eating into their remaining time.",
+          "sentences": [
+            {
+              "en": "Once at sea, Fogg persuaded the crew to support him, confined the captain, and directed the ship toward Britain.",
+              "zh": "出海后，福格说服船员支持自己，把船长关了起来，并让船驶向英国。",
+              "audioStart": 777.1528,
+              "audioEnd": 785.7034
+            },
+            {
+              "en": "It was a bold and troubling act, not simply another ticket bought at a station.",
+              "zh": "这是一个大胆而令人不安的行为，并不等于在车站多买了一张票。",
+              "audioStart": 786.5417,
+              "audioEnd": 792.2312
+            },
+            {
+              "en": "The ship's new course took them toward home, with every day of the crossing eating into their remaining time.",
+              "zh": "轮船的新航向把他们带向家乡，而航行每过一天，剩下的时间就减少一天。",
+              "audioStart": 793.0695,
+              "audioEnd": 800.1479
+            }
+          ],
+          "audioStart": 777.0728,
+          "audioEnd": 800.2679,
+          "voices": {
+            "teacher": {
+              "audioStart": 657.0867,
+              "audioEnd": 676.49,
+              "sentences": [
+                {
+                  "audioStart": 657.1667,
+                  "audioEnd": 664.1895
+                },
+                {
+                  "audioStart": 665.0278,
+                  "audioEnd": 669.7034
+                },
+                {
+                  "audioStart": 670.5417,
+                  "audioEnd": 676.37
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 13,
+          "text": "Fogg could change the course of a ship more easily than he could change the weather or the distance across the ocean. Ahead lay Britain, but first they had to make the vessel keep moving.",
+          "sentences": [
+            {
+              "en": "Fogg could change the course of a ship more easily than he could change the weather or the distance across the ocean.",
+              "zh": "福格可以改变船的航向，却无法同样轻易地改变天气，或缩短横跨大洋的距离。",
+              "audioStart": 800.9848,
+              "audioEnd": 808.4242
+            },
+            {
+              "en": "Ahead lay Britain, but first they had to make the vessel keep moving.",
+              "zh": "英国就在前方，但首先，他们必须让船持续前进。",
+              "audioStart": 809.264,
+              "audioEnd": 814.1895
+            }
+          ],
+          "audioStart": 800.9048,
+          "audioEnd": 814.3095,
+          "voices": {
+            "teacher": {
+              "audioStart": 677.1284,
+              "audioEnd": 688.1289,
+              "sentences": [
+                {
+                  "audioStart": 677.2084,
+                  "audioEnd": 683.2867
+                },
+                {
+                  "audioStart": 684.125,
+                  "audioEnd": 688.0089
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 14,
+          "text": "Chapter 15: Wood for the Furnace. Then the coal supply ran low, and reaching the coast became a problem of fuel as well as time. The engine needed heat, and heat required something to burn.",
+          "sentences": [
+            {
+              "en": "Chapter 15: Wood for the Furnace.",
+              "zh": "第15章：送进炉膛的木材。",
+              "type": "chapter",
+              "audioStart": 815.0278,
+              "audioEnd": 818.0645
+            },
+            {
+              "en": "Then the coal supply ran low, and reaching the coast became a problem of fuel as well as time.",
+              "zh": "接着，煤炭供应不足，能否抵达海岸，既取决于时间，也取决于燃料。",
+              "audioStart": 818.9028,
+              "audioEnd": 825.8145
+            },
+            {
+              "en": "The engine needed heat, and heat required something to burn.",
+              "zh": "发动机需要热量，而产生热量就需要燃烧的东西。",
+              "audioStart": 826.6528,
+              "audioEnd": 831.1617
+            }
+          ],
+          "audioStart": 814.9478,
+          "audioEnd": 831.2817,
+          "voices": {
+            "teacher": {
+              "audioStart": 688.7672,
+              "audioEnd": 702.615,
+              "sentences": [
+                {
+                  "audioStart": 688.8472,
+                  "audioEnd": 691.4395
+                },
+                {
+                  "audioStart": 692.2778,
+                  "audioEnd": 698.0784
+                },
+                {
+                  "audioStart": 698.9167,
+                  "audioEnd": 702.495
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 14,
+          "text": "Fogg bargained with the captain and bought the ship, leaving him the engine and metal hull. Now the crew could remove wooden parts of the vessel and feed them into the furnace. The fuel was coming from the ship itself, so each extra mile had a cost that everyone could see.",
+          "sentences": [
+            {
+              "en": "Fogg bargained with the captain and bought the ship, leaving him the engine and metal hull.",
+              "zh": "福格与船长商议，买下船，并把发动机和金属船壳留给他。",
+              "audioStart": 832.0001,
+              "audioEnd": 837.8978
+            },
+            {
+              "en": "Now the crew could remove wooden parts of the vessel and feed them into the furnace.",
+              "zh": "现在，船员们可以拆下船上的木制部分，送进炉膛。",
+              "audioStart": 838.7362,
+              "audioEnd": 844.4117
+            },
+            {
+              "en": "The fuel was coming from the ship itself, so each extra mile had a cost that everyone could see.",
+              "zh": "燃料来自船身本身，因此每多走一英里，大家都看得见它的代价。",
+              "audioStart": 845.2501,
+              "audioEnd": 851.9673
+            }
+          ],
+          "audioStart": 831.9201,
+          "audioEnd": 852.0873,
+          "voices": {
+            "teacher": {
+              "audioStart": 703.2534,
+              "audioEnd": 720.5178,
+              "sentences": [
+                {
+                  "audioStart": 703.3334,
+                  "audioEnd": 708.3006
+                },
+                {
+                  "audioStart": 709.1389,
+                  "audioEnd": 713.5922
+                },
+                {
+                  "audioStart": 714.4306,
+                  "audioEnd": 720.3978
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 14,
+          "text": "This could not continue forever, but it might provide enough power to reach the coast. As the damaged ship pressed onward, Fogg watched for the next chance to shorten the route home.",
+          "sentences": [
+            {
+              "en": "This could not continue forever, but it might provide enough power to reach the coast.",
+              "zh": "这种办法无法永远持续，却可能提供足够动力，让船抵达海岸。",
+              "audioStart": 852.8056,
+              "audioEnd": 858.8006
+            },
+            {
+              "en": "As the damaged ship pressed onward, Fogg watched for the next chance to shorten the route home.",
+              "zh": "被拆损的轮船继续前进，福格则寻找下一个能缩短归程的机会。",
+              "audioStart": 859.639,
+              "audioEnd": 866.2728
+            }
+          ],
+          "audioStart": 852.7256,
+          "audioEnd": 866.3928,
+          "voices": {
+            "teacher": {
+              "audioStart": 721.1561,
+              "audioEnd": 732.7262,
+              "sentences": [
+                {
+                  "audioStart": 721.2361,
+                  "audioEnd": 726.3562
+                },
+                {
+                  "audioStart": 727.1945,
+                  "audioEnd": 732.6062
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 15,
+          "text": "Chapter 16: The Arrest at Liverpool. Near Ireland, Fogg used a faster mail route, landing at Queenstown and taking a train to Dublin. A fast boat then carried the party to Liverpool, bringing London within reach at last.",
+          "sentences": [
+            {
+              "en": "Chapter 16: The Arrest at Liverpool.",
+              "zh": "第16章：利物浦的逮捕。",
+              "type": "chapter",
+              "audioStart": 867.1112,
+              "audioEnd": 870.6062
+            },
+            {
+              "en": "Near Ireland, Fogg used a faster mail route, landing at Queenstown and taking a train to Dublin.",
+              "zh": "抵近爱尔兰时，福格利用更快的邮递路线，在皇后镇上岸，乘火车前往都柏林。",
+              "audioStart": 871.4445,
+              "audioEnd": 879.12
+            },
+            {
+              "en": "A fast boat then carried the party to Liverpool, bringing London within reach at last.",
+              "zh": "随后，一艘快船把一行人送到利物浦，伦敦终于近在可及之处。",
+              "audioStart": 879.9584,
+              "audioEnd": 886.4534
+            }
+          ],
+          "audioStart": 867.0312,
+          "audioEnd": 886.5734,
+          "voices": {
+            "teacher": {
+              "audioStart": 733.3645,
+              "audioEnd": 749.9484,
+              "sentences": [
+                {
+                  "audioStart": 733.4445,
+                  "audioEnd": 736.3978
+                },
+                {
+                  "audioStart": 737.2361,
+                  "audioEnd": 743.5228
+                },
+                {
+                  "audioStart": 744.3611,
+                  "audioEnd": 749.8284
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 15,
+          "text": "At that moment, Fix stepped forward and arrested Fogg for the bank robbery. The traveler who had crossed oceans and continents was stopped inside a room, unable to continue. Later, Fix returned with terrible news for his own theory: the real thief had already been caught.",
+          "sentences": [
+            {
+              "en": "At that moment, Fix stepped forward and arrested Fogg for the bank robbery.",
+              "zh": "就在这时，费克斯走上前，以银行盗案为由逮捕福格。",
+              "audioStart": 887.2903,
+              "audioEnd": 893.0076
+            },
+            {
+              "en": "The traveler who had crossed oceans and continents was stopped inside a room, unable to continue.",
+              "zh": "这位穿过大洋和大陆的旅行者，被关在房间里，无法继续赶路。",
+              "audioStart": 893.8473,
+              "audioEnd": 900.8284
+            },
+            {
+              "en": "Later, Fix returned with terrible news for his own theory: the real thief had already been caught.",
+              "zh": "后来费克斯回来，带来一个推翻自己判断的消息：真正的盗贼已经被抓住了。",
+              "audioStart": 901.6667,
+              "audioEnd": 908.9117
+            }
+          ],
+          "audioStart": 887.2103,
+          "audioEnd": 909.0317,
+          "voices": {
+            "teacher": {
+              "audioStart": 750.5867,
+              "audioEnd": 768.8234,
+              "sentences": [
+                {
+                  "audioStart": 750.6667,
+                  "audioEnd": 755.3145
+                },
+                {
+                  "audioStart": 756.1528,
+                  "audioEnd": 761.745
+                },
+                {
+                  "audioStart": 762.5834,
+                  "audioEnd": 768.7034
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 15,
+          "text": "Fogg was released and arranged a special train, but he reached London five minutes after the time he believed was his deadline. After so many narrow escapes, he went home believing that he had lost.",
+          "sentences": [
+            {
+              "en": "Fogg was released and arranged a special train, but he reached London five minutes after the time he believed was his deadline.",
+              "zh": "福格获释后安排了专列，却在自己认为的截止时间过去五分钟后，才抵达伦敦。",
+              "audioStart": 909.7487,
+              "audioEnd": 918.5215
+            },
+            {
+              "en": "After so many narrow escapes, he went home believing that he had lost.",
+              "zh": "经历无数次险险赶上之后，他回到家中，认定自己输了。",
+              "audioStart": 919.3612,
+              "audioEnd": 924.9117
+            }
+          ],
+          "audioStart": 909.6687,
+          "audioEnd": 925.0317,
+          "voices": {
+            "teacher": {
+              "audioStart": 769.4617,
+              "audioEnd": 782.4622,
+              "sentences": [
+                {
+                  "audioStart": 769.5417,
+                  "audioEnd": 777.0645
+                },
+                {
+                  "audioStart": 777.9028,
+                  "audioEnd": 782.3422
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 16,
+          "text": "Chapter 17: What the Journey Was Worth. The next day, Fogg stayed at home, thinking that the wager and much of his fortune were gone. Passepartout blamed himself for the delays, while Aouda thought about everything Fogg had done for her.",
+          "sentences": [
+            {
+              "en": "Chapter 17: What the Journey Was Worth.",
+              "zh": "第17章：旅程的价值。",
+              "type": "chapter",
+              "audioStart": 925.7501,
+              "audioEnd": 929.2728
+            },
+            {
+              "en": "The next day, Fogg stayed at home, thinking that the wager and much of his fortune were gone.",
+              "zh": "第二天，福格留在家里，以为自己输掉了赌约，也失去了大部分财产。",
+              "audioStart": 930.1112,
+              "audioEnd": 936.8979
+            },
+            {
+              "en": "Passepartout blamed himself for the delays, while Aouda thought about everything Fogg had done for her.",
+              "zh": "路路通为种种耽搁责怪自己，艾娥达则想着福格为她做过的一切。",
+              "audioStart": 937.7362,
+              "audioEnd": 944.5923
+            }
+          ],
+          "audioStart": 925.6701,
+          "audioEnd": 944.7123,
+          "voices": {
+            "teacher": {
+              "audioStart": 783.1006,
+              "audioEnd": 799.2956,
+              "sentences": [
+                {
+                  "audioStart": 783.1806,
+                  "audioEnd": 786.0645
+                },
+                {
+                  "audioStart": 786.9028,
+                  "audioEnd": 792.495
+                },
+                {
+                  "audioStart": 793.3334,
+                  "audioEnd": 799.1756
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 16,
+          "text": "She asked whether he would marry her, offering companionship when he thought he had little left to offer anyone. Fogg loved her too, and their conversation changed the meaning of what he had brought home. They sent Passepartout to ask a clergyman about arranging the wedding for the following day.",
+          "sentences": [
+            {
+              "en": "She asked whether he would marry her, offering companionship when he thought he had little left to offer anyone.",
+              "zh": "她问他是否愿意娶自己，在他觉得已没什么可给予别人时，向他许下一生相伴。",
+              "audioStart": 945.4306,
+              "audioEnd": 952.8284
+            },
+            {
+              "en": "Fogg loved her too, and their conversation changed the meaning of what he had brought home.",
+              "zh": "福格也爱着她，这段谈话让他重新理解，自己究竟从旅途中带回了什么。",
+              "audioStart": 953.6654,
+              "audioEnd": 959.8131
+            },
+            {
+              "en": "They sent Passepartout to ask a clergyman about arranging the wedding for the following day.",
+              "zh": "他们让路路通去找牧师，询问能否在次日举行婚礼。",
+              "audioStart": 960.6529,
+              "audioEnd": 966.5784
+            }
+          ],
+          "audioStart": 945.3506,
+          "audioEnd": 966.6984,
+          "voices": {
+            "teacher": {
+              "audioStart": 799.9339,
+              "audioEnd": 818.4622,
+              "sentences": [
+                {
+                  "audioStart": 800.0139,
+                  "audioEnd": 806.5645
+                },
+                {
+                  "audioStart": 807.4028,
+                  "audioEnd": 812.4395
+                },
+                {
+                  "audioStart": 813.2778,
+                  "audioEnd": 818.3422
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 16,
+          "text": "A little later, the servant burst back into the house, breathless and almost unable to speak. The mistake he had discovered was not about a train or a ship, but about the day itself.",
+          "sentences": [
+            {
+              "en": "A little later, the servant burst back into the house, breathless and almost unable to speak.",
+              "zh": "不久，仆人喘着气冲回屋里，几乎说不出话。",
+              "audioStart": 967.4167,
+              "audioEnd": 974.5645
+            },
+            {
+              "en": "The mistake he had discovered was not about a train or a ship, but about the day itself.",
+              "zh": "他发现的错误不在火车，也不在轮船，而在日期本身。",
+              "audioStart": 975.4029,
+              "audioEnd": 981.5784
+            }
+          ],
+          "audioStart": 967.3367,
+          "audioEnd": 981.6984,
+          "voices": {
+            "teacher": {
+              "audioStart": 819.1006,
+              "audioEnd": 831.2956,
+              "sentences": [
+                {
+                  "audioStart": 819.1806,
+                  "audioEnd": 825.0645
+                },
+                {
+                  "audioStart": 825.9028,
+                  "audioEnd": 831.1756
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 17,
+          "text": "Chapter 18: One More Day. They had returned on Friday, not Saturday, and the evening they now called Sunday was really Saturday. Traveling east around the earth had given their count of days one extra sunrise compared with the people who stayed in London.",
+          "sentences": [
+            {
+              "en": "Chapter 18: One More Day.",
+              "zh": "第18章：多出来的一天。",
+              "type": "chapter",
+              "audioStart": 982.4167,
+              "audioEnd": 985.1062
+            },
+            {
+              "en": "They had returned on Friday, not Saturday, and the evening they now called Sunday was really Saturday.",
+              "zh": "他们回来那天是星期五，而非星期六；此刻他们以为是星期日的傍晚，其实是星期六。",
+              "audioStart": 985.9445,
+              "audioEnd": 993.4951
+            },
+            {
+              "en": "Traveling east around the earth had given their count of days one extra sunrise compared with the people who stayed in London.",
+              "zh": "绕地球向东旅行，让他们计算的日子比一直留在伦敦的人多出了一次日出。",
+              "audioStart": 994.3334,
+              "audioEnd": 1004.0229
+            }
+          ],
+          "audioStart": 982.3367,
+          "audioEnd": 1004.1429,
+          "voices": {
+            "teacher": {
+              "audioStart": 831.9339,
+              "audioEnd": 849.9762,
+              "sentences": [
+                {
+                  "audioStart": 832.0139,
+                  "audioEnd": 834.37
+                },
+                {
+                  "audioStart": 835.2084,
+                  "audioEnd": 841.2172
+                },
+                {
+                  "audioStart": 842.0556,
+                  "audioEnd": 849.8562
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 17,
+          "text": "They had not traveled into the past or made more hours; they had failed to correct their calendar during the journey. Fogg still had a chance to win, but now only minutes remained before the real deadline. He hurried to the club and arrived just in time, astonishing the men who had been waiting there.",
+          "sentences": [
+            {
+              "en": "They had not traveled into the past or made more hours; they had failed to correct their calendar during the journey.",
+              "zh": "他们并没有回到过去，也没有创造更多小时，只是在旅途中没有正确调整日历。",
+              "audioStart": 1004.8612,
+              "audioEnd": 1012.6617
+            },
+            {
+              "en": "Fogg still had a chance to win, but now only minutes remained before the real deadline.",
+              "zh": "福格仍有机会获胜，可距离真正的截止时间只剩几分钟了。",
+              "audioStart": 1013.4987,
+              "audioEnd": 1019.9103
+            },
+            {
+              "en": "He hurried to the club and arrived just in time, astonishing the men who had been waiting there.",
+              "zh": "他匆忙赶往俱乐部，及时抵达，让等在那里的先生们大吃一惊。",
+              "audioStart": 1020.7501,
+              "audioEnd": 1027.2312
+            }
+          ],
+          "audioStart": 1004.7812,
+          "audioEnd": 1027.3512,
+          "voices": {
+            "teacher": {
+              "audioStart": 850.6145,
+              "audioEnd": 869.5734,
+              "sentences": [
+                {
+                  "audioStart": 850.6945,
+                  "audioEnd": 857.2589
+                },
+                {
+                  "audioStart": 858.0972,
+                  "audioEnd": 863.3284
+                },
+                {
+                  "audioStart": 864.1667,
+                  "audioEnd": 869.4534
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 17,
+          "text": "The wager was won, though the journey had cost nearly as much as the prize. For Fogg, the greatest gain was the person he would share his life with, and the quiet house would never be quite the same.",
+          "sentences": [
+            {
+              "en": "The wager was won, though the journey had cost nearly as much as the prize.",
+              "zh": "赌约赢了，尽管旅费几乎花掉了与奖金同样多的钱。",
+              "audioStart": 1028.0695,
+              "audioEnd": 1033.3979
+            },
+            {
+              "en": "For Fogg, the greatest gain was the person he would share his life with, and the quiet house would never be quite the same.",
+              "zh": "对福格来说，最大的收获是即将与他共度一生的人；那栋安静的房子，再也不会与从前完全一样。",
+              "audioStart": 1034.2362,
+              "audioEnd": 1042.8006
+            }
+          ],
+          "audioStart": 1027.9895,
+          "audioEnd": 1042.9206,
+          "voices": {
+            "teacher": {
+              "audioStart": 870.2117,
+              "audioEnd": 883.0178,
+              "sentences": [
+                {
+                  "audioStart": 870.2917,
+                  "audioEnd": 874.8145
+                },
+                {
+                  "audioStart": 875.6528,
+                  "audioEnd": 882.8978
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 18,
+          "text": "Chapter 19: After the Journey. Around the World in Eighty Days is an adventure novel about travel in the nineteenth century, not a modern travel guide. Its famous trip uses trains, ships, an elephant, and a sailing sledge, but the travelers do not fly around the world in a balloon.",
+          "sentences": [
+            {
+              "en": "Chapter 19: After the Journey.",
+              "zh": "第19章：旅程之后。",
+              "type": "chapter",
+              "audioStart": 1043.639,
+              "audioEnd": 1046.4673
+            },
+            {
+              "en": "Around the World in Eighty Days is an adventure novel about travel in the nineteenth century, not a modern travel guide.",
+              "zh": "《八十天环游地球》是一部讲述十九世纪旅行的冒险小说，不是现代旅行指南。",
+              "audioStart": 1047.3056,
+              "audioEnd": 1055.8978
+            },
+            {
+              "en": "Its famous trip uses trains, ships, an elephant, and a sailing sledge, but the travelers do not fly around the world in a balloon.",
+              "zh": "这趟著名旅程使用火车、轮船、大象和风帆雪橇，但旅行者们并没有乘气球环游世界。",
+              "audioStart": 1056.7362,
+              "audioEnd": 1067.1062
+            }
+          ],
+          "audioStart": 1043.559,
+          "audioEnd": 1067.2262,
+          "voices": {
+            "teacher": {
+              "audioStart": 883.6562,
+              "audioEnd": 903.365,
+              "sentences": [
+                {
+                  "audioStart": 883.7362,
+                  "audioEnd": 886.1756
+                },
+                {
+                  "audioStart": 887.0139,
+                  "audioEnd": 894.0506
+                },
+                {
+                  "audioStart": 894.8889,
+                  "audioEnd": 903.245
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 18,
+          "text": "Today, crossing the International Date Line requires a calendar change: going east means moving the date back one day. That rule helps people keep local dates consistent after a journey around the earth. The novel also reflects old prejudices about different peoples, so its descriptions should not be treated as a complete picture of those places.",
+          "sentences": [
+            {
+              "en": "Today, crossing the International Date Line requires a calendar change: going east means moving the date back one day.",
+              "zh": "今天，越过国际日期变更线需要调整日历：向东越过时，日期减去一天。",
+              "audioStart": 1067.9445,
+              "audioEnd": 1076.7312
+            },
+            {
+              "en": "That rule helps people keep local dates consistent after a journey around the earth.",
+              "zh": "这条规则帮助人们在绕地球旅行后，让当地日期保持一致。",
+              "audioStart": 1077.5695,
+              "audioEnd": 1083.509
+            },
+            {
+              "en": "The novel also reflects old prejudices about different peoples, so its descriptions should not be treated as a complete picture of those places.",
+              "zh": "小说也反映了对不同人群的旧有偏见，因此不能把其中的描写当作那些地方的完整面貌。",
+              "audioStart": 1084.3473,
+              "audioEnd": 1094.2867
+            }
+          ],
+          "audioStart": 1067.8645,
+          "audioEnd": 1094.4067,
+          "voices": {
+            "teacher": {
+              "audioStart": 904.0034,
+              "audioEnd": 926.8095,
+              "sentences": [
+                {
+                  "audioStart": 904.0834,
+                  "audioEnd": 911.6339
+                },
+                {
+                  "audioStart": 912.4722,
+                  "audioEnd": 917.2173
+                },
+                {
+                  "audioStart": 918.0556,
+                  "audioEnd": 926.6895
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/around-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 18,
+          "text": "Which delay could have been prevented by better information, and which demanded a new decision on the spot? If winning a race meant leaving a friend in danger, what would success mean to you?",
+          "sentences": [
+            {
+              "en": "Which delay could have been prevented by better information, and which demanded a new decision on the spot?",
+              "zh": "哪一次耽搁可以靠更好的信息避免，又有哪一次需要当场作出新的决定？",
+              "audioStart": 1095.1251,
+              "audioEnd": 1101.9673
+            },
+            {
+              "en": "If winning a race meant leaving a friend in danger, what would success mean to you?",
+              "zh": "如果赢得比赛意味着把朋友留在危险中，你会怎样理解成功？",
+              "audioStart": 1102.8056,
+              "audioEnd": 1108.259
+            }
+          ],
+          "audioStart": 1095.0451,
+          "audioEnd": 1108.379,
+          "voices": {
+            "teacher": {
+              "audioStart": 927.4478,
+              "audioEnd": 938.99,
+              "sentences": [
+                {
+                  "audioStart": 927.5278,
+                  "audioEnd": 933.4534
+                },
+                {
+                  "audioStart": 934.2917,
+                  "audioEnd": 938.87
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "chapters": [
+        {
+          "title": "A Very Quiet Life",
+          "titleZh": "十分安静的生活",
+          "startPage": 1
+        },
+        {
+          "title": "The Eighty-Day Challenge",
+          "titleZh": "八十天的挑战",
+          "startPage": 4
+        },
+        {
+          "title": "A Detective at Suez",
+          "titleZh": "苏伊士的侦探",
+          "startPage": 7
+        },
+        {
+          "title": "Where the Railway Stops",
+          "titleZh": "铁路尽头",
+          "startPage": 10
+        },
+        {
+          "title": "Time for Another Person",
+          "titleZh": "为另一个人停下",
+          "startPage": 13
+        },
+        {
+          "title": "Trouble Before the Ship",
+          "titleZh": "开船之前的麻烦",
+          "startPage": 16
+        },
+        {
+          "title": "A Secret in Hong Kong",
+          "titleZh": "香港的秘密",
+          "startPage": 19
+        },
+        {
+          "title": "A Small Boat and a Storm",
+          "titleZh": "小船与风暴",
+          "startPage": 22
+        },
+        {
+          "title": "The Performer in Japan",
+          "titleZh": "日本的表演者",
+          "startPage": 25
+        },
+        {
+          "title": "Across the Pacific",
+          "titleZh": "横渡太平洋",
+          "startPage": 28
+        },
+        {
+          "title": "Rails Across America",
+          "titleZh": "横穿美国的铁轨",
+          "startPage": 31
+        },
+        {
+          "title": "The Train Without a Driver",
+          "titleZh": "失控的列车",
+          "startPage": 34
+        },
+        {
+          "title": "A Sail over Snow",
+          "titleZh": "雪地上的风帆",
+          "startPage": 37
+        },
+        {
+          "title": "A Different Atlantic Crossing",
+          "titleZh": "另一条大西洋航线",
+          "startPage": 40
+        },
+        {
+          "title": "Wood for the Furnace",
+          "titleZh": "送进炉膛的木材",
+          "startPage": 43
+        },
+        {
+          "title": "The Arrest at Liverpool",
+          "titleZh": "利物浦的逮捕",
+          "startPage": 46
+        },
+        {
+          "title": "What the Journey Was Worth",
+          "titleZh": "旅程的价值",
+          "startPage": 49
+        },
+        {
+          "title": "One More Day",
+          "titleZh": "多出来的一天",
+          "startPage": 52
+        },
+        {
+          "title": "After the Journey",
+          "titleZh": "旅程之后",
+          "startPage": 55
+        }
+      ],
+      "paragraphs": [
+        "Chapter 1: A Very Quiet Life. Phileas Fogg lived in London, where every part of his day seemed to follow the hands of a clock. He ate at fixed times, walked at a steady pace, and rarely showed surprise.",
+        "His new servant, a cheerful Frenchman called Passepartout, hoped that working for him would mean a peaceful life. Passepartout had been a performer and a fireman, and he was ready for a rest from excitement. On his first day, he carefully checked the house while Fogg went to his club as usual.",
+        "Everything seemed wonderfully regular, from the warm rooms to the times written in his instructions. But before that day ended, the quiet household would be preparing for a journey around the world.",
+        "Chapter 2: The Eighty-Day Challenge. At the club, a newspaper report led Fogg and several other men to discuss how quickly a traveler could circle the earth. New railways, regular steamships, and the route through the Suez Canal made the world seem smaller.",
+        "The published plan allowed eighty days, but the others pointed out storms, accidents, and missed connections. Fogg declared that he could do it, and he made a wager of twenty thousand pounds. He had to return to the club by a quarter to nine on the evening of December twenty-first.",
+        "That very evening, he told an astonished Passepartout to pack a small bag and come with him. Their train left London, and the life Passepartout had expected disappeared behind them.",
+        "Chapter 3: A Detective at Suez. The travelers crossed France and Italy, then boarded a steamship that carried them toward Suez. As the ship passed along its route, a detective named Fix watched the passengers with special interest.",
+        "A large sum of money had been stolen from a London bank, and Fix thought Fogg resembled the wanted man. Fogg's money and sudden departure seemed suspicious to him, although they did not prove a crime. Fix waited for an arrest warrant and questioned Passepartout, who happily talked about their remarkable journey.",
+        "The servant did not understand why this friendly stranger wanted so many details. When the ship sailed onward to Bombay, Fix followed, carrying his suspicion with him.",
+        "Chapter 4: Where the Railway Stops. In India, Fogg and Passepartout took a train eastward, expecting the railway to carry them toward Calcutta. Then the train stopped, and they discovered that a section of the line had not yet been completed.",
+        "The timetable had made the journey look simple, but the ground before them told a different story. Fogg did not spend long complaining; he looked for another way to reach the next part of the railway. He bought an elephant and hired a guide who knew the paths through the country.",
+        "With a fellow traveler, they continued through fields and forest, moving more slowly than a train but still moving east. Passepartout discovered that a plan could be exact on paper and still need changing in real life.",
+        "Chapter 5: Time for Another Person. In the forest, the guide told them that a young widow named Aouda was being taken to a ceremony that would end her life. She was unable to choose freely, and the travelers realized that she needed help at once.",
+        "Fogg still had time in his schedule, and he decided to use it to try to save her. Their first attempt failed, but Passepartout found another chance by using his courage and skill as a performer. He secretly took the place of the dead husband, then rose and carried Aouda away while the watchers fled in fear.",
+        "With their guide's help, the party escaped and continued toward the railway. Aouda traveled with them, and the race around the world now included a responsibility that no timetable had listed.",
+        "Chapter 6: Trouble Before the Ship. At Calcutta, another delay waited for them, this time inside a court. Earlier in Bombay, Passepartout had entered a temple without following its rules, and the matter had followed him here.",
+        "Fix hoped the case would keep Fogg in place until the bank's arrest warrant arrived. But Fogg paid the required bail, and the travelers reached their ship in time. They sailed from Calcutta toward Hong Kong by way of Singapore.",
+        "Aouda hoped to find a relative in Hong Kong, while Fogg continued checking the next connection. Fix sailed with them, convinced that every mile was carrying a criminal farther from justice.",
+        "Chapter 7: A Secret in Hong Kong. In Hong Kong, Aouda learned that her relative had moved to Europe, so Fogg offered to take her there with them. Meanwhile, Passepartout discovered that their next ship would leave earlier than expected.",
+        "Before he could warn Fogg, Fix drew him into a private conversation and revealed that he was a detective. Passepartout refused to help arrest his master, whose kindness he had seen for himself. Fix then used drink and a drug to leave him unable to carry the warning back.",
+        "The servant missed his chance to explain the changed departure, and the travelers were separated. Fogg and Aouda waited in vain for Passepartout, while the ship they needed prepared to sail without them.",
+        "Chapter 8: A Small Boat and a Storm. Passepartout recovered enough to reach the departing ship, but Fogg and Aouda were not aboard. They had to find another route, and Fogg hired a small sailing boat called the Tankadere.",
+        "Its captain could not take them all the way to Japan, but he could try to reach Shanghai. There they might meet the larger steamship traveling onward to Yokohama and across the Pacific. Fix joined the small boat, while its crew fought a fierce storm that made speed and safety difficult to balance.",
+        "Near their destination, they saw the steamship moving away, and the captain signaled for help by firing a gun. The signal was noticed, and Fogg's party gained another chance to continue the journey.",
+        "Chapter 9: The Performer in Japan. Passepartout arrived in Yokohama alone, with little money and no idea where his companions were. He walked through unfamiliar streets, searching for food and a way to earn his passage onward.",
+        "His old performance skills helped him find work with a troupe of acrobats. During a show, he took his place in a tall human tower, wearing part of a strange costume. Then he saw Fogg and Aouda in the audience, and excitement swept away every thought of the performance.",
+        "He rushed toward them, bringing the tower down and ending his short career with the troupe. The travelers were together again, and soon they boarded the steamship bound for San Francisco.",
+        "Chapter 10: Across the Pacific. The Pacific stretched around their ship, wider than any ocean passage they had crossed so far. Fogg studied his schedule, Passepartout looked after his duties, and Aouda grew increasingly fond of their quiet companion.",
+        "Fix had obtained the warrant, but outside British territory he could not use it as he wished. Now he wanted Fogg to reach Britain quickly, where he planned to make the arrest. Passepartout learned that Fix would help them onward, though the two men had very different reasons for continuing.",
+        "After the long crossing, the ship reached San Francisco, and the travelers hurried toward a train across America. Their route was still moving east, from one coast toward another and from one set of difficulties to the next.",
+        "Chapter 11: Rails Across America. The train carried them through great open spaces, past towns, mountains, and plains. Once, a huge herd of bison blocked the line, and the powerful engine had to wait for living traffic to pass.",
+        "Later, a damaged bridge threatened another delay, and the crew decided to rush the train across it at speed. Passepartout thought the passengers should cross safely first, but events moved too quickly for his suggestion. The train reached the far side, and the bridge fell behind it.",
+        "They had escaped, but a successful outcome did not make the choice free from danger. Fogg's timetable kept its neat columns while the real journey shook, stopped, and changed beneath their feet.",
+        "Chapter 12: The Train Without a Driver. Farther along the line, a group of Sioux riders attacked the train, and fighting broke out among the moving carriages. The engine driver was struck down, and the train continued without anyone properly controlling its speed.",
+        "Passepartout climbed beneath the carriages and managed to separate them from the engine. The carriages slowed near a fort, where soldiers came to help. But when the attack ended, Passepartout and several other passengers were missing.",
+        "Fogg could continue without his servant, or he could lose precious time trying to bring him back. He chose the rescue and left with a party of soldiers while Aouda waited anxiously.",
+        "Chapter 13: A Sail over Snow. The rescue party returned with the missing travelers, but the train had already departed. Fogg had kept his friend, yet the lost hours now threatened the entire journey.",
+        "Fix helped arrange another strange form of transport: a sledge fitted with sails. A strong wind pushed it over the frozen plain, carrying the travelers toward a place where they could catch another train. Wrapped against the bitter cold, they watched the white ground rush beneath them.",
+        "The sledge and the next train brought them to New York, but not soon enough for their planned Atlantic steamer. The ship was gone, and once again Fogg stood at a waterfront with an ocean between him and home.",
+        "Chapter 14: A Different Atlantic Crossing. Fogg searched the harbor and found the Henrietta, a ship whose captain intended to sail to Bordeaux in France. The captain refused to change his destination, but he agreed to carry the travelers as passengers.",
+        "Once at sea, Fogg persuaded the crew to support him, confined the captain, and directed the ship toward Britain. It was a bold and troubling act, not simply another ticket bought at a station. The ship's new course took them toward home, with every day of the crossing eating into their remaining time.",
+        "Fogg could change the course of a ship more easily than he could change the weather or the distance across the ocean. Ahead lay Britain, but first they had to make the vessel keep moving.",
+        "Chapter 15: Wood for the Furnace. Then the coal supply ran low, and reaching the coast became a problem of fuel as well as time. The engine needed heat, and heat required something to burn.",
+        "Fogg bargained with the captain and bought the ship, leaving him the engine and metal hull. Now the crew could remove wooden parts of the vessel and feed them into the furnace. The fuel was coming from the ship itself, so each extra mile had a cost that everyone could see.",
+        "This could not continue forever, but it might provide enough power to reach the coast. As the damaged ship pressed onward, Fogg watched for the next chance to shorten the route home.",
+        "Chapter 16: The Arrest at Liverpool. Near Ireland, Fogg used a faster mail route, landing at Queenstown and taking a train to Dublin. A fast boat then carried the party to Liverpool, bringing London within reach at last.",
+        "At that moment, Fix stepped forward and arrested Fogg for the bank robbery. The traveler who had crossed oceans and continents was stopped inside a room, unable to continue. Later, Fix returned with terrible news for his own theory: the real thief had already been caught.",
+        "Fogg was released and arranged a special train, but he reached London five minutes after the time he believed was his deadline. After so many narrow escapes, he went home believing that he had lost.",
+        "Chapter 17: What the Journey Was Worth. The next day, Fogg stayed at home, thinking that the wager and much of his fortune were gone. Passepartout blamed himself for the delays, while Aouda thought about everything Fogg had done for her.",
+        "She asked whether he would marry her, offering companionship when he thought he had little left to offer anyone. Fogg loved her too, and their conversation changed the meaning of what he had brought home. They sent Passepartout to ask a clergyman about arranging the wedding for the following day.",
+        "A little later, the servant burst back into the house, breathless and almost unable to speak. The mistake he had discovered was not about a train or a ship, but about the day itself.",
+        "Chapter 18: One More Day. They had returned on Friday, not Saturday, and the evening they now called Sunday was really Saturday. Traveling east around the earth had given their count of days one extra sunrise compared with the people who stayed in London.",
+        "They had not traveled into the past or made more hours; they had failed to correct their calendar during the journey. Fogg still had a chance to win, but now only minutes remained before the real deadline. He hurried to the club and arrived just in time, astonishing the men who had been waiting there.",
+        "The wager was won, though the journey had cost nearly as much as the prize. For Fogg, the greatest gain was the person he would share his life with, and the quiet house would never be quite the same.",
+        "Chapter 19: After the Journey. Around the World in Eighty Days is an adventure novel about travel in the nineteenth century, not a modern travel guide. Its famous trip uses trains, ships, an elephant, and a sailing sledge, but the travelers do not fly around the world in a balloon.",
+        "Today, crossing the International Date Line requires a calendar change: going east means moving the date back one day. That rule helps people keep local dates consistent after a journey around the earth. The novel also reflects old prejudices about different peoples, so its descriptions should not be treated as a complete picture of those places.",
+        "Which delay could have been prevented by better information, and which demanded a new decision on the spot? If winning a race meant leaving a friend in danger, what would success mean to you?"
+      ],
+      "readingGuide": {
+        "before": "先看福格和路路通对旅程的期待怎样不同。跟着他们从伦敦向东，不急着猜结尾；留意每次交通衔接出了什么问题。",
+        "people": [
+          "福格：做事精确、外表沉静的旅行者，愿意为同伴改变安排。",
+          "路路通：开朗的法国仆人，有表演和救火经验。",
+          "艾娥达：获救后加入旅程的同伴，关心并支持福格。",
+          "费克斯：追踪福格的侦探，他的判断影响着旅程。"
+        ],
+        "watch": "伦敦→法国、意大利→苏伊士→孟买→加尔各答→新加坡→香港→日本横滨→旧金山→纽约→爱尔兰→利物浦→伦敦。哪些地点之间坐船，哪些地方需要改换办法？",
+        "chapters": [
+          {
+            "recap": "可这一天尚未结束，这个安静的家就要为一场环球旅行作准备了。",
+            "questions": [
+              [
+                "路路通为什么对新工作抱有这样的期待？",
+                "看看他过去的职业和福格的日常。",
+                "他经历过表演与救火，希望过平静生活；这种期待与突然出发形成有趣的变化。"
+              ]
+            ]
+          },
+          {
+            "recap": "火车驶离伦敦，路路通原本期待的生活，就这样被留在了身后。",
+            "questions": [
+              [
+                "报上需要八十天，为什么还不能保证实际完成？",
+                "时刻表是否写出了每一种意外？",
+                "计划基于班次和正常行程，天气、路况和误点都可能改变结果。"
+              ]
+            ]
+          },
+          {
+            "recap": "轮船继续驶向孟买时，费克斯也跟了上去，心中仍带着怀疑。",
+            "questions": [
+              [
+                "费克斯的怀疑和可靠证据有什么区别？",
+                "分别列出他看见的事与得出的结论。",
+                "相貌、钱和出发时间可以成为调查线索，却不能单独证明福格偷了钱。"
+              ]
+            ]
+          },
+          {
+            "recap": "路路通发现，纸上的计划即使十分精确，到了实际生活中仍可能需要改变。",
+            "questions": [
+              [
+                "铁路没有修好时，福格怎样处理问题？",
+                "比较抱怨、等待和寻找替代路线。",
+                "他依据眼前情况改用大象与向导；准确计划也需要现场核实和调整。"
+              ]
+            ]
+          },
+          {
+            "recap": "艾娥达与他们同行，而这场环球竞赛也多了一份时刻表从未列出的责任。",
+            "questions": [
+              [
+                "救艾娥达让行程的目标发生了什么变化？",
+                "想想原计划中有没有她。",
+                "旅程不再只关乎赌约，还关系一个人的生命与自由；福格愿意为此使用时间。"
+              ]
+            ]
+          },
+          {
+            "recap": "费克斯也一同航行，深信每走一英里，都是让一个罪犯离正义更远一步。",
+            "questions": [
+              [
+                "这次耽搁与铁路中断有何不同？",
+                "从行为与后果的联系考虑。",
+                "寺庙事件源于路路通先前没有遵守当地规则，提醒旅行也需要尊重与了解环境。"
+              ]
+            ]
+          },
+          {
+            "recap": "福格和艾娥达徒劳地等着路路通，而他们需要搭乘的船，已准备在没有他们的情况下起航。",
+            "questions": [
+              [
+                "路路通没传回消息，只是粗心吗？",
+                "留意他是否能自由离开。",
+                "费克斯蓄意阻止消息传递，利用酒和毒品让他无法行动；不能把被伤害等同于粗心。"
+              ]
+            ]
+          },
+          {
+            "recap": "信号被发现了，福格一行又获得一次继续旅程的机会。",
+            "questions": [
+              [
+                "小船船长的困难只有开得快吗？",
+                "将天气和船的大小放入考虑。",
+                "他还要照顾乘客与船员安全，速度、风暴与航程相互制约，不能只看奖金。"
+              ]
+            ]
+          },
+          {
+            "recap": "旅行者们终于重聚，不久便登上了驶往旧金山的轮船。",
+            "questions": [
+              [
+                "路路通以前的技能怎样在新地方派上用场？",
+                "回想第一章介绍的职业。",
+                "表演经历帮助他寻找食物和船费；过去看似无关的学习可能成为应变资源。"
+              ]
+            ]
+          },
+          {
+            "recap": "路线仍在向东延伸，从一个海岸通往另一个海岸，也从一组难题走向下一组难题。",
+            "questions": [
+              [
+                "费克斯开始帮忙，是否表示他已相信福格？",
+                "把行动和动机分开。",
+                "他仍想逮捕福格，只是需要先回到英国；相同的行为可能来自不同目的。"
+              ]
+            ]
+          },
+          {
+            "recap": "福格的时刻表仍然排列整齐，真实的旅程却在脚下颠簸、停顿，不断变化。",
+            "questions": [
+              [
+                "桥塌之前赶过去，能证明决定正确吗？",
+                "分别评价结果和作决定时已知的风险。",
+                "幸运脱险不代表风险合理；路路通提出让乘客先安全通过，是另一个可考虑的方案。"
+              ]
+            ]
+          },
+          {
+            "recap": "他选择了营救，与一队士兵出发，艾娥达则焦急地等待。",
+            "questions": [
+              [
+                "福格为什么选择返回救人？",
+                "如果只以赶上班次为目标，会怎样做？",
+                "他把同伴生命看得比行程更重；他的沉静不等于没有感情。"
+              ]
+            ]
+          },
+          {
+            "recap": "轮船已经离开，福格又一次站在码头，家与自己之间隔着一片大洋。",
+            "questions": [
+              [
+                "风帆雪橇需要什么条件？",
+                "和轮船、火车分别比较。",
+                "它依赖风与适合滑行的地面，不是任何地方都能替代火车；办法必须匹配条件。"
+              ]
+            ]
+          },
+          {
+            "recap": "英国就在前方，但首先，他们必须让船持续前进。",
+            "questions": [
+              [
+                "福格改变航向的方式能仅用赶时间来解释吗？",
+                "想想船长有没有自由选择。",
+                "赶时间说明动机，却不能自动使限制船长自由的行为合理；应把主角行为也放进讨论。"
+              ]
+            ]
+          },
+          {
+            "recap": "被拆损的轮船继续前进，福格则寻找下一个能缩短归程的机会。",
+            "questions": [
+              [
+                "木材作为燃料解决问题的同时，消耗了什么？",
+                "注意燃料从哪里来。",
+                "它让发动机继续工作，却不断拆损船本身；可用材料和距离都有边界。"
+              ]
+            ]
+          },
+          {
+            "recap": "经历无数次险险赶上之后，他回到家中，认定自己输了。",
+            "questions": [
+              [
+                "费克斯的错误造成了哪些后果？",
+                "从时间之外再想一项。",
+                "逮捕耽误行程，也给无辜者与同伴带来伤害；过早认定结论会影响判断。"
+              ]
+            ]
+          },
+          {
+            "recap": "他发现的错误不在火车，也不在轮船，而在日期本身。",
+            "questions": [
+              [
+                "以为输了以后，福格还有什么收获？",
+                "看艾娥达和路路通怎样对待他。",
+                "信任、爱与同伴关系并未随赌约消失，他的生活已因旅程改变。"
+              ]
+            ]
+          },
+          {
+            "recap": "对福格来说，最大的收获是即将与他共度一生的人；那栋安静的房子，再也不会与从前完全一样。",
+            "questions": [
+              [
+                "多出来的是时间，还是日期计数的差异？",
+                "想想太阳、向东旅行与日历。",
+                "总时间没有被创造；绕地球向东时需校正日期，最后是他们以为的日子比当地多算了一天。"
+              ]
+            ]
+          },
+          {
+            "recap": "如果赢得比赛意味着把朋友留在危险中，你会怎样理解成功？",
+            "questions": [
+              [
+                "你会怎样设计一张更有用的旅行计划？",
+                "除了班次，加入应变和人的需要。",
+                "可列备用路线、核实信息的方法、休息与互相联系的安排，并给不可预见情况留余量。"
+              ]
+            ]
+          }
+        ],
+        "after": [
+          [
+            "哪一次临时改变最有意思？",
+            "说清原计划、遇到的阻碍与替代办法。"
+          ],
+          [
+            "如果没有赢得赌约，旅程还值得吗？",
+            "用营救、信任和伙伴关系中的具体事件说明。"
+          ],
+          [
+            "故事中的路线和今天的交通有什么不同？",
+            "找可靠地图比较一段路线，留意历史地名和当代地点的对应。"
+          ]
+        ]
+      },
+      "narrations": {
+        "child": {
+          "src": "audio/around-world-retold-child-e1fa4b22541d.mp3",
+          "voice": "en-US-AnaNeural",
+          "label": "美式童声 Ana",
+          "slowRate": 0.8
+        },
+        "teacher": {
+          "src": "audio/around-world-retold-teacher-3ea9db7cf187.mp3",
+          "voice": "en-US-JennyNeural",
+          "label": "美式女老师 Jenny",
+          "slowRate": 0.8
+        }
+      },
+      "narration": {
+        "src": "audio/around-world-retold-child-e1fa4b22541d.mp3",
+        "voice": "en-US-AnaNeural",
+        "label": "美式童声 Ana",
+        "slowRate": 0.8
+      },
+      "wordMeanings": {
+        "fogg": "福格（主人公的姓氏）",
+        "phileas": "菲利亚斯（福格的名字）",
+        "passepartout": "路路通（人名）",
+        "aouda": "艾娥达（人名）",
+        "bombay": "孟买（印度城市，今名Mumbai）",
+        "calcutta": "加尔各答（印度城市，今拼写Kolkata）",
+        "queenstown": "皇后镇（爱尔兰旧地名，今名Cobh）",
+        "hong": "Hong Kong中的一个词；Hong Kong意为香港",
+        "kong": "Hong Kong中的一个词；Hong Kong意为香港",
+        "san": "San Francisco中的一个词；全名指旧金山",
+        "francisco": "弗朗西斯科（San Francisco：旧金山）",
+        "sioux": "苏族（北美原住民群体的名称）",
+        "tankadere": "坦卡德尔号（小帆船名）",
+        "henrietta": "亨利埃塔号（船名）",
+        "sledge": "雪橇",
+        "quarter": "四分之一；一刻钟",
+        "case": "案件；情况；箱子（随句意）",
+        "drug": "毒品；药物（随句意）",
+        "connections": "换乘衔接；联系（复数）",
+        "train": "火车；列车；训练（随句意）",
+        "warrant": "授权令；逮捕令",
+        "fix": "费克斯（侦探的姓氏）；修理（随句意）",
+        "bank": "银行",
+        "bail": "保释金",
+        "pounds": "英镑（英国货币单位）",
+        "club": "俱乐部",
+        "master": "主人（路路通对福格的称呼）",
+        "party": "一行人；队伍",
+        "hands": "指针；手（随句意）",
+        "line": "铁路线；线路",
+        "race": "竞赛；赶路的挑战",
+        "race around": "环绕……竞速",
+        "firing": "鸣放；开火（firing a gun：鸣枪）",
+        "bound": "开往……的",
+        "sound": "声音；听起来（随句意）",
+        "fortune": "财产；运气",
+        "crossing": "穿越；横渡航程",
+        "hull": "船壳；船体",
+        "bitter": "严酷的（bitter cold：严寒）",
+        "wood": "木材",
+        "driver": "司机；火车司机",
+        "fine": "罚款；好的（随句意）",
+        "east": "东；向东",
+        "date": "日期（不是约会或枣）",
+        "steam": "蒸汽"
+      }
     }
   ],
   "glossary": {
@@ -75610,7 +78728,131 @@
     "volunteered": "自愿参加；主动提出",
     "waterways": "水道；航道（复数）",
     "wonder": "想知道；感到惊奇",
-    "zambo": "赞博（接应队伍的同伴名字）"
+    "zambo": "赞博（接应队伍的同伴名字）",
+    "accidents": "事故（复数）",
+    "acrobats": "杂技演员（复数）",
+    "anxiously": "焦急地",
+    "aouda": "艾娥达（人名）",
+    "arrange": "安排",
+    "arrested": "逮捕；被捕（arrest的过去式）",
+    "bail": "保释金；保释",
+    "bank's": "银行的",
+    "bison": "野牛；美洲野牛（单复数同形）",
+    "bitter": "严酷的；苦的",
+    "boarded": "登上（船、火车等）",
+    "bombay": "孟买（印度城市，今名Mumbai）",
+    "bordeaux": "波尔多（法国城市）",
+    "breathless": "上气不接下气的",
+    "britain": "英国；大不列颠",
+    "calcutta": "加尔各答（印度城市，今拼写Kolkata）",
+    "calendar": "日历",
+    "canal": "运河",
+    "career": "职业生涯",
+    "carriages": "车厢；马车（复数）",
+    "case": "案件；情况；箱子（随句意）",
+    "century": "世纪",
+    "ceremony": "仪式",
+    "clergyman": "牧师；神职人员",
+    "companionship": "陪伴；伙伴关系",
+    "compared": "比较；相比",
+    "completed": "完成的；已完成",
+    "confined": "关押；限制活动",
+    "connections": "换乘衔接；联系（复数）",
+    "consistent": "一致的",
+    "continents": "大陆；洲（复数）",
+    "costume": "表演服装；装束",
+    "crime": "犯罪；罪行",
+    "criminal": "罪犯；犯罪的",
+    "date": "日期",
+    "dates": "日期（复数）",
+    "december": "十二月",
+    "delay": "耽搁；延误",
+    "delays": "耽搁；延误（复数）",
+    "departed": "出发了；离开了",
+    "departing": "即将离开的；正在离开",
+    "difficulties": "困难（复数）",
+    "driver": "司机；驾驶员",
+    "drug": "毒品；药物（随句意）",
+    "dublin": "都柏林（爱尔兰城市）",
+    "duties": "职责；应做的事务（复数）",
+    "eastward": "向东地；向东的",
+    "eighty": "八十",
+    "escapes": "脱险；逃离（复数或第三人称单数）",
+    "europe": "欧洲",
+    "exact": "精确的；准确的",
+    "fellow": "同伴；同一类的",
+    "fireman": "消防员",
+    "fogg": "福格（主人公的姓氏）",
+    "fogg's": "福格的",
+    "fond": "喜爱的；有感情的（fond of：喜欢）",
+    "francisco": "弗朗西斯科（San Francisco：旧金山）",
+    "frenchman": "法国男子",
+    "fuel": "燃料",
+    "furnace": "炉膛；燃烧炉",
+    "guide's": "向导的",
+    "henrietta": "亨利埃塔号（船名）",
+    "hong": "Hong Kong中的一个词；Hong Kong意为香港",
+    "ireland": "爱尔兰",
+    "japan": "日本",
+    "justice": "正义；司法",
+    "kong": "Hong Kong中的一个词；Hong Kong意为香港",
+    "listed": "列出的；列入清单",
+    "liverpool": "利物浦（英国城市）",
+    "mile": "英里（长度单位，约1.609千米）",
+    "modern": "现代的",
+    "nineteenth": "第十九；nineteenth century：十九世纪",
+    "obtained": "获得了",
+    "outcome": "结果",
+    "passengers": "乘客（复数）",
+    "passepartout": "路路通（人名）",
+    "performance": "表演；演出",
+    "performer": "表演者",
+    "phileas": "菲利亚斯（福格的名字）",
+    "plains": "平原（复数）",
+    "preparing": "准备；正在准备",
+    "private": "私下的；私人的",
+    "quarter": "四分之一；一刻钟",
+    "queenstown": "皇后镇（爱尔兰旧地名，今名Cobh）",
+    "rails": "铁轨（复数）",
+    "railway": "铁路",
+    "railways": "铁路（复数）",
+    "reflects": "反映；映出",
+    "relative": "亲戚",
+    "resembled": "像；与……相似",
+    "responsibility": "责任",
+    "riders": "骑手（复数）",
+    "robbery": "抢劫；盗案",
+    "san": "San Francisco中的一个词；全名指旧金山",
+    "schedule": "时间安排；行程表",
+    "shanghai": "上海",
+    "shorten": "缩短",
+    "singapore": "新加坡",
+    "sioux": "苏族（北美原住民群体的名称）",
+    "sledge": "雪橇",
+    "slowed": "减速了；变慢了",
+    "steamer": "汽船；蒸汽轮船",
+    "steamship": "蒸汽轮船",
+    "steamships": "蒸汽轮船（复数）",
+    "stops": "停止；停靠（第三人称单数）",
+    "success": "成功",
+    "suggestion": "建议",
+    "suspicious": "可疑的；怀疑的",
+    "tankadere": "坦卡德尔号（小帆船名）",
+    "temple": "寺庙",
+    "territory": "领土；地区",
+    "ticket": "票；车票；船票",
+    "timetable": "时刻表",
+    "tower": "塔；塔状结构",
+    "train": "火车；列车；训练（随句意）",
+    "trains": "火车（复数）；训练（第三人称单数）",
+    "troubling": "令人不安的",
+    "troupe": "剧团；表演团体",
+    "vain": "徒劳的（in vain：徒劳地）",
+    "warrant": "授权令；逮捕令",
+    "watchers": "观看者；围观者（复数）",
+    "waterfront": "码头区；滨水地带",
+    "widow": "寡妇（丈夫已去世的女子）",
+    "yokohama": "横滨（日本城市）"
   },
   "archivedStories": [
     {

@@ -191,6 +191,17 @@
       "licenseCheckDate": "2026-11-14",
       "verifiedLicense": "Project Gutenberg lists this English original as public domain in the USA. Newly written retelling, Chinese translation, guide and cover schematic: CC BY 4.0.",
       "notes": "英文与中文为节选改写；封面为本站原创想象高原示意图，正文采用纯文字分页。"
+    },
+    {
+      "id": "around-world-retold",
+      "title": "Around the World in Eighty Days",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/103",
+      "author": "Jules Verne",
+      "translator": "George M. Towle",
+      "sourceSHA256": "82757ff08a9fd749dc6bf4635fc290b845455ca948d9f579cd90170147a84cb3",
+      "licenseCheckDate": "2026-11-14",
+      "verifiedLicense": "Project Gutenberg lists this English translation as public domain in the USA. Newly written retelling, Chinese translation, guide and cover schematic: CC BY 4.0.",
+      "notes": "英文与中文为节选改写；封面为本站原创交通与地球示意图，正文采用纯文字分页。"
     }
   ],
   "originalReaders": "Three AI-assisted original simple-English readers and diagrams, CC BY 4.0. Their linked factual sources retain their own rights."
