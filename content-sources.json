@@ -181,6 +181,16 @@
       "licenseCheckDate": "2026-11-13",
       "verifiedLicense": "Project Gutenberg lists this source translation as public domain in the USA. Newly written retelling, Chinese translation, guide and cover schematic: CC BY 4.0.",
       "notes": "英文与中文为节选改写；封面为本站原创岛屿示意图，正文采用纯文字分页。"
+    },
+    {
+      "id": "lost-world-retold",
+      "title": "The Lost World",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/139",
+      "author": "Arthur Conan Doyle, 1912",
+      "sourceSHA256": "6eb2bd60531e10015e478d55a141b659f757496dec887c6f10b3726736196af0",
+      "licenseCheckDate": "2026-11-14",
+      "verifiedLicense": "Project Gutenberg lists this English original as public domain in the USA. Newly written retelling, Chinese translation, guide and cover schematic: CC BY 4.0.",
+      "notes": "英文与中文为节选改写；封面为本站原创想象高原示意图，正文采用纯文字分页。"
     }
   ],
   "originalReaders": "Three AI-assisted original simple-English readers and diagrams, CC BY 4.0. Their linked factual sources retain their own rights."

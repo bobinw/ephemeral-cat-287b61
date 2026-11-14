@@ -67595,6 +67595,2799 @@
         "second": "第二（a second chance：第二次机会）；秒",
         "hard": "坚硬的；艰难的；努力地"
       }
+    },
+    {
+      "id": "lost-world-retold",
+      "title": "The Lost World",
+      "titleZh": "失落的世界",
+      "kind": "picture",
+      "adaptedReader": true,
+      "synopsis": "一本画家的笔记把四位探险者带到南美的高原。巨大的脚印、森林里的恐龙与意外断掉的归路，让他们必须一边寻找证据，一边设法回家。",
+      "credits": "原著：Arthur Conan Doyle，The Lost World（1912），依据 Project Gutenberg #139 英文原著节选改写。本站简明英文、中文翻译、导读及封面为新编，CC BY 4.0。非原著全文，非官方分级版本，蓝思值未测评。压缩感情支线及暴力描写，保留探险、营救、脱困与归来主线；原作有关不同人群的偏见及过时的古生物想象不代表事实。",
+      "creditsFile": "books/lost-world-retold/credits.txt",
+      "sourceUrl": "https://www.gutenberg.org/ebooks/139",
+      "original": "books/lost-world-retold/original.txt",
+      "retelling": "books/lost-world-retold/retelling.txt",
+      "cover": "books/lost-world-retold/cover.svg",
+      "edition": "原作探险版",
+      "translationNote": "16章故事＋1章读后思考；简明英文节选改写，突出恐龙、观察、团队合作与脱困。",
+      "shelfDifficulty": "challenge",
+      "topics": [
+        "冒险与探索",
+        "自然与环境"
+      ],
+      "illustrationNote": "英文与中文为节选改写；封面为本站原创想象高原示意图，正文采用纯文字分页。",
+      "introduction": {
+        "author": "阿瑟·柯南·道尔（Arthur Conan Doyle），英国作家，也是福尔摩斯故事的作者。",
+        "background": "1912年出版的科幻冒险小说。故事中的高原与史前生物属于小说想象，不是南美地理或现代古生物学的事实记录。",
+        "synopsis": "年轻记者马龙跟随两位科学家和一位旅行家进入南美森林。他们要检验一项惊人的说法，却很快遇到更迫切的难题：归路断了。",
+        "sourceUrl": "https://www.gutenberg.org/ebooks/139"
+      },
+      "picturePages": [
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "layout": "reflow",
+          "text": "The Lost World.",
+          "sentences": [
+            {
+              "en": "The Lost World.",
+              "zh": "失落的世界 · 原作探险版。",
+              "audioStart": 0.0555,
+              "audioEnd": 1.4672
+            }
+          ],
+          "audioStart": 0,
+          "audioEnd": 1.5872,
+          "voices": {
+            "teacher": {
+              "audioStart": 0,
+              "audioEnd": 1.3927,
+              "sentences": [
+                {
+                  "audioStart": 0.0555,
+                  "audioEnd": 1.2727
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 0,
+          "text": "Chapter 1: A Strange Assignment. Edward Malone was a young newspaper reporter in London, and he wanted a story that would take him far beyond his desk. His editor told him about Professor Challenger, a scientist who had returned from South America with an extraordinary claim.",
+          "sentences": [
+            {
+              "en": "Chapter 1: A Strange Assignment.",
+              "zh": "第1章：奇怪的采访任务。",
+              "type": "chapter",
+              "audioStart": 2.3055,
+              "audioEnd": 5.1061
+            },
+            {
+              "en": "Edward Malone was a young newspaper reporter in London, and he wanted a story that would take him far beyond his desk.",
+              "zh": "爱德华·马龙是伦敦的一名年轻记者，他希望找到一个能让自己走出办公桌、去往远方的故事。",
+              "audioStart": 5.9445,
+              "audioEnd": 14.2172
+            },
+            {
+              "en": "His editor told him about Professor Challenger, a scientist who had returned from South America with an extraordinary claim.",
+              "zh": "编辑向他提起查林杰教授：这位科学家从南美回来，提出了一个非同寻常的说法。",
+              "audioStart": 15.0555,
+              "audioEnd": 23.8978
+            }
+          ],
+          "audioStart": 2.2255,
+          "audioEnd": 24.0178,
+          "voices": {
+            "teacher": {
+              "audioStart": 2.0311,
+              "audioEnd": 20.49,
+              "sentences": [
+                {
+                  "audioStart": 2.1111,
+                  "audioEnd": 4.4255
+                },
+                {
+                  "audioStart": 5.2639,
+                  "audioEnd": 12.2589
+                },
+                {
+                  "audioStart": 13.0972,
+                  "audioEnd": 20.37
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 0,
+          "text": "Challenger said that creatures from the distant past were still alive in a place that few outsiders had seen. Other people laughed, and some newspapers called him a liar. The professor had become so angry with reporters that visiting his house could end in a fight.",
+          "sentences": [
+            {
+              "en": "Challenger said that creatures from the distant past were still alive in a place that few outsiders had seen.",
+              "zh": "查林杰说，在一处几乎没有外来者见过的地方，遥远过去的生物仍然活着。",
+              "audioStart": 24.7361,
+              "audioEnd": 32.0783
+            },
+            {
+              "en": "Other people laughed, and some newspapers called him a liar.",
+              "zh": "有人大笑，一些报纸还说他是骗子。",
+              "audioStart": 32.9167,
+              "audioEnd": 37.3422
+            },
+            {
+              "en": "The professor had become so angry with reporters that visiting his house could end in a fight.",
+              "zh": "教授对记者十分恼火，去他家采访甚至可能演变成争斗。",
+              "audioStart": 38.1805,
+              "audioEnd": 44.4672
+            }
+          ],
+          "audioStart": 24.6561,
+          "audioEnd": 44.5872,
+          "voices": {
+            "teacher": {
+              "audioStart": 21.1283,
+              "audioEnd": 38.1567,
+              "sentences": [
+                {
+                  "audioStart": 21.2083,
+                  "audioEnd": 27.4255
+                },
+                {
+                  "audioStart": 28.2639,
+                  "audioEnd": 31.9255
+                },
+                {
+                  "audioStart": 32.7639,
+                  "audioEnd": 38.0367
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 0,
+          "text": "Malone was nervous, but his curiosity was stronger than his fear. He went to meet the man whose impossible story might lead to a real adventure.",
+          "sentences": [
+            {
+              "en": "Malone was nervous, but his curiosity was stronger than his fear.",
+              "zh": "马龙很紧张，但好奇心超过了恐惧。",
+              "audioStart": 45.3055,
+              "audioEnd": 50.3978
+            },
+            {
+              "en": "He went to meet the man whose impossible story might lead to a real adventure.",
+              "zh": "他决定去见这个人——那看似不可能的故事，也许会带来真正的冒险。",
+              "audioStart": 51.2361,
+              "audioEnd": 56.5367
+            }
+          ],
+          "audioStart": 45.2255,
+          "audioEnd": 56.6567,
+          "voices": {
+            "teacher": {
+              "audioStart": 38.795,
+              "audioEnd": 48.3095,
+              "sentences": [
+                {
+                  "audioStart": 38.875,
+                  "audioEnd": 43.0228
+                },
+                {
+                  "audioStart": 43.8611,
+                  "audioEnd": 48.1895
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 1,
+          "text": "Chapter 2: The Artist's Notebook. Their first meeting went badly, but Challenger eventually decided to show Malone his evidence. In South America, he had found an American artist named Maple White, who was close to death.",
+          "sentences": [
+            {
+              "en": "Chapter 2: The Artist's Notebook.",
+              "zh": "第2章：画家的笔记本。",
+              "type": "chapter",
+              "audioStart": 57.375,
+              "audioEnd": 60.3561
+            },
+            {
+              "en": "Their first meeting went badly, but Challenger eventually decided to show Malone his evidence.",
+              "zh": "两人的初次见面并不顺利，不过查林杰最终决定让马龙看看自己的证据。",
+              "audioStart": 61.1945,
+              "audioEnd": 68.0922
+            },
+            {
+              "en": "In South America, he had found an American artist named Maple White, who was close to death.",
+              "zh": "在南美，他曾遇见一位奄奄一息的美国画家，名叫梅普尔·怀特。",
+              "audioStart": 68.9305,
+              "audioEnd": 75.9117
+            }
+          ],
+          "audioStart": 57.295,
+          "audioEnd": 76.0317,
+          "voices": {
+            "teacher": {
+              "audioStart": 48.9478,
+              "audioEnd": 65.0733,
+              "sentences": [
+                {
+                  "audioStart": 49.0278,
+                  "audioEnd": 51.5505
+                },
+                {
+                  "audioStart": 52.3889,
+                  "audioEnd": 58.12
+                },
+                {
+                  "audioStart": 58.9583,
+                  "audioEnd": 64.9533
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 1,
+          "text": "The artist's notebook contained a drawing of a great plateau, with steep cliffs rising above the forest. Another drawing showed an enormous animal with a long neck, a long tail, and a small head. Challenger had also brought back part of a strange wing, although many of his other records had been damaged.",
+          "sentences": [
+            {
+              "en": "The artist's notebook contained a drawing of a great plateau, with steep cliffs rising above the forest.",
+              "zh": "画家的笔记本上画着一座巨大高原，陡峭的岩壁高出森林。",
+              "audioStart": 76.75,
+              "audioEnd": 84.1895
+            },
+            {
+              "en": "Another drawing showed an enormous animal with a long neck, a long tail, and a small head.",
+              "zh": "另一幅画中，一只巨兽长着长长的脖子和尾巴，脑袋却很小。",
+              "audioStart": 85.0278,
+              "audioEnd": 91.8839
+            },
+            {
+              "en": "Challenger had also brought back part of a strange wing, although many of his other records had been damaged.",
+              "zh": "查林杰还带回了一部分奇异的翅膀，可惜其他许多记录已经损坏。",
+              "audioStart": 92.7222,
+              "audioEnd": 100.0089
+            }
+          ],
+          "audioStart": 76.67,
+          "audioEnd": 100.1289,
+          "voices": {
+            "teacher": {
+              "audioStart": 65.7117,
+              "audioEnd": 85.2956,
+              "sentences": [
+                {
+                  "audioStart": 65.7917,
+                  "audioEnd": 71.995
+                },
+                {
+                  "audioStart": 72.8333,
+                  "audioEnd": 78.2589
+                },
+                {
+                  "audioStart": 79.0972,
+                  "audioEnd": 85.1756
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 1,
+          "text": "Malone studied the pictures, trying to decide whether they showed imagination or something the artist had actually seen. A notebook could begin a question, but it could not answer every question by itself.",
+          "sentences": [
+            {
+              "en": "Malone studied the pictures, trying to decide whether they showed imagination or something the artist had actually seen.",
+              "zh": "马龙研究着画面，想判断它们来自想象，还是画家亲眼所见。",
+              "audioStart": 100.8472,
+              "audioEnd": 109.0089
+            },
+            {
+              "en": "A notebook could begin a question, but it could not answer every question by itself.",
+              "zh": "一本笔记本能提出问题，却不能独自回答所有问题。",
+              "audioStart": 109.8472,
+              "audioEnd": 115.8977
+            }
+          ],
+          "audioStart": 100.7672,
+          "audioEnd": 116.0177,
+          "voices": {
+            "teacher": {
+              "audioStart": 85.9339,
+              "audioEnd": 99.24,
+              "sentences": [
+                {
+                  "audioStart": 86.0139,
+                  "audioEnd": 93.2172
+                },
+                {
+                  "audioStart": 94.0555,
+                  "audioEnd": 99.12
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 2,
+          "text": "Chapter 3: Four Explorers. At a crowded meeting, Challenger spoke about the hidden land, and the audience demanded better proof. Professor Summerlee, an older scientist, agreed to join an expedition and examine the claim for himself.",
+          "sentences": [
+            {
+              "en": "Chapter 3: Four Explorers.",
+              "zh": "第3章：四位探险者。",
+              "type": "chapter",
+              "audioStart": 116.7361,
+              "audioEnd": 119.6755
+            },
+            {
+              "en": "At a crowded meeting, Challenger spoke about the hidden land, and the audience demanded better proof.",
+              "zh": "在一次拥挤的集会上，查林杰讲起那片隐秘的土地，听众要求他提供更有力的证据。",
+              "audioStart": 120.5139,
+              "audioEnd": 127.62
+            },
+            {
+              "en": "Professor Summerlee, an older scientist, agreed to join an expedition and examine the claim for himself.",
+              "zh": "年长的萨默利教授同意参加考察，亲自检验这一说法。",
+              "audioStart": 128.4583,
+              "audioEnd": 136.5645
+            }
+          ],
+          "audioStart": 116.6561,
+          "audioEnd": 136.6845,
+          "voices": {
+            "teacher": {
+              "audioStart": 99.8783,
+              "audioEnd": 116.7817,
+              "sentences": [
+                {
+                  "audioStart": 99.9583,
+                  "audioEnd": 102.4672
+                },
+                {
+                  "audioStart": 103.3055,
+                  "audioEnd": 109.1339
+                },
+                {
+                  "audioStart": 109.9722,
+                  "audioEnd": 116.6617
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 2,
+          "text": "Lord John Roxton, an experienced traveler, volunteered to go as well. Malone offered to report what they found, and Challenger prepared the information they would need. The two professors disagreed about almost everything, from the evidence to the best way to explain it.",
+          "sentences": [
+            {
+              "en": "Lord John Roxton, an experienced traveler, volunteered to go as well.",
+              "zh": "经验丰富的旅行家约翰·罗克斯顿勋爵也自愿同行。",
+              "audioStart": 137.4028,
+              "audioEnd": 143.3839
+            },
+            {
+              "en": "Malone offered to report what they found, and Challenger prepared the information they would need.",
+              "zh": "马龙愿意报道他们的发现，查林杰则准备好必要的资料。",
+              "audioStart": 144.2222,
+              "audioEnd": 150.7172
+            },
+            {
+              "en": "The two professors disagreed about almost everything, from the evidence to the best way to explain it.",
+              "zh": "两位教授几乎事事争论，从证据本身到如何解释证据，都各有看法。",
+              "audioStart": 151.5555,
+              "audioEnd": 158.5228
+            }
+          ],
+          "audioStart": 137.3228,
+          "audioEnd": 158.6428,
+          "voices": {
+            "teacher": {
+              "audioStart": 117.42,
+              "audioEnd": 135.3789,
+              "sentences": [
+                {
+                  "audioStart": 117.5,
+                  "audioEnd": 122.1617
+                },
+                {
+                  "audioStart": 123.0,
+                  "audioEnd": 128.3839
+                },
+                {
+                  "audioStart": 129.2222,
+                  "audioEnd": 135.2589
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 2,
+          "text": "Roxton understood forests and danger, while Malone could watch, write, and learn. They would need more than one kind of skill if they were to enter the unknown and return.",
+          "sentences": [
+            {
+              "en": "Roxton understood forests and danger, while Malone could watch, write, and learn.",
+              "zh": "罗克斯顿熟悉森林和危险，马龙则能够观察、记录和学习。",
+              "audioStart": 159.3611,
+              "audioEnd": 166.1478
+            },
+            {
+              "en": "They would need more than one kind of skill if they were to enter the unknown and return.",
+              "zh": "如果要进入未知世界并且回来，他们需要的不止一种本领。",
+              "audioStart": 166.9861,
+              "audioEnd": 172.6756
+            }
+          ],
+          "audioStart": 159.2811,
+          "audioEnd": 172.7956,
+          "voices": {
+            "teacher": {
+              "audioStart": 136.0172,
+              "audioEnd": 146.9483,
+              "sentences": [
+                {
+                  "audioStart": 136.0972,
+                  "audioEnd": 141.5505
+                },
+                {
+                  "audioStart": 142.3889,
+                  "audioEnd": 146.8283
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 3,
+          "text": "Chapter 4: Into the Green. The travelers crossed the ocean and continued along the rivers of South America. Challenger joined the party himself, unwilling to let anyone else lead them to his discovery.",
+          "sentences": [
+            {
+              "en": "Chapter 4: Into the Green.",
+              "zh": "第4章：走进绿色世界。",
+              "type": "chapter",
+              "audioStart": 173.5139,
+              "audioEnd": 176.0505
+            },
+            {
+              "en": "The travelers crossed the ocean and continued along the rivers of South America.",
+              "zh": "旅行者们渡过大洋，沿着南美的河流继续前进。",
+              "audioStart": 176.8889,
+              "audioEnd": 182.5228
+            },
+            {
+              "en": "Challenger joined the party himself, unwilling to let anyone else lead them to his discovery.",
+              "zh": "查林杰亲自加入队伍，不愿让别人带领大家前往自己的发现之地。",
+              "audioStart": 183.3611,
+              "audioEnd": 190.0922
+            }
+          ],
+          "audioStart": 173.4339,
+          "audioEnd": 190.2122,
+          "voices": {
+            "teacher": {
+              "audioStart": 147.5867,
+              "audioEnd": 161.8233,
+              "sentences": [
+                {
+                  "audioStart": 147.6667,
+                  "audioEnd": 149.9255
+                },
+                {
+                  "audioStart": 150.7639,
+                  "audioEnd": 155.4672
+                },
+                {
+                  "audioStart": 156.3055,
+                  "audioEnd": 161.7033
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 3,
+          "text": "Their helpers included Zambo, a strong and loyal companion, and a guide named Gomez. Canoes carried food and equipment through narrow waterways, where branches formed a green roof above their heads. When the water route ended, they carried their supplies and walked through the forest.",
+          "sentences": [
+            {
+              "en": "Their helpers included Zambo, a strong and loyal companion, and a guide named Gomez.",
+              "zh": "助手中有强壮、可靠的同伴赞博，也有一位名叫戈麦斯的向导。",
+              "audioStart": 190.9305,
+              "audioEnd": 197.8978
+            },
+            {
+              "en": "Canoes carried food and equipment through narrow waterways, where branches formed a green roof above their heads.",
+              "zh": "独木舟载着食物和装备穿过狭窄水道，头顶的树枝像一片绿色屋顶。",
+              "audioStart": 198.7361,
+              "audioEnd": 206.6895
+            },
+            {
+              "en": "When the water route ended, they carried their supplies and walked through the forest.",
+              "zh": "水路走到尽头时，他们背起补给，步行穿过森林。",
+              "audioStart": 207.5278,
+              "audioEnd": 213.1755
+            }
+          ],
+          "audioStart": 190.8505,
+          "audioEnd": 213.2955,
+          "voices": {
+            "teacher": {
+              "audioStart": 162.4617,
+              "audioEnd": 181.0039,
+              "sentences": [
+                {
+                  "audioStart": 162.5417,
+                  "audioEnd": 168.1755
+                },
+                {
+                  "audioStart": 169.0139,
+                  "audioEnd": 175.37
+                },
+                {
+                  "audioStart": 176.2083,
+                  "audioEnd": 180.8839
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 3,
+          "text": "They followed clues left by Maple White, watching the rocks and the shape of the distant hills. At last, enormous red cliffs rose before them, like the walls of a country in the sky.",
+          "sentences": [
+            {
+              "en": "They followed clues left by Maple White, watching the rocks and the shape of the distant hills.",
+              "zh": "他们循着梅普尔·怀特留下的线索，观察岩石和远处山丘的轮廓。",
+              "audioStart": 214.0139,
+              "audioEnd": 220.62
+            },
+            {
+              "en": "At last, enormous red cliffs rose before them, like the walls of a country in the sky.",
+              "zh": "终于，巨大的红色岩壁出现在眼前，仿佛空中一个国度的围墙。",
+              "audioStart": 221.4583,
+              "audioEnd": 228.3144
+            }
+          ],
+          "audioStart": 213.9339,
+          "audioEnd": 228.4344,
+          "voices": {
+            "teacher": {
+              "audioStart": 181.6422,
+              "audioEnd": 193.8094,
+              "sentences": [
+                {
+                  "audioStart": 181.7222,
+                  "audioEnd": 187.3005
+                },
+                {
+                  "audioStart": 188.1389,
+                  "audioEnd": 193.6894
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 4,
+          "text": "Chapter 5: A Bridge Above the Trees. The plateau was surrounded by cliffs, and the explorers could find no easy path to its top. A passage used by earlier visitors had been blocked by fallen rock.",
+          "sentences": [
+            {
+              "en": "Chapter 5: A Bridge Above the Trees.",
+              "zh": "第5章：树梢之上的桥。",
+              "type": "chapter",
+              "audioStart": 229.1528,
+              "audioEnd": 232.3839
+            },
+            {
+              "en": "The plateau was surrounded by cliffs, and the explorers could find no easy path to its top.",
+              "zh": "高原四周都是悬崖，探险者们找不到轻易登顶的路。",
+              "audioStart": 233.2222,
+              "audioEnd": 240.12
+            },
+            {
+              "en": "A passage used by earlier visitors had been blocked by fallen rock.",
+              "zh": "先前来访者走过的一条通道，已被落石堵住。",
+              "audioStart": 240.9583,
+              "audioEnd": 245.8977
+            }
+          ],
+          "audioStart": 229.0728,
+          "audioEnd": 246.0177,
+          "voices": {
+            "teacher": {
+              "audioStart": 194.4478,
+              "audioEnd": 208.9622,
+              "sentences": [
+                {
+                  "audioStart": 194.5278,
+                  "audioEnd": 197.2728
+                },
+                {
+                  "audioStart": 198.1111,
+                  "audioEnd": 203.87
+                },
+                {
+                  "audioStart": 204.7083,
+                  "audioEnd": 208.8422
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 4,
+          "text": "Near the main cliff stood a narrow pillar of rock, with a tree growing on its summit. They climbed the pillar, but a deep gap still separated them from the plateau. By cutting down the tree, they made its trunk fall across the gap and form a bridge.",
+          "sentences": [
+            {
+              "en": "Near the main cliff stood a narrow pillar of rock, with a tree growing on its summit.",
+              "zh": "主岩壁附近矗立着一根狭窄的石柱，顶上长着一棵树。",
+              "audioStart": 246.7361,
+              "audioEnd": 252.7033
+            },
+            {
+              "en": "They climbed the pillar, but a deep gap still separated them from the plateau.",
+              "zh": "他们爬上石柱，可一道深深的裂隙仍将他们与高原隔开。",
+              "audioStart": 253.5417,
+              "audioEnd": 258.995
+            },
+            {
+              "en": "By cutting down the tree, they made its trunk fall across the gap and form a bridge.",
+              "zh": "他们砍倒那棵树，让树干横跨裂隙，形成一座桥。",
+              "audioStart": 259.8333,
+              "audioEnd": 265.7867
+            }
+          ],
+          "audioStart": 246.6561,
+          "audioEnd": 265.9067,
+          "voices": {
+            "teacher": {
+              "audioStart": 209.6005,
+              "audioEnd": 225.8233,
+              "sentences": [
+                {
+                  "audioStart": 209.6805,
+                  "audioEnd": 214.5505
+                },
+                {
+                  "audioStart": 215.3889,
+                  "audioEnd": 219.9533
+                },
+                {
+                  "audioStart": 220.7917,
+                  "audioEnd": 225.7033
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 4,
+          "text": "Roxton insisted on checking the way before the whole group crossed. One by one, the four explorers crossed above the empty air and stepped onto the hidden land.",
+          "sentences": [
+            {
+              "en": "Roxton insisted on checking the way before the whole group crossed.",
+              "zh": "罗克斯顿坚持先查看前方，再让全队通过。",
+              "audioStart": 266.625,
+              "audioEnd": 271.2033
+            },
+            {
+              "en": "One by one, the four explorers crossed above the empty air and stepped onto the hidden land.",
+              "zh": "四位探险者一个接一个地走过悬空的树干，踏上了那片隐秘的土地。",
+              "audioStart": 272.0417,
+              "audioEnd": 279.0089
+            }
+          ],
+          "audioStart": 266.545,
+          "audioEnd": 279.1289,
+          "voices": {
+            "teacher": {
+              "audioStart": 226.4617,
+              "audioEnd": 236.9623,
+              "sentences": [
+                {
+                  "audioStart": 226.5417,
+                  "audioEnd": 230.4117
+                },
+                {
+                  "audioStart": 231.25,
+                  "audioEnd": 236.8423
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 5,
+          "text": "Chapter 6: The Way Back Falls. They had barely begun to explore when a terrible crash sounded behind them. The tree bridge dropped into the gap, leaving the four men trapped on the plateau.",
+          "sentences": [
+            {
+              "en": "Chapter 6: The Way Back Falls.",
+              "zh": "第6章：归路坠落。",
+              "type": "chapter",
+              "audioStart": 279.8472,
+              "audioEnd": 282.9395
+            },
+            {
+              "en": "They had barely begun to explore when a terrible crash sounded behind them.",
+              "zh": "他们刚开始探索，身后就传来可怕的断裂声。",
+              "audioStart": 283.7778,
+              "audioEnd": 289.1339
+            },
+            {
+              "en": "The tree bridge dropped into the gap, leaving the four men trapped on the plateau.",
+              "zh": "树桥坠进裂隙，把四个人困在了高原上。",
+              "audioStart": 289.9722,
+              "audioEnd": 295.495
+            }
+          ],
+          "audioStart": 279.7672,
+          "audioEnd": 295.615,
+          "voices": {
+            "teacher": {
+              "audioStart": 237.6005,
+              "audioEnd": 251.1289,
+              "sentences": [
+                {
+                  "audioStart": 237.6805,
+                  "audioEnd": 240.3283
+                },
+                {
+                  "audioStart": 241.1667,
+                  "audioEnd": 245.5227
+                },
+                {
+                  "audioStart": 246.3611,
+                  "audioEnd": 251.0089
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 5,
+          "text": "Across the gap, Gomez shouted that he had destroyed their way back to take revenge on Roxton. Roxton had once fought men who were cruelly controlling local workers, and Gomez blamed him for his brother's death. The argument ended in violence, and Gomez was killed.",
+          "sentences": [
+            {
+              "en": "Across the gap, Gomez shouted that he had destroyed their way back to take revenge on Roxton.",
+              "zh": "裂隙另一边，戈麦斯喊道，他毁掉归路，是为了向罗克斯顿复仇。",
+              "audioStart": 296.3333,
+              "audioEnd": 303.2311
+            },
+            {
+              "en": "Roxton had once fought men who were cruelly controlling local workers, and Gomez blamed him for his brother's death.",
+              "zh": "罗克斯顿曾反抗那些残酷控制当地工人的人，戈麦斯把哥哥的死归咎于他。",
+              "audioStart": 304.0695,
+              "audioEnd": 312.495
+            },
+            {
+              "en": "The argument ended in violence, and Gomez was killed.",
+              "zh": "冲突最终演变成暴力，戈麦斯丧命了。",
+              "audioStart": 313.3333,
+              "audioEnd": 317.8422
+            }
+          ],
+          "audioStart": 296.2533,
+          "audioEnd": 317.9622,
+          "voices": {
+            "teacher": {
+              "audioStart": 251.7672,
+              "audioEnd": 269.8789,
+              "sentences": [
+                {
+                  "audioStart": 251.8472,
+                  "audioEnd": 257.3839
+                },
+                {
+                  "audioStart": 258.2222,
+                  "audioEnd": 265.3561
+                },
+                {
+                  "audioStart": 266.1945,
+                  "audioEnd": 269.7589
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 5,
+          "text": "Below the cliffs, Zambo promised to remain and help, although he could not rebuild the bridge from the ground. The explorers still had supplies, but now every new discovery would come with another question: how could they get home?",
+          "sentences": [
+            {
+              "en": "Below the cliffs, Zambo promised to remain and help, although he could not rebuild the bridge from the ground.",
+              "zh": "岩壁下，赞博答应留下帮忙，尽管他无法从地面重建那座桥。",
+              "audioStart": 318.6806,
+              "audioEnd": 326.2728
+            },
+            {
+              "en": "The explorers still had supplies, but now every new discovery would come with another question: how could they get home?",
+              "zh": "探险者们还有补给，但此后的每一次新发现，都伴随着另一个问题：他们怎样才能回家？",
+              "audioStart": 327.1111,
+              "audioEnd": 335.2867
+            }
+          ],
+          "audioStart": 318.6006,
+          "audioEnd": 335.4067,
+          "voices": {
+            "teacher": {
+              "audioStart": 270.5172,
+              "audioEnd": 284.5733,
+              "sentences": [
+                {
+                  "audioStart": 270.5972,
+                  "audioEnd": 276.6061
+                },
+                {
+                  "audioStart": 277.4445,
+                  "audioEnd": 284.4533
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 6,
+          "text": "Chapter 7: Footprints from the Past. The next morning, they found huge three-toed footprints pressed into the soft ground. Summerlee bent over the marks, comparing their shape with tracks he knew from ancient rocks.",
+          "sentences": [
+            {
+              "en": "Chapter 7: Footprints from the Past.",
+              "zh": "第7章：来自远古的脚印。",
+              "type": "chapter",
+              "audioStart": 336.125,
+              "audioEnd": 340.12
+            },
+            {
+              "en": "The next morning, they found huge three-toed footprints pressed into the soft ground.",
+              "zh": "第二天早晨，他们发现松软地面上印着巨大的三趾脚印。",
+              "audioStart": 340.9584,
+              "audioEnd": 347.1756
+            },
+            {
+              "en": "Summerlee bent over the marks, comparing their shape with tracks he knew from ancient rocks.",
+              "zh": "萨默利俯身查看，将脚印形状与自己了解的古老岩石足迹比较。",
+              "audioStart": 348.0139,
+              "audioEnd": 354.62
+            }
+          ],
+          "audioStart": 336.045,
+          "audioEnd": 354.74,
+          "voices": {
+            "teacher": {
+              "audioStart": 285.2117,
+              "audioEnd": 300.9345,
+              "sentences": [
+                {
+                  "audioStart": 285.2917,
+                  "audioEnd": 288.9533
+                },
+                {
+                  "audioStart": 289.7917,
+                  "audioEnd": 294.6755
+                },
+                {
+                  "audioStart": 295.5139,
+                  "audioEnd": 300.8145
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 6,
+          "text": "Then the trees moved, and several enormous animals appeared among the leaves. They had powerful back legs and long tails, and they were calmly feeding on plants. The professors identified them as iguanodons, animals that the outside world knew only from fossils.",
+          "sentences": [
+            {
+              "en": "Then the trees moved, and several enormous animals appeared among the leaves.",
+              "zh": "接着，树木晃动起来，几只巨兽出现在枝叶间。",
+              "audioStart": 355.4584,
+              "audioEnd": 361.1061
+            },
+            {
+              "en": "They had powerful back legs and long tails, and they were calmly feeding on plants.",
+              "zh": "它们长着强壮的后腿和长尾巴，正在平静地吃植物。",
+              "audioStart": 361.9445,
+              "audioEnd": 368.2728
+            },
+            {
+              "en": "The professors identified them as iguanodons, animals that the outside world knew only from fossils.",
+              "zh": "教授们认出那是禽龙——外面的世界只能从化石中认识它们。",
+              "audioStart": 369.1111,
+              "audioEnd": 376.7311
+            }
+          ],
+          "audioStart": 355.3784,
+          "audioEnd": 376.8511,
+          "voices": {
+            "teacher": {
+              "audioStart": 301.5727,
+              "audioEnd": 319.3233,
+              "sentences": [
+                {
+                  "audioStart": 301.6527,
+                  "audioEnd": 306.0367
+                },
+                {
+                  "audioStart": 306.875,
+                  "audioEnd": 312.0089
+                },
+                {
+                  "audioStart": 312.8472,
+                  "audioEnd": 319.2033
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 6,
+          "text": "For a moment, the two scientists forgot their quarrels and watched the living animals together. Malone could hardly hold his pencil still as he recorded what stood before his eyes.",
+          "sentences": [
+            {
+              "en": "For a moment, the two scientists forgot their quarrels and watched the living animals together.",
+              "zh": "有那么一刻，两位科学家忘记了争吵，一起注视着这些活生生的动物。",
+              "audioStart": 377.5695,
+              "audioEnd": 384.5228
+            },
+            {
+              "en": "Malone could hardly hold his pencil still as he recorded what stood before his eyes.",
+              "zh": "马龙记录眼前所见时，几乎握不稳手中的铅笔。",
+              "audioStart": 385.3611,
+              "audioEnd": 391.3145
+            }
+          ],
+          "audioStart": 377.4895,
+          "audioEnd": 391.4345,
+          "voices": {
+            "teacher": {
+              "audioStart": 319.9617,
+              "audioEnd": 331.5455,
+              "sentences": [
+                {
+                  "audioStart": 320.0417,
+                  "audioEnd": 325.6895
+                },
+                {
+                  "audioStart": 326.5277,
+                  "audioEnd": 331.4255
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 7,
+          "text": "Chapter 8: Wings over the Marsh. Later, the party reached a muddy hollow where strange winged creatures crowded around nests. They had long beaks and leathery wings, and the professors recognized them as pterodactyls.",
+          "sentences": [
+            {
+              "en": "Chapter 8: Wings over the Marsh.",
+              "zh": "第8章：沼泽上空的翅膀。",
+              "type": "chapter",
+              "audioStart": 392.1528,
+              "audioEnd": 395.0506
+            },
+            {
+              "en": "Later, the party reached a muddy hollow where strange winged creatures crowded around nests.",
+              "zh": "后来，队伍来到一片泥泞的洼地，奇异的有翼动物挤在巢穴周围。",
+              "audioStart": 395.8889,
+              "audioEnd": 402.5506
+            },
+            {
+              "en": "They had long beaks and leathery wings, and the professors recognized them as pterodactyls.",
+              "zh": "它们长着长喙和皮膜翅膀，教授们认出那是翼龙。",
+              "audioStart": 403.3889,
+              "audioEnd": 410.2867
+            }
+          ],
+          "audioStart": 392.0728,
+          "audioEnd": 410.4067,
+          "voices": {
+            "teacher": {
+              "audioStart": 332.1839,
+              "audioEnd": 347.615,
+              "sentences": [
+                {
+                  "audioStart": 332.2639,
+                  "audioEnd": 334.7311
+                },
+                {
+                  "audioStart": 335.5694,
+                  "audioEnd": 340.995
+                },
+                {
+                  "audioStart": 341.8333,
+                  "audioEnd": 347.495
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 7,
+          "text": "The creatures were not peaceful when the visitors came too close. Wings beat the air, sharp beaks struck at them, and the explorers hurried away. Roxton noticed something else in the hollow: the color and shape of the blue clay beneath their feet.",
+          "sentences": [
+            {
+              "en": "The creatures were not peaceful when the visitors came too close.",
+              "zh": "来访者靠得太近时，这些动物并不温和。",
+              "audioStart": 411.125,
+              "audioEnd": 415.4672
+            },
+            {
+              "en": "Wings beat the air, sharp beaks struck at them, and the explorers hurried away.",
+              "zh": "翅膀拍打空气，尖喙向他们啄来，探险者们赶紧撤退。",
+              "audioStart": 416.3056,
+              "audioEnd": 422.0922
+            },
+            {
+              "en": "Roxton noticed something else in the hollow: the color and shape of the blue clay beneath their feet.",
+              "zh": "罗克斯顿还注意到了另一件事：脚下蓝色黏土的颜色和分布形态。",
+              "audioStart": 422.9306,
+              "audioEnd": 429.8284
+            }
+          ],
+          "audioStart": 411.045,
+          "audioEnd": 429.9484,
+          "voices": {
+            "teacher": {
+              "audioStart": 348.2533,
+              "audioEnd": 364.3511,
+              "sentences": [
+                {
+                  "audioStart": 348.3333,
+                  "audioEnd": 351.995
+                },
+                {
+                  "audioStart": 352.8333,
+                  "audioEnd": 357.6894
+                },
+                {
+                  "audioStart": 358.5277,
+                  "audioEnd": 364.2311
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 7,
+          "text": "Malone was too busy protecting his face to wonder why the clay interested him. Back at their camp, they built a strong barrier of branches, but the sounds beyond it continued after dark.",
+          "sentences": [
+            {
+              "en": "Malone was too busy protecting his face to wonder why the clay interested him.",
+              "zh": "马龙忙着护住脸，没空思考那片黏土为何让罗克斯顿感兴趣。",
+              "audioStart": 430.6667,
+              "audioEnd": 436.1895
+            },
+            {
+              "en": "Back at their camp, they built a strong barrier of branches, but the sounds beyond it continued after dark.",
+              "zh": "回到营地后，他们用树枝筑起坚固的围障，可天黑后，围障外的声音仍没有停下。",
+              "audioStart": 437.0278,
+              "audioEnd": 444.9534
+            }
+          ],
+          "audioStart": 430.5867,
+          "audioEnd": 445.0734,
+          "voices": {
+            "teacher": {
+              "audioStart": 364.9894,
+              "audioEnd": 377.0455,
+              "sentences": [
+                {
+                  "audioStart": 365.0694,
+                  "audioEnd": 369.5783
+                },
+                {
+                  "audioStart": 370.4167,
+                  "audioEnd": 376.9255
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 8,
+          "text": "Chapter 9: A Map from Above. To understand the plateau, Malone climbed a tall tree and looked across the forest. He could see open ground, distant cliffs, and a great lake shining between the trees.",
+          "sentences": [
+            {
+              "en": "Chapter 9: A Map from Above.",
+              "zh": "第9章：从高处画地图。",
+              "type": "chapter",
+              "audioStart": 445.7917,
+              "audioEnd": 448.6061
+            },
+            {
+              "en": "To understand the plateau, Malone climbed a tall tree and looked across the forest.",
+              "zh": "为了了解高原，马龙爬上一棵大树，眺望整片森林。",
+              "audioStart": 449.4445,
+              "audioEnd": 455.4672
+            },
+            {
+              "en": "He could see open ground, distant cliffs, and a great lake shining between the trees.",
+              "zh": "他看见开阔地、远处的岩壁，还有一座在树林间闪光的大湖。",
+              "audioStart": 456.3056,
+              "audioEnd": 462.7867
+            }
+          ],
+          "audioStart": 445.7117,
+          "audioEnd": 462.9067,
+          "voices": {
+            "teacher": {
+              "audioStart": 377.6839,
+              "audioEnd": 392.2122,
+              "sentences": [
+                {
+                  "audioStart": 377.7639,
+                  "audioEnd": 380.0505
+                },
+                {
+                  "audioStart": 380.8889,
+                  "audioEnd": 385.9672
+                },
+                {
+                  "audioStart": 386.8055,
+                  "audioEnd": 392.0922
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 8,
+          "text": "He sketched their positions, turning scattered discoveries into the beginning of a map. Among the branches, he also saw a strange face watching him before it disappeared. The plateau held more than large reptiles, and not everything could be understood from a distant view.",
+          "sentences": [
+            {
+              "en": "He sketched their positions, turning scattered discoveries into the beginning of a map.",
+              "zh": "他画下这些位置，让零散的发现开始变成一张地图。",
+              "audioStart": 463.625,
+              "audioEnd": 469.5367
+            },
+            {
+              "en": "Among the branches, he also saw a strange face watching him before it disappeared.",
+              "zh": "他还在枝叶间看见一张奇怪的脸，正注视着他，随后消失了。",
+              "audioStart": 470.375,
+              "audioEnd": 476.5367
+            },
+            {
+              "en": "The plateau held more than large reptiles, and not everything could be understood from a distant view.",
+              "zh": "高原上不只有巨大的爬行动物，而且并非一切都能靠远望来理解。",
+              "audioStart": 477.375,
+              "audioEnd": 484.6617
+            }
+          ],
+          "audioStart": 463.545,
+          "audioEnd": 484.7817,
+          "voices": {
+            "teacher": {
+              "audioStart": 392.8505,
+              "audioEnd": 410.24,
+              "sentences": [
+                {
+                  "audioStart": 392.9305,
+                  "audioEnd": 397.6894
+                },
+                {
+                  "audioStart": 398.5277,
+                  "audioEnd": 403.5644
+                },
+                {
+                  "audioStart": 404.4027,
+                  "audioEnd": 410.12
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 8,
+          "text": "At camp, Summerlee wanted to put their energy into escape, while Challenger wanted to study every new creature. Their map was growing, but their ideas about what mattered most were moving apart.",
+          "sentences": [
+            {
+              "en": "At camp, Summerlee wanted to put their energy into escape, while Challenger wanted to study every new creature.",
+              "zh": "回到营地，萨默利希望把精力用于脱困，查林杰却想研究每一种新动物。",
+              "audioStart": 485.5,
+              "audioEnd": 493.6478
+            },
+            {
+              "en": "Their map was growing, but their ideas about what mattered most were moving apart.",
+              "zh": "地图不断完善，他们对什么最重要的看法，却越来越不一致。",
+              "audioStart": 494.4861,
+              "audioEnd": 500.1339
+            }
+          ],
+          "audioStart": 485.42,
+          "audioEnd": 500.2539,
+          "voices": {
+            "teacher": {
+              "audioStart": 410.8783,
+              "audioEnd": 423.4066,
+              "sentences": [
+                {
+                  "audioStart": 410.9583,
+                  "audioEnd": 417.6477
+                },
+                {
+                  "audioStart": 418.4861,
+                  "audioEnd": 423.2866
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 9,
+          "text": "Chapter 10: Alone After Dark. One night, Malone left the camp alone, hoping to reach the lake and make a discovery of his own. The moon lit parts of the path, but deep shadows hid what lay between them.",
+          "sentences": [
+            {
+              "en": "Chapter 10: Alone After Dark.",
+              "zh": "第10章：独自走进黑夜。",
+              "type": "chapter",
+              "audioStart": 500.9722,
+              "audioEnd": 503.8284
+            },
+            {
+              "en": "One night, Malone left the camp alone, hoping to reach the lake and make a discovery of his own.",
+              "zh": "一天夜里，马龙独自离开营地，希望到湖边获得属于自己的发现。",
+              "audioStart": 504.6667,
+              "audioEnd": 511.8283
+            },
+            {
+              "en": "The moon lit parts of the path, but deep shadows hid what lay between them.",
+              "zh": "月光照亮部分道路，浓重的阴影却遮住了其间的地面。",
+              "audioStart": 512.6667,
+              "audioEnd": 518.1895
+            }
+          ],
+          "audioStart": 500.8922,
+          "audioEnd": 518.3095,
+          "voices": {
+            "teacher": {
+              "audioStart": 424.045,
+              "audioEnd": 438.6567,
+              "sentences": [
+                {
+                  "audioStart": 424.125,
+                  "audioEnd": 426.5783
+                },
+                {
+                  "audioStart": 427.4167,
+                  "audioEnd": 433.2727
+                },
+                {
+                  "audioStart": 434.1111,
+                  "audioEnd": 438.5367
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 9,
+          "text": "Near the water, he saw great animals moving through the darkness. On his return, a large meat-eating reptile began to follow him. He ran in terror and suddenly fell into a deep pit with a dead animal at the bottom.",
+          "sentences": [
+            {
+              "en": "Near the water, he saw great animals moving through the darkness.",
+              "zh": "水边，巨大的动物在黑暗中移动。",
+              "audioStart": 519.0278,
+              "audioEnd": 523.8145
+            },
+            {
+              "en": "On his return, a large meat-eating reptile began to follow him.",
+              "zh": "返回途中，一只巨大的食肉爬行动物开始追踪他。",
+              "audioStart": 524.6528,
+              "audioEnd": 529.62
+            },
+            {
+              "en": "He ran in terror and suddenly fell into a deep pit with a dead animal at the bottom.",
+              "zh": "他惊恐地奔跑，突然跌进一个深坑，坑底还有一只死去的动物。",
+              "audioStart": 530.4584,
+              "audioEnd": 536.5784
+            }
+          ],
+          "audioStart": 518.9478,
+          "audioEnd": 536.6984,
+          "voices": {
+            "teacher": {
+              "audioStart": 439.295,
+              "audioEnd": 453.865,
+              "sentences": [
+                {
+                  "audioStart": 439.375,
+                  "audioEnd": 443.1755
+                },
+                {
+                  "audioStart": 444.0139,
+                  "audioEnd": 448.0228
+                },
+                {
+                  "audioStart": 448.8611,
+                  "audioEnd": 453.745
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 9,
+          "text": "The fall saved him from the creature above, and after a struggle he managed to climb out. But when he reached camp, the barrier was broken, his companions were gone, and their belongings lay scattered on the ground.",
+          "sentences": [
+            {
+              "en": "The fall saved him from the creature above, and after a struggle he managed to climb out.",
+              "zh": "这一跌反而使他躲过上方的追击，挣扎一番后，他终于爬出了坑。",
+              "audioStart": 537.4167,
+              "audioEnd": 543.7034
+            },
+            {
+              "en": "But when he reached camp, the barrier was broken, his companions were gone, and their belongings lay scattered on the ground.",
+              "zh": "然而回到营地时，他发现围障已被破坏，同伴全都不见了，物品散落一地。",
+              "audioStart": 544.5417,
+              "audioEnd": 553.37
+            }
+          ],
+          "audioStart": 537.3367,
+          "audioEnd": 553.49,
+          "voices": {
+            "teacher": {
+              "audioStart": 454.5033,
+              "audioEnd": 468.1844,
+              "sentences": [
+                {
+                  "audioStart": 454.5833,
+                  "audioEnd": 459.9116
+                },
+                {
+                  "audioStart": 460.75,
+                  "audioEnd": 468.0644
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 10,
+          "text": "Chapter 11: The Missing Companions. Malone called softly, but no familiar voice answered from the ruined camp. Later, Roxton appeared from the trees, tired and shaken, with news of the others.",
+          "sentences": [
+            {
+              "en": "Chapter 11: The Missing Companions.",
+              "zh": "第11章：失踪的同伴。",
+              "type": "chapter",
+              "audioStart": 554.2084,
+              "audioEnd": 557.5089
+            },
+            {
+              "en": "Malone called softly, but no familiar voice answered from the ruined camp.",
+              "zh": "马龙轻声呼唤，破坏的营地里却没有熟悉的声音回答。",
+              "audioStart": 558.3472,
+              "audioEnd": 564.0922
+            },
+            {
+              "en": "Later, Roxton appeared from the trees, tired and shaken, with news of the others.",
+              "zh": "后来，罗克斯顿从树林间出现，疲惫而惊惧，带来了其他人的消息。",
+              "audioStart": 564.9306,
+              "audioEnd": 571.6339
+            }
+          ],
+          "audioStart": 554.1284,
+          "audioEnd": 571.7539,
+          "voices": {
+            "teacher": {
+              "audioStart": 468.8227,
+              "audioEnd": 483.5733,
+              "sentences": [
+                {
+                  "audioStart": 468.9027,
+                  "audioEnd": 471.6616
+                },
+                {
+                  "audioStart": 472.5,
+                  "audioEnd": 477.1894
+                },
+                {
+                  "audioStart": 478.0277,
+                  "audioEnd": 483.4533
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 10,
+          "text": "A group of powerful ape-like creatures had attacked the camp and carried the professors away. Roxton had escaped, but Challenger and Summerlee were still prisoners, along with several local people. The prisoners were in serious danger near the edge of a cliff.",
+          "sentences": [
+            {
+              "en": "A group of powerful ape-like creatures had attacked the camp and carried the professors away.",
+              "zh": "一群强壮、形似猿的生物袭击了营地，把两位教授掳走了。",
+              "audioStart": 572.4722,
+              "audioEnd": 578.4117
+            },
+            {
+              "en": "Roxton had escaped, but Challenger and Summerlee were still prisoners, along with several local people.",
+              "zh": "罗克斯顿逃了出来，但查林杰和萨默利仍被关押，还有几名当地人也被抓住。",
+              "audioStart": 579.25,
+              "audioEnd": 587.0228
+            },
+            {
+              "en": "The prisoners were in serious danger near the edge of a cliff.",
+              "zh": "在悬崖边，俘虏们面临着严重危险。",
+              "audioStart": 587.8611,
+              "audioEnd": 592.0784
+            }
+          ],
+          "audioStart": 572.3922,
+          "audioEnd": 592.1984,
+          "voices": {
+            "teacher": {
+              "audioStart": 484.2117,
+              "audioEnd": 500.9622,
+              "sentences": [
+                {
+                  "audioStart": 484.2917,
+                  "audioEnd": 489.4255
+                },
+                {
+                  "audioStart": 490.2639,
+                  "audioEnd": 496.5089
+                },
+                {
+                  "audioStart": 497.3472,
+                  "audioEnd": 500.8422
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 10,
+          "text": "Malone and Roxton collected what they needed and returned together to try to save them. This time, Malone's courage had a clearer purpose than winning a story for the newspaper.",
+          "sentences": [
+            {
+              "en": "Malone and Roxton collected what they needed and returned together to try to save them.",
+              "zh": "马龙和罗克斯顿带上所需物品，一同返回，设法救人。",
+              "audioStart": 592.9167,
+              "audioEnd": 598.8284
+            },
+            {
+              "en": "This time, Malone's courage had a clearer purpose than winning a story for the newspaper.",
+              "zh": "这一次，马龙的勇气有了一个比赢得新闻故事更明确的目标。",
+              "audioStart": 599.6667,
+              "audioEnd": 605.9256
+            }
+          ],
+          "audioStart": 592.8367,
+          "audioEnd": 606.0456,
+          "voices": {
+            "teacher": {
+              "audioStart": 501.6005,
+              "audioEnd": 512.6844,
+              "sentences": [
+                {
+                  "audioStart": 501.6805,
+                  "audioEnd": 506.6339
+                },
+                {
+                  "audioStart": 507.4722,
+                  "audioEnd": 512.5644
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 11,
+          "text": "Chapter 12: Rescue and New Allies. The rescue became a fierce fight, and the two explorers used their guns to drive the captors back. Challenger, Summerlee, and several local prisoners escaped with them.",
+          "sentences": [
+            {
+              "en": "Chapter 12: Rescue and New Allies.",
+              "zh": "第12章：营救与新同伴。",
+              "type": "chapter",
+              "audioStart": 606.7639,
+              "audioEnd": 610.3006
+            },
+            {
+              "en": "The rescue became a fierce fight, and the two explorers used their guns to drive the captors back.",
+              "zh": "营救变成了一场激烈战斗，两位探险者用枪逼退了看守者。",
+              "audioStart": 611.1389,
+              "audioEnd": 618.1617
+            },
+            {
+              "en": "Challenger, Summerlee, and several local prisoners escaped with them.",
+              "zh": "查林杰、萨默利和几名当地俘虏与他们一同逃离。",
+              "audioStart": 619.0,
+              "audioEnd": 624.2728
+            }
+          ],
+          "audioStart": 606.6839,
+          "audioEnd": 624.3928,
+          "voices": {
+            "teacher": {
+              "audioStart": 513.3227,
+              "audioEnd": 528.2677,
+              "sentences": [
+                {
+                  "audioStart": 513.4027,
+                  "audioEnd": 516.2866
+                },
+                {
+                  "audioStart": 517.125,
+                  "audioEnd": 522.9811
+                },
+                {
+                  "audioStart": 523.8194,
+                  "audioEnd": 528.1477
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 11,
+          "text": "Among those rescued was a young man whose father was a leader of the people living near the caves. The four travelers followed their new companions to shelter, where they were given food and a place to rest. Later, they joined these people in another battle against the ape-like creatures.",
+          "sentences": [
+            {
+              "en": "Among those rescued was a young man whose father was a leader of the people living near the caves.",
+              "zh": "获救者中有一名年轻人，他的父亲是洞穴附近居民的一位首领。",
+              "audioStart": 625.1112,
+              "audioEnd": 631.62
+            },
+            {
+              "en": "The four travelers followed their new companions to shelter, where they were given food and a place to rest.",
+              "zh": "四位旅行者跟随新同伴来到住处，得到食物和休息的地方。",
+              "audioStart": 632.4584,
+              "audioEnd": 639.7867
+            },
+            {
+              "en": "Later, they joined these people in another battle against the ape-like creatures.",
+              "zh": "后来，他们又与当地人一起，参加了对抗那些猿形生物的另一场战斗。",
+              "audioStart": 640.625,
+              "audioEnd": 646.2173
+            }
+          ],
+          "audioStart": 625.0312,
+          "audioEnd": 646.3373,
+          "voices": {
+            "teacher": {
+              "audioStart": 528.9061,
+              "audioEnd": 547.49,
+              "sentences": [
+                {
+                  "audioStart": 528.9861,
+                  "audioEnd": 534.4255
+                },
+                {
+                  "audioStart": 535.2639,
+                  "audioEnd": 541.8005
+                },
+                {
+                  "audioStart": 542.6389,
+                  "audioEnd": 547.37
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 11,
+          "text": "The fighting ended in great loss, and the balance of power on the plateau changed. The explorers had found allies, but their discoveries were now tied to events that would affect other lives long after they left.",
+          "sentences": [
+            {
+              "en": "The fighting ended in great loss, and the balance of power on the plateau changed.",
+              "zh": "战斗造成严重损失，也改变了高原上的力量格局。",
+              "audioStart": 647.0556,
+              "audioEnd": 652.9117
+            },
+            {
+              "en": "The explorers had found allies, but their discoveries were now tied to events that would affect other lives long after they left.",
+              "zh": "探险者们找到了盟友，但他们的发现也已卷入一些事件，即使他们离开，影响仍会延续到别人的生活中。",
+              "audioStart": 653.75,
+              "audioEnd": 662.7034
+            }
+          ],
+          "audioStart": 646.9756,
+          "audioEnd": 662.8234,
+          "voices": {
+            "teacher": {
+              "audioStart": 548.1283,
+              "audioEnd": 561.74,
+              "sentences": [
+                {
+                  "audioStart": 548.2083,
+                  "audioEnd": 553.1617
+                },
+                {
+                  "audioStart": 554.0,
+                  "audioEnd": 561.62
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 12,
+          "text": "Chapter 13: A Plan That Would Not Fly. The travelers still wanted to leave, but the old tunnel through the cliffs was blocked. Challenger noticed gas rising from the ground and proposed making a balloon.",
+          "sentences": [
+            {
+              "en": "Chapter 13: A Plan That Would Not Fly.",
+              "zh": "第13章：飞不起来的计划。",
+              "type": "chapter",
+              "audioStart": 663.5417,
+              "audioEnd": 667.0922
+            },
+            {
+              "en": "The travelers still wanted to leave, but the old tunnel through the cliffs was blocked.",
+              "zh": "旅行者们仍然想离开，可穿过岩壁的旧通道已被堵住。",
+              "audioStart": 667.9306,
+              "audioEnd": 673.7173
+            },
+            {
+              "en": "Challenger noticed gas rising from the ground and proposed making a balloon.",
+              "zh": "查林杰注意到地下有气体冒出，于是提议制作气球。",
+              "audioStart": 674.5556,
+              "audioEnd": 681.0228
+            }
+          ],
+          "audioStart": 663.4617,
+          "audioEnd": 681.1428,
+          "voices": {
+            "teacher": {
+              "audioStart": 562.3783,
+              "audioEnd": 577.49,
+              "sentences": [
+                {
+                  "audioStart": 562.4583,
+                  "audioEnd": 565.4672
+                },
+                {
+                  "audioStart": 566.3055,
+                  "audioEnd": 570.9811
+                },
+                {
+                  "audioStart": 571.8195,
+                  "audioEnd": 577.37
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 12,
+          "text": "They prepared a bag from animal skins and tried to fill it with the light gas. The idea seemed promising until a test sent the balloon away without carrying the men to safety. Summerlee was disappointed, and even Challenger could not turn the failed test into an escape.",
+          "sentences": [
+            {
+              "en": "They prepared a bag from animal skins and tried to fill it with the light gas.",
+              "zh": "他们用兽皮制作气囊，试着灌入轻气体。",
+              "audioStart": 681.8612,
+              "audioEnd": 687.245
+            },
+            {
+              "en": "The idea seemed promising until a test sent the balloon away without carrying the men to safety.",
+              "zh": "这个主意看似有希望，可试验中气球飞走了，并没能把大家送到安全之处。",
+              "audioStart": 688.0834,
+              "audioEnd": 694.8978
+            },
+            {
+              "en": "Summerlee was disappointed, and even Challenger could not turn the failed test into an escape.",
+              "zh": "萨默利十分失望，就连查林杰也无法把失败的试验变成一条归路。",
+              "audioStart": 695.7362,
+              "audioEnd": 702.3978
+            }
+          ],
+          "audioStart": 681.7812,
+          "audioEnd": 702.5178,
+          "voices": {
+            "teacher": {
+              "audioStart": 578.1283,
+              "audioEnd": 595.615,
+              "sentences": [
+                {
+                  "audioStart": 578.2083,
+                  "audioEnd": 582.6755
+                },
+                {
+                  "audioStart": 583.5139,
+                  "audioEnd": 589.1477
+                },
+                {
+                  "audioStart": 589.9861,
+                  "audioEnd": 595.495
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 12,
+          "text": "Meanwhile, Zambo was still waiting below, keeping their connection with the world outside. They needed a route that truly existed, not only a clever plan they wished would work.",
+          "sentences": [
+            {
+              "en": "Meanwhile, Zambo was still waiting below, keeping their connection with the world outside.",
+              "zh": "与此同时，赞博仍在下方等待，维持着他们与外面世界的联系。",
+              "audioStart": 703.2362,
+              "audioEnd": 709.6895
+            },
+            {
+              "en": "They needed a route that truly existed, not only a clever plan they wished would work.",
+              "zh": "他们需要一条确实存在的路，而不只是一个希望能够成功的巧妙计划。",
+              "audioStart": 710.5278,
+              "audioEnd": 716.7312
+            }
+          ],
+          "audioStart": 703.1562,
+          "audioEnd": 716.8512,
+          "voices": {
+            "teacher": {
+              "audioStart": 596.2533,
+              "audioEnd": 607.5316,
+              "sentences": [
+                {
+                  "audioStart": 596.3333,
+                  "audioEnd": 601.4672
+                },
+                {
+                  "audioStart": 602.3055,
+                  "audioEnd": 607.4116
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 13,
+          "text": "Chapter 14: The Message on Bark. One evening, the young man they had rescued quietly brought Malone a piece of tree bark. Lines drawn on it showed the row of caves, including a passage with two branches.",
+          "sentences": [
+            {
+              "en": "Chapter 14: The Message on Bark.",
+              "zh": "第14章：树皮上的信息。",
+              "type": "chapter",
+              "audioStart": 717.5695,
+              "audioEnd": 720.8006
+            },
+            {
+              "en": "One evening, the young man they had rescued quietly brought Malone a piece of tree bark.",
+              "zh": "一天傍晚，获救的年轻人悄悄递给马龙一块树皮。",
+              "audioStart": 721.6389,
+              "audioEnd": 728.0784
+            },
+            {
+              "en": "Lines drawn on it showed the row of caves, including a passage with two branches.",
+              "zh": "树皮上的线条表示一排洞穴，其中有一条分成两支的通道。",
+              "audioStart": 728.9167,
+              "audioEnd": 735.1756
+            }
+          ],
+          "audioStart": 717.4895,
+          "audioEnd": 735.2956,
+          "voices": {
+            "teacher": {
+              "audioStart": 608.17,
+              "audioEnd": 622.7955,
+              "sentences": [
+                {
+                  "audioStart": 608.25,
+                  "audioEnd": 610.9255
+                },
+                {
+                  "audioStart": 611.7639,
+                  "audioEnd": 616.8977
+                },
+                {
+                  "audioStart": 617.7361,
+                  "audioEnd": 622.6755
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 13,
+          "text": "With the drawing as their guide, the explorers entered a cave and followed it into darkness. They reached a solid wall, and for a moment it seemed that the message had failed them. Then Malone looked at the drawing again and realized they had passed the fork before lighting their torches.",
+          "sentences": [
+            {
+              "en": "With the drawing as their guide, the explorers entered a cave and followed it into darkness.",
+              "zh": "探险者们按照图示进入一个洞穴，沿着通道走进黑暗。",
+              "audioStart": 736.0139,
+              "audioEnd": 742.5228
+            },
+            {
+              "en": "They reached a solid wall, and for a moment it seemed that the message had failed them.",
+              "zh": "他们走到一堵实墙前，一时间以为图示没能帮助自己。",
+              "audioStart": 743.3612,
+              "audioEnd": 749.2867
+            },
+            {
+              "en": "Then Malone looked at the drawing again and realized they had passed the fork before lighting their torches.",
+              "zh": "随后马龙再次查看图示，意识到他们点燃火把之前，就已经走过了岔路口。",
+              "audioStart": 750.125,
+              "audioEnd": 757.1339
+            }
+          ],
+          "audioStart": 735.9339,
+          "audioEnd": 757.2539,
+          "voices": {
+            "teacher": {
+              "audioStart": 623.4339,
+              "audioEnd": 641.4205,
+              "sentences": [
+                {
+                  "audioStart": 623.5139,
+                  "audioEnd": 628.6616
+                },
+                {
+                  "audioStart": 629.5,
+                  "audioEnd": 634.3839
+                },
+                {
+                  "audioStart": 635.2222,
+                  "audioEnd": 641.3005
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 13,
+          "text": "They went back, found the other branch, and followed it until a red glow appeared ahead. It was not fire but moonlight through an opening in the cliff, and beyond it lay a way down to Zambo.",
+          "sentences": [
+            {
+              "en": "They went back, found the other branch, and followed it until a red glow appeared ahead.",
+              "zh": "他们退回去，找到另一支通道，继续向前，直到前方出现红光。",
+              "audioStart": 757.9722,
+              "audioEnd": 764.3145
+            },
+            {
+              "en": "It was not fire but moonlight through an opening in the cliff, and beyond it lay a way down to Zambo.",
+              "zh": "那不是火，而是月光穿过岩壁上的洞口；洞口外有路可以下去，回到赞博身边。",
+              "audioStart": 765.1528,
+              "audioEnd": 772.3006
+            }
+          ],
+          "audioStart": 757.8922,
+          "audioEnd": 772.4206,
+          "voices": {
+            "teacher": {
+              "audioStart": 642.0589,
+              "audioEnd": 654.115,
+              "sentences": [
+                {
+                  "audioStart": 642.1389,
+                  "audioEnd": 647.3283
+                },
+                {
+                  "audioStart": 648.1666,
+                  "audioEnd": 653.995
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 14,
+          "text": "Chapter 15: A Visitor in London. The party reached Zambo safely, finding that helpers with ropes and supplies had also arrived below the cliffs. At last, they began the long journey home, carrying notes, memories, and Challenger's carefully guarded luggage.",
+          "sentences": [
+            {
+              "en": "Chapter 15: A Visitor in London.",
+              "zh": "第15章：伦敦的特殊来客。",
+              "type": "chapter",
+              "audioStart": 773.1389,
+              "audioEnd": 776.4117
+            },
+            {
+              "en": "The party reached Zambo safely, finding that helpers with ropes and supplies had also arrived below the cliffs.",
+              "zh": "队伍平安回到赞博身边，还发现携带绳索和补给的援手也已来到岩壁下。",
+              "audioStart": 777.25,
+              "audioEnd": 785.5506
+            },
+            {
+              "en": "At last, they began the long journey home, carrying notes, memories, and Challenger's carefully guarded luggage.",
+              "zh": "他们终于踏上漫长归程，带着笔记、记忆，还有查林杰严密看守的行李。",
+              "audioStart": 786.3889,
+              "audioEnd": 795.5506
+            }
+          ],
+          "audioStart": 773.0589,
+          "audioEnd": 795.6706,
+          "voices": {
+            "teacher": {
+              "audioStart": 654.7533,
+              "audioEnd": 673.4205,
+              "sentences": [
+                {
+                  "audioStart": 654.8333,
+                  "audioEnd": 657.4394
+                },
+                {
+                  "audioStart": 658.2777,
+                  "audioEnd": 665.0505
+                },
+                {
+                  "audioStart": 665.8889,
+                  "audioEnd": 673.3005
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 14,
+          "text": "In London, another crowded meeting heard their report, but some people still refused to believe it. Challenger opened a large container and revealed a living winged reptile from the plateau. The creature flew above the startled crowd and escaped through an open window.",
+          "sentences": [
+            {
+              "en": "In London, another crowded meeting heard their report, but some people still refused to believe it.",
+              "zh": "伦敦另一场拥挤的集会听取了他们的报告，可仍有人拒绝相信。",
+              "audioStart": 796.3889,
+              "audioEnd": 803.3006
+            },
+            {
+              "en": "Challenger opened a large container and revealed a living winged reptile from the plateau.",
+              "zh": "查林杰打开一个大箱子，让大家看见一只来自高原、活生生的有翼爬行动物。",
+              "audioStart": 804.1389,
+              "audioEnd": 810.3006
+            },
+            {
+              "en": "The creature flew above the startled crowd and escaped through an open window.",
+              "zh": "那动物飞过惊愕的人群，从一扇敞开的窗户逃走了。",
+              "audioStart": 811.1389,
+              "audioEnd": 816.3839
+            }
+          ],
+          "audioStart": 796.3089,
+          "audioEnd": 816.5039,
+          "voices": {
+            "teacher": {
+              "audioStart": 674.0589,
+              "audioEnd": 690.8788,
+              "sentences": [
+                {
+                  "audioStart": 674.1389,
+                  "audioEnd": 679.9533
+                },
+                {
+                  "audioStart": 680.7916,
+                  "audioEnd": 685.7311
+                },
+                {
+                  "audioStart": 686.5694,
+                  "audioEnd": 690.7588
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 14,
+          "text": "It was remarkable evidence, but keeping a wild creature in a box had not made its behavior easy to control. London had seen something astonishing, and the explorers' impossible story could no longer be dismissed with a laugh.",
+          "sentences": [
+            {
+              "en": "It was remarkable evidence, but keeping a wild creature in a box had not made its behavior easy to control.",
+              "zh": "那是非凡的证据，但把野生动物装进箱子，并不意味着能够轻易控制它的行为。",
+              "audioStart": 817.2222,
+              "audioEnd": 825.0784
+            },
+            {
+              "en": "London had seen something astonishing, and the explorers' impossible story could no longer be dismissed with a laugh.",
+              "zh": "伦敦目睹了惊人一幕，探险者们那看似不可能的故事，再也不能被一笑置之。",
+              "audioStart": 825.9167,
+              "audioEnd": 834.2312
+            }
+          ],
+          "audioStart": 817.1422,
+          "audioEnd": 834.3512,
+          "voices": {
+            "teacher": {
+              "audioStart": 691.5172,
+              "audioEnd": 706.2122,
+              "sentences": [
+                {
+                  "audioStart": 691.5972,
+                  "audioEnd": 698.2588
+                },
+                {
+                  "audioStart": 699.0972,
+                  "audioEnd": 706.0922
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 15,
+          "text": "Chapter 16: What They Brought Home. Later, Roxton showed his friends rough diamonds he had found in the blue clay near the winged creatures. He had recognized a possible clue in the ground and investigated it while the others were busy elsewhere.",
+          "sentences": [
+            {
+              "en": "Chapter 16: What They Brought Home.",
+              "zh": "第16章：他们带回了什么。",
+              "type": "chapter",
+              "audioStart": 835.0695,
+              "audioEnd": 838.1756
+            },
+            {
+              "en": "Later, Roxton showed his friends rough diamonds he had found in the blue clay near the winged creatures.",
+              "zh": "后来，罗克斯顿向朋友们展示了他在有翼动物附近蓝色黏土中找到的钻石原石。",
+              "audioStart": 839.0139,
+              "audioEnd": 846.2728
+            },
+            {
+              "en": "He had recognized a possible clue in the ground and investigated it while the others were busy elsewhere.",
+              "zh": "他从地面辨认出一条可能的线索，并在其他人忙碌时进行了调查。",
+              "audioStart": 847.1112,
+              "audioEnd": 854.1062
+            }
+          ],
+          "audioStart": 834.9895,
+          "audioEnd": 854.2262,
+          "voices": {
+            "teacher": {
+              "audioStart": 706.8505,
+              "audioEnd": 723.0317,
+              "sentences": [
+                {
+                  "audioStart": 706.9305,
+                  "audioEnd": 709.5366
+                },
+                {
+                  "audioStart": 710.375,
+                  "audioEnd": 716.2588
+                },
+                {
+                  "audioStart": 717.0972,
+                  "audioEnd": 722.9117
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 15,
+          "text": "The valuable stones were divided among the four companions, giving each of them new choices. Challenger thought about science, Summerlee thought about his studies, and Roxton dreamed of returning to South America. Malone, who had once wanted adventure to impress someone else, found that his life had changed in ways he had not expected.",
+          "sentences": [
+            {
+              "en": "The valuable stones were divided among the four companions, giving each of them new choices.",
+              "zh": "这些贵重石头分给了四位同伴，让每个人都拥有了新的选择。",
+              "audioStart": 854.9445,
+              "audioEnd": 861.5367
+            },
+            {
+              "en": "Challenger thought about science, Summerlee thought about his studies, and Roxton dreamed of returning to South America.",
+              "zh": "查林杰考虑科学事业，萨默利想着自己的研究，而罗克斯顿梦想重返南美。",
+              "audioStart": 862.375,
+              "audioEnd": 870.6756
+            },
+            {
+              "en": "Malone, who had once wanted adventure to impress someone else, found that his life had changed in ways he had not expected.",
+              "zh": "马龙一度想用冒险给别人留下深刻印象，如今却发现，自己的生活以意想不到的方式改变了。",
+              "audioStart": 871.5139,
+              "audioEnd": 880.62
+            }
+          ],
+          "audioStart": 854.8645,
+          "audioEnd": 880.74,
+          "voices": {
+            "teacher": {
+              "audioStart": 723.67,
+              "audioEnd": 745.6427,
+              "sentences": [
+                {
+                  "audioStart": 723.75,
+                  "audioEnd": 729.3977
+                },
+                {
+                  "audioStart": 730.2361,
+                  "audioEnd": 737.2311
+                },
+                {
+                  "audioStart": 738.0694,
+                  "audioEnd": 745.5227
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 15,
+          "text": "He had brought home more than a newspaper story: he had learned what fear, friendship, and careful observation could mean. When Roxton spoke of another expedition, Malone was ready to go with him.",
+          "sentences": [
+            {
+              "en": "He had brought home more than a newspaper story: he had learned what fear, friendship, and careful observation could mean.",
+              "zh": "他带回来的不只是一则新闻故事：他还懂得了恐惧、友谊和细心观察意味着什么。",
+              "audioStart": 881.4584,
+              "audioEnd": 890.3284
+            },
+            {
+              "en": "When Roxton spoke of another expedition, Malone was ready to go with him.",
+              "zh": "当罗克斯顿谈起下一次考察时，马龙愿意再次同行。",
+              "audioStart": 891.1667,
+              "audioEnd": 896.6478
+            }
+          ],
+          "audioStart": 881.3784,
+          "audioEnd": 896.7678,
+          "voices": {
+            "teacher": {
+              "audioStart": 746.2811,
+              "audioEnd": 759.1705,
+              "sentences": [
+                {
+                  "audioStart": 746.3611,
+                  "audioEnd": 753.6755
+                },
+                {
+                  "audioStart": 754.5139,
+                  "audioEnd": 759.0505
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 16,
+          "text": "Chapter 17: After the Adventure. The Lost World is a work of fiction, first published in 1912, when ideas about ancient life were different from many ideas today. Its hidden plateau, living prehistoric animals, and ape-like enemies belong to an imagined adventure.",
+          "sentences": [
+            {
+              "en": "Chapter 17: After the Adventure.",
+              "zh": "第17章：探险之后。",
+              "type": "chapter",
+              "audioStart": 897.4862,
+              "audioEnd": 900.7034
+            },
+            {
+              "en": "The Lost World is a work of fiction, first published in 1912, when ideas about ancient life were different from many ideas today.",
+              "zh": "《失落的世界》是一部首次发表于1912年的小说，当时对远古生命的认识与今天有许多不同。",
+              "audioStart": 901.5417,
+              "audioEnd": 911.7867
+            },
+            {
+              "en": "Its hidden plateau, living prehistoric animals, and ape-like enemies belong to an imagined adventure.",
+              "zh": "其中的隐秘高原、活着的史前动物和猿形敌人，都属于想象中的冒险。",
+              "audioStart": 912.625,
+              "audioEnd": 920.4256
+            }
+          ],
+          "audioStart": 897.4062,
+          "audioEnd": 920.5456,
+          "voices": {
+            "teacher": {
+              "audioStart": 759.8089,
+              "audioEnd": 779.3372,
+              "sentences": [
+                {
+                  "audioStart": 759.8889,
+                  "audioEnd": 762.6477
+                },
+                {
+                  "audioStart": 763.4861,
+                  "audioEnd": 771.9811
+                },
+                {
+                  "audioStart": 772.8194,
+                  "audioEnd": 779.2172
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 16,
+          "text": "Pterosaurs were flying reptiles, not dinosaurs, even though they lived during the same broad age. A fossil can provide evidence about the past, while a novel can give us questions to investigate. The original book also describes peoples and conflicts through the prejudices of its time, so its judgments deserve thought rather than automatic agreement.",
+          "sentences": [
+            {
+              "en": "Pterosaurs were flying reptiles, not dinosaurs, even though they lived during the same broad age.",
+              "zh": "翼龙是飞行爬行动物，并不是恐龙，尽管它们生活在同一个大的时代中。",
+              "audioStart": 921.2639,
+              "audioEnd": 928.7034
+            },
+            {
+              "en": "A fossil can provide evidence about the past, while a novel can give us questions to investigate.",
+              "zh": "化石能为过去提供证据，而小说可以带给我们值得研究的问题。",
+              "audioStart": 929.5417,
+              "audioEnd": 936.495
+            },
+            {
+              "en": "The original book also describes peoples and conflicts through the prejudices of its time, so its judgments deserve thought rather than automatic agreement.",
+              "zh": "原著也带着当时的偏见描写不同人群及冲突，因此其中的判断值得思考，而不该被自动接受。",
+              "audioStart": 937.3334,
+              "audioEnd": 948.0228
+            }
+          ],
+          "audioStart": 921.1839,
+          "audioEnd": 948.1428,
+          "voices": {
+            "teacher": {
+              "audioStart": 779.9755,
+              "audioEnd": 802.8094,
+              "sentences": [
+                {
+                  "audioStart": 780.0555,
+                  "audioEnd": 786.0922
+                },
+                {
+                  "audioStart": 786.9305,
+                  "audioEnd": 792.9672
+                },
+                {
+                  "audioStart": 793.8055,
+                  "audioEnd": 802.6894
+                }
+              ]
+            }
+          }
+        },
+        {
+          "image": "books/lost-world-retold/cover.svg",
+          "noImage": true,
+          "layout": "reflow",
+          "chapterIndex": 16,
+          "text": "Which discovery would you most want to study, and what evidence would help you understand it? What would you do differently if your team found a place that was already home to other lives?",
+          "sentences": [
+            {
+              "en": "Which discovery would you most want to study, and what evidence would help you understand it?",
+              "zh": "你最想研究哪一项发现，又需要什么证据才能理解它？",
+              "audioStart": 948.8612,
+              "audioEnd": 954.6895
+            },
+            {
+              "en": "What would you do differently if your team found a place that was already home to other lives?",
+              "zh": "如果你的小队发现一处早已有其他生命生活的地方，你会作出哪些不同的选择？",
+              "audioStart": 955.5417,
+              "audioEnd": 961.3006
+            }
+          ],
+          "audioStart": 948.7812,
+          "audioEnd": 961.4206,
+          "voices": {
+            "teacher": {
+              "audioStart": 803.4477,
+              "audioEnd": 814.115,
+              "sentences": [
+                {
+                  "audioStart": 803.5277,
+                  "audioEnd": 808.4116
+                },
+                {
+                  "audioStart": 809.25,
+                  "audioEnd": 813.995
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "chapters": [
+        {
+          "title": "A Strange Assignment",
+          "titleZh": "奇怪的采访任务",
+          "startPage": 1
+        },
+        {
+          "title": "The Artist's Notebook",
+          "titleZh": "画家的笔记本",
+          "startPage": 4
+        },
+        {
+          "title": "Four Explorers",
+          "titleZh": "四位探险者",
+          "startPage": 7
+        },
+        {
+          "title": "Into the Green",
+          "titleZh": "走进绿色世界",
+          "startPage": 10
+        },
+        {
+          "title": "A Bridge Above the Trees",
+          "titleZh": "树梢之上的桥",
+          "startPage": 13
+        },
+        {
+          "title": "The Way Back Falls",
+          "titleZh": "归路坠落",
+          "startPage": 16
+        },
+        {
+          "title": "Footprints from the Past",
+          "titleZh": "来自远古的脚印",
+          "startPage": 19
+        },
+        {
+          "title": "Wings over the Marsh",
+          "titleZh": "沼泽上空的翅膀",
+          "startPage": 22
+        },
+        {
+          "title": "A Map from Above",
+          "titleZh": "从高处画地图",
+          "startPage": 25
+        },
+        {
+          "title": "Alone After Dark",
+          "titleZh": "独自走进黑夜",
+          "startPage": 28
+        },
+        {
+          "title": "The Missing Companions",
+          "titleZh": "失踪的同伴",
+          "startPage": 31
+        },
+        {
+          "title": "Rescue and New Allies",
+          "titleZh": "营救与新同伴",
+          "startPage": 34
+        },
+        {
+          "title": "A Plan That Would Not Fly",
+          "titleZh": "飞不起来的计划",
+          "startPage": 37
+        },
+        {
+          "title": "The Message on Bark",
+          "titleZh": "树皮上的信息",
+          "startPage": 40
+        },
+        {
+          "title": "A Visitor in London",
+          "titleZh": "伦敦的特殊来客",
+          "startPage": 43
+        },
+        {
+          "title": "What They Brought Home",
+          "titleZh": "他们带回了什么",
+          "startPage": 46
+        },
+        {
+          "title": "After the Adventure",
+          "titleZh": "探险之后",
+          "startPage": 49
+        }
+      ],
+      "paragraphs": [
+        "Chapter 1: A Strange Assignment. Edward Malone was a young newspaper reporter in London, and he wanted a story that would take him far beyond his desk. His editor told him about Professor Challenger, a scientist who had returned from South America with an extraordinary claim.",
+        "Challenger said that creatures from the distant past were still alive in a place that few outsiders had seen. Other people laughed, and some newspapers called him a liar. The professor had become so angry with reporters that visiting his house could end in a fight.",
+        "Malone was nervous, but his curiosity was stronger than his fear. He went to meet the man whose impossible story might lead to a real adventure.",
+        "Chapter 2: The Artist's Notebook. Their first meeting went badly, but Challenger eventually decided to show Malone his evidence. In South America, he had found an American artist named Maple White, who was close to death.",
+        "The artist's notebook contained a drawing of a great plateau, with steep cliffs rising above the forest. Another drawing showed an enormous animal with a long neck, a long tail, and a small head. Challenger had also brought back part of a strange wing, although many of his other records had been damaged.",
+        "Malone studied the pictures, trying to decide whether they showed imagination or something the artist had actually seen. A notebook could begin a question, but it could not answer every question by itself.",
+        "Chapter 3: Four Explorers. At a crowded meeting, Challenger spoke about the hidden land, and the audience demanded better proof. Professor Summerlee, an older scientist, agreed to join an expedition and examine the claim for himself.",
+        "Lord John Roxton, an experienced traveler, volunteered to go as well. Malone offered to report what they found, and Challenger prepared the information they would need. The two professors disagreed about almost everything, from the evidence to the best way to explain it.",
+        "Roxton understood forests and danger, while Malone could watch, write, and learn. They would need more than one kind of skill if they were to enter the unknown and return.",
+        "Chapter 4: Into the Green. The travelers crossed the ocean and continued along the rivers of South America. Challenger joined the party himself, unwilling to let anyone else lead them to his discovery.",
+        "Their helpers included Zambo, a strong and loyal companion, and a guide named Gomez. Canoes carried food and equipment through narrow waterways, where branches formed a green roof above their heads. When the water route ended, they carried their supplies and walked through the forest.",
+        "They followed clues left by Maple White, watching the rocks and the shape of the distant hills. At last, enormous red cliffs rose before them, like the walls of a country in the sky.",
+        "Chapter 5: A Bridge Above the Trees. The plateau was surrounded by cliffs, and the explorers could find no easy path to its top. A passage used by earlier visitors had been blocked by fallen rock.",
+        "Near the main cliff stood a narrow pillar of rock, with a tree growing on its summit. They climbed the pillar, but a deep gap still separated them from the plateau. By cutting down the tree, they made its trunk fall across the gap and form a bridge.",
+        "Roxton insisted on checking the way before the whole group crossed. One by one, the four explorers crossed above the empty air and stepped onto the hidden land.",
+        "Chapter 6: The Way Back Falls. They had barely begun to explore when a terrible crash sounded behind them. The tree bridge dropped into the gap, leaving the four men trapped on the plateau.",
+        "Across the gap, Gomez shouted that he had destroyed their way back to take revenge on Roxton. Roxton had once fought men who were cruelly controlling local workers, and Gomez blamed him for his brother's death. The argument ended in violence, and Gomez was killed.",
+        "Below the cliffs, Zambo promised to remain and help, although he could not rebuild the bridge from the ground. The explorers still had supplies, but now every new discovery would come with another question: how could they get home?",
+        "Chapter 7: Footprints from the Past. The next morning, they found huge three-toed footprints pressed into the soft ground. Summerlee bent over the marks, comparing their shape with tracks he knew from ancient rocks.",
+        "Then the trees moved, and several enormous animals appeared among the leaves. They had powerful back legs and long tails, and they were calmly feeding on plants. The professors identified them as iguanodons, animals that the outside world knew only from fossils.",
+        "For a moment, the two scientists forgot their quarrels and watched the living animals together. Malone could hardly hold his pencil still as he recorded what stood before his eyes.",
+        "Chapter 8: Wings over the Marsh. Later, the party reached a muddy hollow where strange winged creatures crowded around nests. They had long beaks and leathery wings, and the professors recognized them as pterodactyls.",
+        "The creatures were not peaceful when the visitors came too close. Wings beat the air, sharp beaks struck at them, and the explorers hurried away. Roxton noticed something else in the hollow: the color and shape of the blue clay beneath their feet.",
+        "Malone was too busy protecting his face to wonder why the clay interested him. Back at their camp, they built a strong barrier of branches, but the sounds beyond it continued after dark.",
+        "Chapter 9: A Map from Above. To understand the plateau, Malone climbed a tall tree and looked across the forest. He could see open ground, distant cliffs, and a great lake shining between the trees.",
+        "He sketched their positions, turning scattered discoveries into the beginning of a map. Among the branches, he also saw a strange face watching him before it disappeared. The plateau held more than large reptiles, and not everything could be understood from a distant view.",
+        "At camp, Summerlee wanted to put their energy into escape, while Challenger wanted to study every new creature. Their map was growing, but their ideas about what mattered most were moving apart.",
+        "Chapter 10: Alone After Dark. One night, Malone left the camp alone, hoping to reach the lake and make a discovery of his own. The moon lit parts of the path, but deep shadows hid what lay between them.",
+        "Near the water, he saw great animals moving through the darkness. On his return, a large meat-eating reptile began to follow him. He ran in terror and suddenly fell into a deep pit with a dead animal at the bottom.",
+        "The fall saved him from the creature above, and after a struggle he managed to climb out. But when he reached camp, the barrier was broken, his companions were gone, and their belongings lay scattered on the ground.",
+        "Chapter 11: The Missing Companions. Malone called softly, but no familiar voice answered from the ruined camp. Later, Roxton appeared from the trees, tired and shaken, with news of the others.",
+        "A group of powerful ape-like creatures had attacked the camp and carried the professors away. Roxton had escaped, but Challenger and Summerlee were still prisoners, along with several local people. The prisoners were in serious danger near the edge of a cliff.",
+        "Malone and Roxton collected what they needed and returned together to try to save them. This time, Malone's courage had a clearer purpose than winning a story for the newspaper.",
+        "Chapter 12: Rescue and New Allies. The rescue became a fierce fight, and the two explorers used their guns to drive the captors back. Challenger, Summerlee, and several local prisoners escaped with them.",
+        "Among those rescued was a young man whose father was a leader of the people living near the caves. The four travelers followed their new companions to shelter, where they were given food and a place to rest. Later, they joined these people in another battle against the ape-like creatures.",
+        "The fighting ended in great loss, and the balance of power on the plateau changed. The explorers had found allies, but their discoveries were now tied to events that would affect other lives long after they left.",
+        "Chapter 13: A Plan That Would Not Fly. The travelers still wanted to leave, but the old tunnel through the cliffs was blocked. Challenger noticed gas rising from the ground and proposed making a balloon.",
+        "They prepared a bag from animal skins and tried to fill it with the light gas. The idea seemed promising until a test sent the balloon away without carrying the men to safety. Summerlee was disappointed, and even Challenger could not turn the failed test into an escape.",
+        "Meanwhile, Zambo was still waiting below, keeping their connection with the world outside. They needed a route that truly existed, not only a clever plan they wished would work.",
+        "Chapter 14: The Message on Bark. One evening, the young man they had rescued quietly brought Malone a piece of tree bark. Lines drawn on it showed the row of caves, including a passage with two branches.",
+        "With the drawing as their guide, the explorers entered a cave and followed it into darkness. They reached a solid wall, and for a moment it seemed that the message had failed them. Then Malone looked at the drawing again and realized they had passed the fork before lighting their torches.",
+        "They went back, found the other branch, and followed it until a red glow appeared ahead. It was not fire but moonlight through an opening in the cliff, and beyond it lay a way down to Zambo.",
+        "Chapter 15: A Visitor in London. The party reached Zambo safely, finding that helpers with ropes and supplies had also arrived below the cliffs. At last, they began the long journey home, carrying notes, memories, and Challenger's carefully guarded luggage.",
+        "In London, another crowded meeting heard their report, but some people still refused to believe it. Challenger opened a large container and revealed a living winged reptile from the plateau. The creature flew above the startled crowd and escaped through an open window.",
+        "It was remarkable evidence, but keeping a wild creature in a box had not made its behavior easy to control. London had seen something astonishing, and the explorers' impossible story could no longer be dismissed with a laugh.",
+        "Chapter 16: What They Brought Home. Later, Roxton showed his friends rough diamonds he had found in the blue clay near the winged creatures. He had recognized a possible clue in the ground and investigated it while the others were busy elsewhere.",
+        "The valuable stones were divided among the four companions, giving each of them new choices. Challenger thought about science, Summerlee thought about his studies, and Roxton dreamed of returning to South America. Malone, who had once wanted adventure to impress someone else, found that his life had changed in ways he had not expected.",
+        "He had brought home more than a newspaper story: he had learned what fear, friendship, and careful observation could mean. When Roxton spoke of another expedition, Malone was ready to go with him.",
+        "Chapter 17: After the Adventure. The Lost World is a work of fiction, first published in 1912, when ideas about ancient life were different from many ideas today. Its hidden plateau, living prehistoric animals, and ape-like enemies belong to an imagined adventure.",
+        "Pterosaurs were flying reptiles, not dinosaurs, even though they lived during the same broad age. A fossil can provide evidence about the past, while a novel can give us questions to investigate. The original book also describes peoples and conflicts through the prejudices of its time, so its judgments deserve thought rather than automatic agreement.",
+        "Which discovery would you most want to study, and what evidence would help you understand it? What would you do differently if your team found a place that was already home to other lives?"
+      ],
+      "readingGuide": {
+        "before": "带着两个问题出发：怎样检验一个惊人说法？如果归路突然消失，队伍该先做什么？故事会逐步揭开高原的情景。",
+        "people": [
+          "马龙：年轻记者，负责记录，也在经历中学习判断。",
+          "查林杰：提出高原发现的教授，知识丰富，性格强硬。",
+          "萨默利：持怀疑态度的科学家，重视检验与归途。",
+          "罗克斯顿：有野外经验的旅行家，善于观察与应对危险。",
+          "赞博：留在岩壁下接应的重要同伴。"
+        ],
+        "watch": "留意每一项发现有什么证据、每个决定会影响谁；当队友意见不同，他们怎样继续行动？",
+        "chapters": [
+          {
+            "recap": "他决定去见这个人——那看似不可能的故事，也许会带来真正的冒险。",
+            "questions": [
+              [
+                "别人嘲笑一个说法，能证明它一定错了吗？",
+                "把态度与证据分开。",
+                "嘲笑不能代替检验；惊人的说法同样需要证据，马龙决定进一步了解。"
+              ]
+            ]
+          },
+          {
+            "recap": "一本笔记本能提出问题，却不能独自回答所有问题。",
+            "questions": [
+              [
+                "画家的图画为什么还不够？",
+                "区分画面与画面的来源。",
+                "画面可能来自观察，也可能来自想象；需要更多独立证据来判断。"
+              ]
+            ]
+          },
+          {
+            "recap": "如果要进入未知世界并且回来，他们需要的不止一种本领。",
+            "questions": [
+              [
+                "四位探险者的不同技能有什么用？",
+                "想想研究、行路和记录各需要谁。",
+                "科学知识、野外经验与记录能力可以互补，团队还需要听取不同判断。"
+              ]
+            ]
+          },
+          {
+            "recap": "终于，巨大的红色岩壁出现在眼前，仿佛空中一个国度的围墙。",
+            "questions": [
+              [
+                "沿途的助手对考察有多重要？",
+                "不要只关注四位主角。",
+                "船只、背负补给、向导与留下接应的人都支持了考察，他们的劳动也是故事的一部分。"
+              ]
+            ]
+          },
+          {
+            "recap": "四位探险者一个接一个地走过悬空的树干，踏上了那片隐秘的土地。",
+            "questions": [
+              [
+                "罗克斯顿为什么要求先检查再过桥？",
+                "发现的兴奋会让人忽略什么？",
+                "前方情况不明，贸然让全队过去可能同时陷入危险；观察与准备需要时间。"
+              ]
+            ]
+          },
+          {
+            "recap": "探险者们还有补给，但此后的每一次新发现，都伴随着另一个问题：他们怎样才能回家？",
+            "questions": [
+              [
+                "树桥坠落后，任务发生了什么变化？",
+                "比较出发目标和眼前需要。",
+                "他们既要探索，也必须寻找归路；赞博的接应变得更关键。"
+              ]
+            ]
+          },
+          {
+            "recap": "马龙记录眼前所见时，几乎握不稳手中的铅笔。",
+            "questions": [
+              [
+                "看到活的动物后，脚印还有用吗？",
+                "脚印和直接观察各提供什么？",
+                "两者能相互补充；记录体形、行为与足迹，才有机会让别人检验发现。"
+              ]
+            ]
+          },
+          {
+            "recap": "回到营地后，他们用树枝筑起坚固的围障，可天黑后，围障外的声音仍没有停下。",
+            "questions": [
+              [
+                "翼龙攻击后，应该怎样理解接近动物的行为？",
+                "从动物巢穴的角度想想。",
+                "探险者闯入巢区会引发防卫；好奇并不意味着可以任意接近或干扰。"
+              ]
+            ]
+          },
+          {
+            "recap": "地图不断完善，他们对什么最重要的看法，却越来越不一致。",
+            "questions": [
+              [
+                "地图能解决所有问题吗？",
+                "地图画出了什么，又没有画出什么？",
+                "它有助于理解位置，却不能直接解释隐蔽生物、危险或队友之间的分歧。"
+              ]
+            ]
+          },
+          {
+            "recap": "然而回到营地时，他发现围障已被破坏，同伴全都不见了，物品散落一地。",
+            "questions": [
+              [
+                "马龙独自夜行的决定有什么代价？",
+                "把发现机会与失去支持放在一起。",
+                "他获得观察机会，却遇险且难以得到帮助；勇气需要判断和沟通。"
+              ]
+            ]
+          },
+          {
+            "recap": "这一次，马龙的勇气有了一个比赢得新闻故事更明确的目标。",
+            "questions": [
+              [
+                "营救同伴与追求新闻有什么不同？",
+                "关注行动会帮助谁。",
+                "此时的冒险直接关系朋友的生命，不再只是个人名声与发现。"
+              ]
+            ]
+          },
+          {
+            "recap": "探险者们找到了盟友，但他们的发现也已卷入一些事件，即使他们离开，影响仍会延续到别人的生活中。",
+            "questions": [
+              [
+                "找到盟友是否意味着所有行动都值得赞同？",
+                "想想战斗影响了谁。",
+                "互助值得理解，但战斗带来损失，外来者的介入也改变当地生活，可以继续讨论其他选择。"
+              ]
+            ]
+          },
+          {
+            "recap": "他们需要一条确实存在的路，而不只是一个希望能够成功的巧妙计划。",
+            "questions": [
+              [
+                "气球失败说明聪明想法没有用吗？",
+                "区分设想与试验结果。",
+                "设想能开启尝试，但必须接受检验并调整；愿望不能代替能实际使用的办法。"
+              ]
+            ]
+          },
+          {
+            "recap": "那不是火，而是月光穿过岩壁上的洞口；洞口外有路可以下去，回到赞博身边。",
+            "questions": [
+              [
+                "马龙为什么能在死路里找到新的线索？",
+                "回想他们何时点亮火把。",
+                "他重新比较图示与经过，发现漏掉的岔路；回顾过程有时比继续向前更有效。"
+              ]
+            ]
+          },
+          {
+            "recap": "伦敦目睹了惊人一幕，探险者们那看似不可能的故事，再也不能被一笑置之。",
+            "questions": [
+              [
+                "带回活物作为证据会产生哪些新问题？",
+                "想想箱子、会场与动物的需要。",
+                "活物有力却难以控制，也涉及动物的生活条件和对周围人的影响，不能只看证明成功。"
+              ]
+            ]
+          },
+          {
+            "recap": "当罗克斯顿谈起下一次考察时，马龙愿意再次同行。",
+            "questions": [
+              [
+                "四个人带回来的收获一样吗？",
+                "除了宝石，也看经历与新的选择。",
+                "他们分享财物，但各自重视的研究、旅行和人生改变不同。"
+              ]
+            ]
+          },
+          {
+            "recap": "如果你的小队发现一处早已有其他生命生活的地方，你会作出哪些不同的选择？",
+            "questions": [
+              [
+                "怎样从小说出发学习真实知识？",
+                "选择一个能查证的问题。",
+                "例如查阅可靠古生物资料，比较禽龙形象，了解翼龙与恐龙的区别，并把证据和小说设定分开。"
+              ]
+            ]
+          }
+        ],
+        "after": [
+          [
+            "如果你加入队伍，会负责什么？",
+            "选一项技能，并举例说明它在哪次困难中有帮助。"
+          ],
+          [
+            "哪一次观察最能改变局面？",
+            "可比较脚印、地图、蓝色黏土与洞穴岔路。"
+          ],
+          [
+            "发现一处已有生命居住的地方，意味着什么责任？",
+            "讨论观察、干扰、取走样本与带回活物的不同后果。"
+          ]
+        ]
+      },
+      "narrations": {
+        "child": {
+          "src": "audio/lost-world-retold-child-99cce68041ed.mp3",
+          "voice": "en-US-AnaNeural",
+          "label": "美式童声 Ana",
+          "slowRate": 0.8
+        },
+        "teacher": {
+          "src": "audio/lost-world-retold-teacher-6ced04771530.mp3",
+          "voice": "en-US-JennyNeural",
+          "label": "美式女老师 Jenny",
+          "slowRate": 0.8
+        }
+      },
+      "narration": {
+        "src": "audio/lost-world-retold-child-99cce68041ed.mp3",
+        "voice": "en-US-AnaNeural",
+        "label": "美式童声 Ana",
+        "slowRate": 0.8
+      },
+      "wordMeanings": {
+        "challenger": "查林杰（教授的姓氏）",
+        "summerlee": "萨默利（教授的姓氏）",
+        "roxton": "罗克斯顿（旅行家的姓氏）",
+        "malone": "马龙（年轻记者的姓氏）",
+        "zambo": "赞博（接应队伍的同伴名字）",
+        "gomez": "戈麦斯（向导的名字）",
+        "maple": "梅普尔（画家Maple White名字的一部分）",
+        "white": "怀特（画家Maple White的姓氏）；白色的",
+        "party": "考察队；队伍",
+        "trunk": "树干",
+        "winged": "有翼的；长有翅膀的",
+        "claim": "说法；声称",
+        "proof": "证据；证明",
+        "evidence": "证据",
+        "fossils": "化石（复数）",
+        "bark": "树皮",
+        "fork": "岔路口；分岔处",
+        "pit": "深坑",
+        "reptiles": "爬行动物（复数）",
+        "pterodactyls": "翼龙（复数，原著所用的名称）",
+        "pterosaurs": "翼龙类（史前飞行爬行动物，不属于恐龙）",
+        "iguanodons": "禽龙（复数，一类植食性恐龙）",
+        "lord": "勋爵（贵族称号，Lord John Roxton）",
+        "john": "约翰（人名）",
+        "left": "离开；留下；左边的（随句意）",
+        "like": "像；喜欢（随句意）",
+        "hold": "握住；保持；容纳（随句意）",
+        "light": "轻的；光；点燃（随句意）",
+        "records": "记录；资料",
+        "fierce": "激烈的；凶猛的",
+        "balance": "平衡；力量格局"
+      }
     }
   ],
   "glossary": {
@@ -72748,7 +75541,76 @@
     "wire": "电线；金属丝",
     "workshop": "工场；作坊",
     "workshops": "工场；作坊（复数）",
-    "wreck": "失事；沉船；残骸"
+    "wreck": "失事；沉船；残骸",
+    "actually": "实际上",
+    "affect": "影响",
+    "allies": "盟友；相互帮助的同伴",
+    "artist": "画家；艺术家",
+    "artist's": "画家的",
+    "assignment": "任务；分派的工作",
+    "audience": "听众；观众",
+    "automatic": "自动的；未经思考的",
+    "behavior": "行为；习性",
+    "brother's": "兄弟的；哥哥的",
+    "canoes": "独木舟（复数）",
+    "captors": "俘获者；看守俘虏的人",
+    "challenger": "查林杰（教授的姓氏）",
+    "challenger's": "查林杰的",
+    "checking": "检查；核查",
+    "clue": "线索",
+    "comparing": "比较",
+    "conflicts": "冲突；矛盾（复数）",
+    "contained": "包含；装有",
+    "container": "容器；箱子",
+    "controlling": "控制；支配",
+    "cruelly": "残酷地",
+    "diamonds": "钻石（复数）",
+    "dismissed": "不予理会；驳回",
+    "editor": "编辑",
+    "edward": "爱德华（人名）",
+    "explorers": "探险者（复数）",
+    "falls": "落下；坠落（fall的第三人称单数）",
+    "footprints": "脚印；足迹（复数）",
+    "fossil": "化石",
+    "gomez": "戈麦斯（向导的名字）",
+    "helpers": "助手；援手（复数）",
+    "identified": "辨认出；认定",
+    "iguanodons": "禽龙（复数，一类植食性恐龙）",
+    "impress": "给……留下深刻印象",
+    "investigated": "调查；研究",
+    "liar": "说谎者；骗子",
+    "malone": "马龙（年轻记者的姓氏）",
+    "malone's": "马龙的",
+    "maple": "梅普尔（Maple White画家名字的一部分）；枫树",
+    "marsh": "沼泽；湿地",
+    "nervous": "紧张的；不安的",
+    "outsiders": "外来者（复数）",
+    "peaceful": "平静的；和平的",
+    "peoples": "不同民族；不同人群（复数）",
+    "pillar": "柱子；柱状岩石",
+    "plateau": "高原",
+    "prehistoric": "史前的",
+    "prejudices": "偏见（复数）",
+    "professors": "教授们",
+    "pterodactyls": "翼龙（复数，原著所用的名称）",
+    "pterosaurs": "翼龙类（史前飞行爬行动物，不属于恐龙）",
+    "quarrels": "争吵；争论（复数）",
+    "realized": "意识到；明白",
+    "rebuild": "重建",
+    "records": "记录；资料（复数）",
+    "reporters": "记者们",
+    "reptile": "爬行动物",
+    "roxton": "罗克斯顿（旅行家的姓氏）",
+    "scientist": "科学家",
+    "sketched": "画出草图；速写",
+    "summerlee": "萨默利（教授的姓氏）",
+    "toed": "有……趾的（three-toed：三趾的）",
+    "torches": "火把（复数）",
+    "trunk": "树干；象鼻；大箱子",
+    "volunteered": "自愿参加；主动提出",
+    "waterways": "水道；航道（复数）",
+    "wonder": "想知道；感到惊奇",
+    "zambo": "赞博（接应队伍的同伴名字）"
   },
   "archivedStories": [
     {
